@@ -817,8 +817,6 @@ http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/85591
 http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/789
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="E- M. LaLiga FHD" tvg-logo="http://discusfish.xyz:8080/images/53904d8010cf413b7cf7581641516a07.jpg" group-title="DEPORTES ESP",E- M. LaLiga FHD
 http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/205008
-#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden S23 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOxedwaJzdms2alAmIEHEnDeDzg.jpg" group-title="SERIES Infantiles",Naruto Shippuden S23 E01
-http://discusfish.xyz:8080/series/felix_timDISCtr/28032020chang/213035.
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="O- M. LaLiga FHD" tvg-logo="http://discusfish.xyz:8080/images/53904d8010cf413b7cf7581641516a07.jpg" group-title="DEPORTES ESP",O- M. LaLiga FHD
 http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/389
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="U- M. Laliga FHD" tvg-logo="http://discusfish.xyz:8080/images/53904d8010cf413b7cf7581641516a07.jpg" group-title="DEPORTES ESP",U- M. Laliga FHD
@@ -955,16 +953,12 @@ http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/81932
 http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/191736
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="PD- Dazn 1" tvg-logo="http://discusfish.xyz:8080/images/4aaa0bae0cb1b3fb6c468855331cff64.jpg" group-title="DAZN",PD- Dazn 1
 http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/191728
-#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden S09 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOxedwaJzdms2alAmIEHEnDeDzg.jpg" group-title="SERIES Infantiles",Naruto Shippuden S09 E03
-http://discusfish.xyz:8080/series/felix_timDISCtr/28032020chang/212786.
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="UD- Dazn 1 (Extra U)" tvg-logo="http://discusfish.xyz:8080/images/4aaa0bae0cb1b3fb6c468855331cff64.jpg" group-title="DAZN",UD- Dazn 1 (Extra U)
 http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/191732
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="G- Dazn 1 FHD" tvg-logo="http://discusfish.xyz:8080/images/4aaa0bae0cb1b3fb6c468855331cff64.jpg" group-title="DAZN",G- Dazn 1 FHD
 http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/88909
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="PD- Dazn 2" tvg-logo="https://www.pay-tv-portal.de/wp-content/uploads/dazn-2.jpg" group-title="DAZN",PD- Dazn 2
 http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/191729
-#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden S09 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOxedwaJzdms2alAmIEHEnDeDzg.jpg" group-title="SERIES Infantiles",Naruto Shippuden S09 E04
-http://discusfish.xyz:8080/series/felix_timDISCtr/28032020chang/212787.
 #EXTINF:-1 tvg-id="" tvg-name="UD- Dazn 2 (Extra U)" tvg-logo="https://www.pay-tv-portal.de/wp-content/uploads/dazn-2.jpg" group-title="DAZN",UD- Dazn 2 (Extra U)
 http://discusfish.xyz:8080/felix_timDISCtr/28032020chang/191733
 #EXTINF:-1 tvg-id="DAZN 2" tvg-name="GD- Dazn 2 (Extra G)" tvg-logo="http://discusfish.xyz:8080/images/debdd9fac1edc371aeef07032528ff08.jpg" group-title="DAZN",GD- Dazn 2 (Extra G)
