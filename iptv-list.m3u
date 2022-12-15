@@ -1,41 +1,17 @@
 #EXTM3U
 
-NF:-1 tvg-id="" tvg-name="InSports 1 ES [Live During Events Only]" tvg-logo="" group-title=""1ª RFEF"",InSports 1 ES [Live During Events Only]
+#EXTINF:-1 group-title="1 RFEF",InSports 1 ES [Live During Events Only]
 http://aabb.is:2095/zAz2dftx/czrYyDeu/96021
-#EXTINF:-1 tvg-id="" tvg-name="InSports 2 ES [Live During Events Only]" tvg-logo="" group-title=""1ª RFEF"",InSports 2 ES [Live During Events Only]
+#EXTINF:-1 group-title="1 RFEF",InSports 1 ES [Live During Events Only]
 http://aabb.is:2095/zAz2dftx/czrYyDeu/96022
-#EXTINF:-1 tvg-id="" tvg-name="InSports 3 ES [Live During Events Only]" tvg-logo="" group-title=""1ª RFEF"",InSports 3 ES [Live During Events Only]
+#EXTINF:-1 group-title="1 RFEF",InSports 1 ES [Live During Events Only]
 http://aabb.is:2095/zAz2dftx/czrYyDeu/96023
-#EXTINF:-1 tvg-id="" tvg-name="InSports 4 ES [Live During Events Only]" tvg-logo="" group-title=""1ª RFEF"",InSports 4 ES [Live During Events Only]
+#EXTINF:-1 group-title="1 RFEF",InSports 1 ES [Live During Events Only]
 http://aabb.is:2095/zAz2dftx/czrYyDeu/96024
-#EXTINF:-1 tvg-id="" tvg-name="InSports 5 ES [Live During Events Only]" tvg-logo="" group-title=""1ª RFEF"",InSports 5 ES [Live During Events Only]
+#EXTINF:-1 group-title="1 RFEF",InSports 1 ES [Live During Events Only]
 http://aabb.is:2095/zAz2dftx/czrYyDeu/96025
-#EXTINF:-1 tvg-id="" tvg-name="InSports 6 ES [Live During Events Only]" tvg-logo="" group-title=""1ª RFEF"",InSports 6 ES [Live During Events Only]
+#EXTINF:-1 group-title="1 RFEF",InSports 1 ES [Live During Events Only]
 http://aabb.is:2095/zAz2dftx/czrYyDeu/96026
-#EXTINF:-1 tvg-id="" tvg-name="Evento 1 HD ES [Live During Events Only]" tvg-logo="" group-title=""1ª RFEF"",Evento 1 HD ES [Live During Events Only]
-http://aabb.is:2095/zAz2dftx/czrYyDeu/96027
-#EXTINF:-1 tvg-id="" tvg-name="Evento 2 HD ES [Live During Events Only]" tvg-logo="" group-title=""1ª RFEF"",Evento 2 HD ES [Live During Events Only]
-http://aabb.is:2095/zAz2dftx/czrYyDeu/96028
-#EXTINF:-1 tvg-id="" tvg-name="Evento 3 HD ES [Live During Events Only]" tvg-logo="" group-title=""1ª RFEF"",Evento 3 HD ES [Live During Events Only]
-http://aabb.is:2095/zAz2dftx/czrYyDeu/96029
-#EXTINF:-1 tvg-id="" tvg-name="Evento 4 HD ES [Live During Events Only]" tvg-logo="" group-title=""1ª RFEF"",Evento 4 HD ES [Live During Events Only]
-http://aabb.is:2095/zAz2dftx/czrYyDeu/96030
-#EXTINF:-1 tvg-id="" tvg-name="Evento 5 HD ES [Live During Events Only]" tvg-logo="" group-title=""1ª RFEF"",Evento 5 HD ES [Live During Events Only]
-http://aabb.is:2095/zAz2dftx/czrYyDeu/96031
-#EXTINF:-1 tvg-id="" tvg-name="Evento 6 HD ES [Live During Events Only]" tvg-logo="" group-title=""1ª RFEF"",Evento 6 HD ES [Live During Events Only]
-http://aabb.is:2095/zAz2dftx/czrYyDeu/96032
-#EXTINF:-1 tvg-id="" tvg-name="Evento 7 HD ES [Live During Events Only]" tvg-logo="" group-title=""1ª RFEF"",Evento 7 HD ES [Live During Events Only]
-http://aabb.is:2095/zAz2dftx/czrYyDeu/96033
-#EXTINF:-1 tvg-id="" tvg-name="Evento 8 HD ES [Live During Events Only]" tvg-logo="" group-title=""1ª RFEF"",Evento 8 HD ES [Live During Events Only]
-http://aabb.is:2095/zAz2dftx/czrYyDeu/96034
-#EXTINF:-1 tvg-id="" tvg-name="Evento 9 HD ES [Live During Events Only]" tvg-logo="" group-title=""1ª RFEF"",Evento 9 HD ES [Live During Events Only]
-http://aabb.is:2095/zAz2dftx/czrYyDeu/96035
-#EXTINF:-1 tvg-id="" tvg-name="Evento 10 HD ES [Live During Events Only]" tvg-logo="" group-title=""1ª RFEF"",Evento 10 HD ES [Live During Events Only]
-http://aabb.is:2095/zAz2dftx/czrYyDeu/96036
-#EXTINF:-1 tvg-id="" tvg-name="Evento 11 HD ES [Live During Events Only]" tvg-logo="" group-title=""1ª RFEF"",Evento 11 HD ES [Live During Events Only]
-http://aabb.is:2095/zAz2dftx/czrYyDeu/96037
-#EXTINF:-1 tvg-id="" tvg-name="Evento 12 HD ES [Live During Events Only]" tvg-logo="" group-title=""1ª RFEF"",Evento 12 HD ES [Live During Events Only]
-http://aabb.is:2095/zAz2dftx/czrYyDeu/96038
 
 #EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL
 ACESTREAM://16150dafbbd4515a8b539a8e21e0f083f86416da
