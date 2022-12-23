@@ -1,45 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="1 RFEF",InSports 1 ES [Live During Events Only]
-http://aabb.is:2095/zAz2dftx/czrYyDeu/96021
-#EXTINF:-1 group-title="1 RFEF",InSports 1 ES [Live During Events Only]
-http://aabb.is:2095/zAz2dftx/czrYyDeu/96022
-#EXTINF:-1 group-title="1 RFEF",InSports 1 ES [Live During Events Only]
-http://aabb.is:2095/zAz2dftx/czrYyDeu/96023
-#EXTINF:-1 group-title="1 RFEF",InSports 1 ES [Live During Events Only]
-http://aabb.is:2095/zAz2dftx/czrYyDeu/96024
-#EXTINF:-1 group-title="1 RFEF",InSports 1 ES [Live During Events Only]
-http://aabb.is:2095/zAz2dftx/czrYyDeu/96025
-#EXTINF:-1 group-title="1 RFEF",InSports 1 ES [Live During Events Only]
-http://aabb.is:2095/zAz2dftx/czrYyDeu/96026
-
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL
-ACESTREAM://16150dafbbd4515a8b539a8e21e0f083f86416da
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 1080
-ACESTREAM://3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 1080 opc1
-ACESTREAM://f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 1080 opc2
-ACESTREAM://4e7b21206691ecdb489d4b1334944236f065e762
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 720
-ACESTREAM://ea800270d91039624e821e2e9394d0bee4ea0e35
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 720 opc1
-ACESTREAM://bc125e7047cc7a83f58ae31c213899065d88794c
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 720 opc2
-ACESTREAM://e80b91500a5679965a0cbab90f5eaf6cba6da2f3
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 720 opc3
-ACESTREAM://16150dafbbd4515a8b539a8e21e0f083f86416da
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 2 1080
-ACESTREAM://2bb8c4b59ab38574ecd271d60a0e2c48adb770d9
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 2 1080 opc1
-ACESTREAM://b67faee973e5a969a0adb02d476b78ef8cec4f3e
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 2 720
-ACESTREAM://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL 2 720
-ACESTREAM://2aab272d05089ce881538a1b3288d391de152d53
-#EXTINF:-1 group-title="MUNDIAL 2022-ACE",GOL MUNDIAL MULTIAUDIO
-ACESTREAM://045718bad2ddb4f03b1a420754a97a23ad8b493b
-
 #EXTINF:-1 group-title="LIGA-ACE",Dazn Liga 1080 MultiAudio
 ACESTREAM://fee5612d57824b6e8db780f210ec54093056dc3a
 #EXTINF:-1 group-title="LIGA-ACE",Dazn Liga 1080 Multi opc-1
@@ -367,26 +327,20 @@ ACESTREAM://54cbfaf8ad446499aae28ae50b512d95c263f811
 #EXTINF:-1 group-title="DEPORTES OTROS IDIOMAS-ACE",[PL] CANAL+ SPORT 1 HD
 ACESTREAM://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 
+#EXTINF:-1 group-title="1 RFEF",InSports 1 ES [Live During Events Only]
+http://aabb.is:2095/zAz2dftx/czrYyDeu/96021
+#EXTINF:-1 group-title="1 RFEF",InSports 1 ES [Live During Events Only]
+http://aabb.is:2095/zAz2dftx/czrYyDeu/96022
+#EXTINF:-1 group-title="1 RFEF",InSports 1 ES [Live During Events Only]
+http://aabb.is:2095/zAz2dftx/czrYyDeu/96023
+#EXTINF:-1 group-title="1 RFEF",InSports 1 ES [Live During Events Only]
+http://aabb.is:2095/zAz2dftx/czrYyDeu/96024
+#EXTINF:-1 group-title="1 RFEF",InSports 1 ES [Live During Events Only]
+http://aabb.is:2095/zAz2dftx/czrYyDeu/96025
+#EXTINF:-1 group-title="1 RFEF",InSports 1 ES [Live During Events Only]
+http://aabb.is:2095/zAz2dftx/czrYyDeu/96026
 
 
-#EXTINF:-1 tvg-name="BEIN SPORTS ESPÑOL" group-title="EVENTOS DEPORTES",BEIN SPORTS ESPÑOL
-http://f1.4jbpp.top:80/live/1214/1197/2087.ts
-#EXTINF:-1 tvg-name="GOL MUNDIAL SD" group-title="EVENTOS DEPORTES",GOL MUNDIAL SD
-http://f1.4jbpp.top:80/live/1214/1197/2076.ts
-#EXTINF:-1 tvg-name="GOL MUNDIAL HD" group-title="EVENTOS DEPORTES",GOL MUNDIAL HD
-http://f1.4jbpp.top:80/live/1214/1197/2077.ts
-#EXTINF:-1 tvg-name="GOL MUNDIAL FHD" group-title="EVENTOS DEPORTES",GOL MUNDIAL FHD
-http://f1.4jbpp.top:80/live/1214/1197/2078.ts
-#EXTINF:-1 tvg-name="ES: Gol Mundial 4K" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png" group-title="EVENTOS DEPORTES",ES: Gol Mundial 4K
-http://f1.4jbpp.top:80/live/1214/1197/2083.ts
-#EXTINF:-1 tvg-name="ES| Gol Mundial 2 SD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png" group-title="EVENTOS DEPORTES",ES| Gol Mundial 2 SD
-http://f1.4jbpp.top:80/live/1214/1197/2082.ts
-#EXTINF:-1 tvg-name="ES| Gol Mundial 2 HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png" group-title="EVENTOS DEPORTES",ES| Gol Mundial 2 HD
-http://f1.4jbpp.top:80/live/1214/1197/2081.ts
-#EXTINF:-1 tvg-name="ES| Gol Mundial 2 HD FHD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png" group-title="EVENTOS DEPORTES",ES| Gol Mundial 2 HD FHD
-http://f1.4jbpp.top:80/live/1214/1197/2080.ts
-#EXTINF:-1 tvg-name="ES| Gol Mundial 2 HD (1080P)" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/png/gol-mundial-d.png" group-title="EVENTOS DEPORTES",ES| Gol Mundial 2 HD (1080P)
-http://f1.4jbpp.top:80/live/1214/1197/2085.ts
 #EXTINF:-1 tvg-name="DAZN F1 SD" group-title="EVENTOS DEPORTES",DAZN F1 SD
 http://f1.4jbpp.top:80/live/1214/1197/226.ts
 #EXTINF:-1 tvg-name="DAZN F1 HD" group-title="EVENTOS DEPORTES",DAZN F1 HD
