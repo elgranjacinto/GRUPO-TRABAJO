@@ -1,48 +1,30 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="EVENTOS-ACE 05-06/01",0501-01:00 NBA Philadelphia-Indiana M. Deportes
-acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
-#EXTINF:-1 group-title="EVENTOS-ACE 05-06/01",0501-16:00 COPA DEL REY Ibiza Islas Pit-Real Betis M.L. Campeones
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 group-title="EVENTOS-ACE 05-06/01",0501-14:00 COPA DEL REY Nàstic-Osasuna M.L. Campeones 3
-acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
-#EXTINF:-1 group-title="EVENTOS-ACE 05-06/01",0501-18:00 Balonmano España-Rumanía Teledeporte
-ACESTREAM://5a272a468eaf25feb032e2c5d377c6276b2299c7
-#EXTINF:-1 group-title="EVENTOS-ACE 05-06/01",0501-19:00 EUROLIGA Alba Berlín-Baskonia DAZN 3
-acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
-#EXTINF:-1 group-title="EVENTOS-ACE 05-06/01",0501-20:30 EUROLIGA Barcelona-Virtus Bolonia DAZN 1
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 group-title="EVENTOS-ACE 05-06/01",0501-21:00 PREMIER LEAGUE Chelsea-Manchester City DAZN 2
-acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
-#EXTINF:-1 group-title="EVENTOS-ACE 05-06/01",0501-21:00 COPA DEL REY Eldense-Athletic Club M.L. Campeones
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 group-title="EVENTOS-ACE 05-06/01",0501-22:00 DAKAR Ha'il-Ha'il 373.0 km Teledeporte
-ACESTREAM://5a272a468eaf25feb032e2c5d377c6276b2299c7
 
-#EXTINF:-1 group-title="EVENTOS-ACE 05-06/01",0601-01:30 NBA Dallas Mavericks-Boston Celtics # Vamos
+#EXTINF:-1 group-title="EVENTOS-ACE 06/01",0601-01:30 NBA Dallas Mavericks-Boston Celtics # Vamos
 ACESTREAM://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="EVENTOS-ACE 05-06/01",0601-12:30 LIGA ENDESA UCAM Murcia-Lenovo Tenerife M. Deportes
+#EXTINF:-1 group-title="EVENTOS-ACE 06/01",0601-12:30 LIGA ENDESA UCAM Murcia-Lenovo Tenerife M. Deportes
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
-#EXTINF:-1 group-title="EVENTOS-ACE 05-06/01",0601-16:15 LALIGA SMARTBANK Ponferradina-Villarreal B
+#EXTINF:-1 group-title="EVENTOS-ACE 06/01",0601-16:15 LALIGA SMARTBANK Ponferradina-Villarreal B
 acestream://7791ba828c0226d8f54cef1611889d29fb333247
-#EXTINF:-1 group-title="EVENTOS-ACE 05-06/01",0601-18:30 Elche-Celta de Vigo M.Liga
+#EXTINF:-1 group-title="EVENTOS-ACE 06/01",0601-18:30 Elche-Celta de Vigo M.Liga
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
-#EXTINF:-1 group-title="EVENTOS-ACE 05-06/01",0601-18:30 LALIGA SMARTBANK Sporting de Gijón-Levante # Vamos
+#EXTINF:-1 group-title="EVENTOS-ACE 06/01",0601-18:30 LALIGA SMARTBANK Sporting de Gijón-Levante # Vamos
 ACESTREAM://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="EVENTOS-ACE 05-06/01",0601-19:00 Balonmano España-Barein Teledeporte
+#EXTINF:-1 group-title="EVENTOS-ACE 06/01",0601-19:00 Balonmano España-Barein Teledeporte
 ACESTREAM://5a272a468eaf25feb032e2c5d377c6276b2299c7
-#EXTINF:-1 group-title="EVENTOS-ACE 05-06/01",0601-20:30 EUROLIGA Valencia Basket-Estrella RojaCity DAZN 2
+#EXTINF:-1 group-title="EVENTOS-ACE 06/01",0601-20:30 EUROLIGA Valencia Basket-Estrella RojaCity DAZN 2
 acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
-#EXTINF:-1 group-title="EVENTOS-ACE 05-06/01",0601-20:45 EUROLIGA Real Madrid-Maccabi Tel Aviv DAZN 1
+#EXTINF:-1 group-title="EVENTOS-ACE 06/01",0601-20:45 EUROLIGA Real Madrid-Maccabi Tel Aviv DAZN 1
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 group-title="EVENTOS-ACE 05-06/01",0601-21:00 FA CUP Manchester Utd-Everton DAZN 3
+#EXTINF:-1 group-title="EVENTOS-ACE 06/01",0601-21:00 FA CUP Manchester Utd-Everton DAZN 3
 acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
-#EXTINF:-1 group-title="EVENTOS-ACE 05-06/01",0601-21:00 Valencia-Cádiz Dazn liga
+#EXTINF:-1 group-title="EVENTOS-ACE 06/01",0601-21:00 Valencia-Cádiz Dazn liga
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
-#EXTINF:-1 group-title="EVENTOS-ACE 05-06/01",0601-21:00 LALIGA SMARTBANK Leganés-Lugo
+#EXTINF:-1 group-title="EVENTOS-ACE 06/01",0601-21:00 LALIGA SMARTBANK Leganés-Lugo
 acestream://7791ba828c0226d8f54cef1611889d29fb333247
-#EXTINF:-1 group-title="EVENTOS-ACE 05-06/01",0601-22:00 DAKAR Ha'il-Ad Dawadimi 467.0 km Teledeporte
+#EXTINF:-1 group-title="EVENTOS-ACE 06/01",0601-22:00 DAKAR Ha'il-Ad Dawadimi 467.0 km Teledeporte
 ACESTREAM://5a272a468eaf25feb032e2c5d377c6276b2299c7
 
 #EXTINF:-1 group-title="EVENTOS-ACE 07/01",01:00 Denver Nuggets-Cleveland Cavaliers M. Deportes
