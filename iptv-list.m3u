@@ -1,55 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="EVENTOS-ACE 08/01",NBA 00:00 San Antonio Spurs-Boston Celtics # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="EVENTOS-ACE 08/01",12:00 LIGA F Athletic Club-Levante Las Planas DAZN
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 group-title="EVENTOS-ACE 08/01",12:00 LIGA F UDG Tenerife-Atlético de Madrid GOL TV
-acestream://d4627f7b6b237a8556819445b3283d866caceca2
-#EXTINF:-1 group-title="EVENTOS-ACE 08/01",12:30 LIGA ENDESA Real Madrid-Gran Canaria Movistar Deportes
-acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
-#EXTINF:-1 group-title="EVENTOS-ACE 08/01",12:30 LIGA F Real Betis-Sporting Huelva DAZN
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 group-title="EVENTOS-ACE 08/01",14:00 LALIGA SANTANDER Almería-Real Sociedad DAZN LaLiga
-acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
-#EXTINF:-1 group-title="EVENTOS-ACE 08/01",14:00 LALIGA SMARTBANK Granada-Cartagena LaLiga SmartBank TV
-acestream://7791ba828c0226d8f54cef1611889d29fb333247
-#EXTINF:-1 group-title="EVENTOS-ACE 08/01",16:00 PREMIERSHIP Harlequins-Sale Sharks Movistar Deportes 2
-acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
-#EXTINF:-1 group-title="EVENTOS-ACE 08/01",16:15 LALIGA SANTANDER Rayo Vallecano-Real Betis DAZN LaLiga
-acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
-#EXTINF:-1 group-title="EVENTOS-ACE 08/01",16:15 LALIGA SMARTBANK Real Zaragoza-Mirandés LaLiga SmartBank TV
-acestream://7791ba828c0226d8f54cef1611889d29fb333247
-#EXTINF:-1 group-title="EVENTOS-ACE 08/01",17:00 LIGA ENDESA Manresa-Basket Zaragoza Movistar Deportes
-acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
-#EXTINF:-1 group-title="EVENTOS-ACE 08/01",17:00 LIGA FEMENINA Bembibre-Ciudad de La Laguna Teledeporte
-acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
-#EXTINF:-1 group-title="EVENTOS-ACE 08/01",17:30 FA CUP Manchester City-Chelsea DAZN
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 group-title="EVENTOS-ACE 08/01",18:00 SERIE A Sampdoria-Nápoles Movistar L. Campeones
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 group-title="EVENTOS-ACE 08/01",18:30 LIGA ENDESA Baskonia-Valencia Basket # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="EVENTOS-ACE 08/01",18:30 LALIGA SANTANDER Sevilla-Getafe Movistar LaLiga
-acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
-#EXTINF:-1 group-title="EVENTOS-ACE 08/01",18:30 LALIGA SMARTBANK Las Palmas-Racing LaLiga SmartBank TV
-acestream://7791ba828c0226d8f54cef1611889d29fb333247
-#EXTINF:-1 group-title="EVENTOS-ACE 08/01",20:00 LIGA ENDESA Bilbao Basket-UCAM Murcia Movistar Deportes 4
-acestream://08db089084ddbaceba7c239817407bf99708b9ad
-#EXTINF:-1 group-title="EVENTOS-ACE 08/01",20:00 LIGA ENDESA Lenovo Tenerife-Unicaja Movistar Deportes 2
-acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
-#EXTINF:-1 group-title="EVENTOS-ACE 08/01",20:45 SERIE A AC Milan-Roma # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="EVENTOS-ACE 08/01",21:00 LALIGA SANTANDER Atlético de Madrid-Barcelona DAZN LaLiga
-acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
-#EXTINF:-1 group-title="EVENTOS-ACE 08/01",21:00 LALIGA SMARTBANK Eibar-UD Ibiza LaLiga SmartBank TV
-acestream://7791ba828c0226d8f54cef1611889d29fb333247
-#EXTINF:-1 group-title="EVENTOS-ACE 08/01",NBA 21:30 Toronto Raptors-Portland Trail Blazers Movistar Deportes
-acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
-#EXTINF:-1 group-title="EVENTOS-ACE 08/01",22:00 DAKAR Ad Dawadimi-Riyadh, 398.0 km Teledeporte
-acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
-
 #EXTINF:-1 group-title="EVENTOS-ACE 09/01",02:20 NFL Green Bay Packers-Detroit Lions # Vamos
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 #EXTINF:-1 group-title="EVENTOS-ACE 09/01",20:45 SERIE A Bolonia-Atalanta Movistar L. Campeones
