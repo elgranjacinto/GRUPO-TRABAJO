@@ -1,17 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="EVENTOS-ACE 09/01",02:20 NFL Green Bay Packers-Detroit Lions # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="EVENTOS-ACE 09/01",20:45 SERIE A Bolonia-Atalanta Movistar L. Campeones
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 group-title="EVENTOS-ACE 09/01",21:00 FA CUP Oxford Utd-Arsenal DAZN 1
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 group-title="EVENTOS-ACE 09/01",21:00 Athletic Club-Osasuna GOL PLAY
-acestream://d4627f7b6b237a8556819445b3283d866caceca2
-#EXTINF:-1 group-title="EVENTOS-ACE 09/01",21:00 Huesca-Albacete LaLiga SmartBank TV
-acestream://7791ba828c0226d8f54cef1611889d29fb333247
-
 #EXTINF:-1 group-title="EVENTOS-ACE 10/01",01:00 NBA Washington Wizards-New Orleans Pelicans # Vamos
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 #EXTINF:-1 group-title="EVENTOS-ACE 10/01",19:00 EUROLIGA Estrella Roja-Real Madrid DAZN 1
