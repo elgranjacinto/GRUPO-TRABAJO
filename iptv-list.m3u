@@ -1,19 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="EVENTOS-ACE 13/01",01:00 NBA Philadelphia 76ers-Oklahoma City Thunder Movistar Deportes
-acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
-#EXTINF:-1 group-title="EVENTOS-ACE 13/01",20:30 EUROLIGA Barcelona-Anadolu Efes DAZN
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 group-title="EVENTOS-ACE 13/01",20:45 SERIE A Nápoles-Juventus Movistar L. Campeones
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 group-title="EVENTOS-ACE 13/01",21:00 Celta de Vigo-Villarreal DAZN LaLiga
-acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
-#EXTINF:-1 group-title="EVENTOS-ACE 13/01",21:00 Real Oviedo-Alavés # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="EVENTOS-ACE 13/01",22:00 DAKAR Empty Quarter-Shaybah 185.0 km Teledeporte
-acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
-
 #EXTINF:-1 group-title="EVENTOS-ACE 14/01",01:00 NBA Indiana Pacers-Atlanta Hawks # Vamos
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 #EXTINF:-1 group-title="EVENTOS-ACE 14/01",13:30 PREMIER LEAGUE Manchester Utd-Manchester City DAZN
@@ -42,12 +29,6 @@ acestream://cf6249379184d88a61f9db617341c6b6e6abb342
 acestream://ecf2096f9f612a70638d644fb621472a3ddaeb20
 #EXTINF:-1 group-title="EVENTOS-ACE 14/01",19:00 NBA Miami Heat-Milwaukee Bucks Movistar Deportes
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
-#EXTINF:-1 group-title="EVENTOS-ACE 14/01",20:00 FINAL SUPERCOPA R. Madrid-Barcelona
-acestream://8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
-#EXTINF:-1 group-title="EVENTOS-ACE 14/01",20:00 FINAL SUPERCOPA R. Madrid-Barcelona
-acestream://c1a176e0165da407199bb9f8fb3acc2aaab2d3d1
-#EXTINF:-1 group-title="EVENTOS-ACE 14/01",20:00 FINAL SUPERCOPA R. Madrid-Barcelona
-acestream://8c9b1644fd4766c62935822f5c50a0f044125e1b
 #EXTINF:-1 group-title="EVENTOS-ACE 14/01",20:30 Balonmano España-Chile Teledeporte
 acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
 
@@ -79,6 +60,12 @@ acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
 #EXTINF:-1 group-title="EVENTOS-ACE 15/01",17:30 Tottenham-Arsenal DAZN 1
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+#EXTINF:-1 group-title="EVENTOS-ACE 15/01",20:00 FINAL SUPERCOPA R. Madrid-Barcelona
+acestream://8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
+#EXTINF:-1 group-title="EVENTOS-ACE 15/01",20:00 FINAL SUPERCOPA R. Madrid-Barcelona
+acestream://c1a176e0165da407199bb9f8fb3acc2aaab2d3d1
+#EXTINF:-1 group-title="EVENTOS-ACE 15/01",20:00 FINAL SUPERCOPA R. Madrid-Barcelona
+acestream://8c9b1644fd4766c62935822f5c50a0f044125e1b
 #EXTINF:-1 group-title="EVENTOS-ACE 15/01",20:45 Roma-Fiorentina Movistar L. Campeones
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 group-title="EVENTOS-ACE 15/01",21:30 Chicago Bulls-Golden State Warriors Movistar Deportes
