@@ -367,6 +367,17 @@ acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
 
 
 
+#EXTINF:-1 tvg-name="InSport 1 ES [Live During Events Only]" group-title="1ª RFEF",InSport 1 ES [Live During Events Only]
+http://lol.bz:2095/z65MXkeb/abQBJjg/96021
+#EXTINF:-1 tvg-name="InSport 2 ES [Live During Events Only]" group-title="1ª RFEF",InSport 2 ES [Live During Events Only]
+http://lol.bz:2095/z65MXkeb/abQBJjg/96022
+#EXTINF:-1 tvg-name="InSport 3 ES [Live During Events Only]" group-title="1ª RFEF",InSport 3 ES [Live During Events Only]
+http://lol.bz:2095/z65MXkeb/abQBJjg/96023
+#EXTINF:-1 tvg-name="InSport 4 ES [Live During Events Only]" group-title="1ª RFEF",InSport 4 ES [Live During Events Only]
+http://lol.bz:2095/z65MXkeb/abQBJjg/96024
+#EXTINF:-1 tvg-name="InSport 5 ES [Live During Events Only]" group-title="1ª RFEF",InSport 5 ES [Live During Events Only]
+http://lol.bz:2095/z65MXkeb/abQBJjg/96025
+
 #EXTINF:-1 tvg-name="Insport 1 ES [Live During Events Only]" group-title="Futbol RFEF",Insport 1 ES [Live During Events Only]
 http://lol.bz:2095/z65MXkeb/abQBJjg/96021
 #EXTINF:-1 tvg-name="Insport 2 ES [Live During Events Only]" group-title="Futbol RFEF",Insport 2 ES [Live During Events Only]
@@ -403,44 +414,6 @@ http://lol.bz:2095/z65MXkeb/abQBJjg/96036
 http://lol.bz:2095/z65MXkeb/abQBJjg/96037
 #EXTINF:-1 tvg-name="Evento 12 HD ES [Live During Events Only]" group-title="Futbol RFEF",Evento 12 HD ES [Live During Events Only]
 http://lol.bz:2095/z65MXkeb/abQBJjg/96038
-
-#EXTINF:-1 tvg-id="" tvg-name="INSPORTS RFEF A" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS RFEF A
-http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/85236
-#EXTINF:-1 tvg-id="" tvg-name="INSPORTS RFEF B" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS RFEF B
-http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/85237
-#EXTINF:-1 tvg-id="" tvg-name="INSPORTS RFEF C" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS RFEF C
-http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/85238
-#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 1 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 1 RFEF
-http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95021
-#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 2 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 2 RFEF
-http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95022
-#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 3 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 3 RFEF
-http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95023
-#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 4 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 4 RFEF
-http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95024
-#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 5 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 5 RFEF
-http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95025
-#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 6 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 6 RFEF
-http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95026
-#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 7 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 7 RFEF
-http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95027
-#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 8 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 8 RFEF
-http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95028
-#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 9 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 9 RFEF
-http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95029
-#EXTINF:-1 tvg-id="" tvg-name="INSPORTS 10 RFEF" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="LIGA RFEF",INSPORTS 10 RFEF
-http://robafone.win:8080/7C7Wzh8x6B/8iaR5q7kI0/95030
-
-#EXTINF:-1 tvg-name="InSport 1 ES [Live During Events Only]" group-title="1ª RFEF",InSport 1 ES [Live During Events Only]
-http://lol.bz:2095/z65MXkeb/abQBJjg/96021
-#EXTINF:-1 tvg-name="InSport 2 ES [Live During Events Only]" group-title="1ª RFEF",InSport 2 ES [Live During Events Only]
-http://lol.bz:2095/z65MXkeb/abQBJjg/96022
-#EXTINF:-1 tvg-name="InSport 3 ES [Live During Events Only]" group-title="1ª RFEF",InSport 3 ES [Live During Events Only]
-http://lol.bz:2095/z65MXkeb/abQBJjg/96023
-#EXTINF:-1 tvg-name="InSport 4 ES [Live During Events Only]" group-title="1ª RFEF",InSport 4 ES [Live During Events Only]
-http://lol.bz:2095/z65MXkeb/abQBJjg/96024
-#EXTINF:-1 tvg-name="InSport 5 ES [Live During Events Only]" group-title="1ª RFEF",InSport 5 ES [Live During Events Only]
-http://lol.bz:2095/z65MXkeb/abQBJjg/96025
 
 #EXTINF:-1 tvg-name="DAZN F1 SD" group-title="EVENTOS DEPORTES",DAZN F1 SD
 http://f1.4jbpp.top:80/live/1214/1197/226.ts
