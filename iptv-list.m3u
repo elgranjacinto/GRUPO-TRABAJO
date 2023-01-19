@@ -1,32 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="EVENTOS-ACE 17/01",00:00 Memphis Grizzlies-Phoenix Suns # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="EVENTOS-ACE 17/01",01:00 Muguruza-Mertens Eurosport 2
-acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
-#EXTINF:-1 group-title="EVENTOS-ACE 17/01",02:15 NFL Tampa Bay Buccaneers-Dallas Cowboys Movistar Deportes
-acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
-#EXTINF:-1 group-title="EVENTOS-ACE 17/01",10:30 Carballés Baena-Djokovic Eurosport 1
-acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
-#EXTINF:-1 group-title="EVENTOS-ACE 17/01",19:00 Real Sociedad-Mallorca Movistar L. Campeones
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 group-title="EVENTOS-ACE 17/01",21:00 Alavés-Sevilla Movistar L. Camp. 3
-acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
-#EXTINF:-1 group-title="EVENTOS-ACE 17/01",21:00 Nápoles-Cremonese DAZN
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-
-#EXTINF:-1 group-title="EVENTOS-ACE 18/01",02:00 San Antonio Spurs-Brooklyn Nets Movistar Deportes
-acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
-#EXTINF:-1 group-title="EVENTOS-ACE 18/01",19:00 Sporting de Gijón-Valencia Movistar L. Camp. 4
-acestream://1a1b528109edead1904e3dbff575637a452dd1fa
-#EXTINF:-1 group-title="EVENTOS-ACE 18/01",20:00 Athletic Club-Espanyol Movistar L. Camp. 3
-acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
-#EXTINF:-1 group-title="EVENTOS-ACE 18/01",21:00 Real Betis-Osasuna Movistar L. Campeones
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 group-title="EVENTOS-ACE 18/01",21:00 Levante-Atlético de Madrid La 1
-acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
-
 #EXTINF:-1 group-title="EVENTOS-ACE 19/01",01:30 Dallas Mavericks-Atlanta Hawks Movistar Deportes
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
 #EXTINF:-1 group-title="EVENTOS-ACE 19/01",20:00 AD Ceuta-Barcelona Movistar L. Campeones
