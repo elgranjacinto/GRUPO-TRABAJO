@@ -1,15 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="EVENTOS-ACE 19/01",01:30 Dallas Mavericks-Atlanta Hawks Movistar Deportes
-acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
-#EXTINF:-1 group-title="EVENTOS-ACE 19/01",20:00 AD Ceuta-Barcelona Movistar L. Campeones
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 group-title="EVENTOS-ACE 19/01",21:00 Villarreal-Real Madrid La 1
-acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
-#EXTINF:-1 group-title="EVENTOS-ACE 19/01",21:00 Detroit Pistons-Chicago Bulls # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-
 #EXTINF:-1 group-title="EVENTOS-ACE 20/01",20:00 Olympiacos-Real Madrid DAZN
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
 #EXTINF:-1 group-title="EVENTOS-ACE 20/01",20:30 RB Leipzig-Bayern Múnich Movistar L. Campeones
