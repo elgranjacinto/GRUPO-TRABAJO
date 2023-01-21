@@ -1,15 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="EVENTOS-ACE 20/01",20:00 Olympiacos-Real Madrid DAZN
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 group-title="EVENTOS-ACE 20/01",20:30 RB Leipzig-Bayern Múnich Movistar L. Campeones
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 group-title="EVENTOS-ACE 20/01",21:00 Mallorca-Celta de Vigo GOL PLAY
-acestream://d4627f7b6b237a8556819445b3283d866caceca2
-#EXTINF:-1 group-title="EVENTOS-ACE 20/01",21:00 Las Palmas-Mirandés # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-
 #EXTINF:-1 group-title="EVENTOS-ACE 21/01",01:30 Cleveland Cavaliers-Golden State Warriors Movistar Deportes
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
 #EXTINF:-1 group-title="EVENTOS-ACE 21/01",13:30 Liverpool-Chelsea DAZN
@@ -379,6 +370,1587 @@ http://lol.bz:2095/z65MXkeb/abQBJjg/96036
 http://lol.bz:2095/z65MXkeb/abQBJjg/96037
 #EXTINF:-1 tvg-name="Evento 12 HD ES [Live During Events Only]" group-title="Futbol RFEF",Evento 12 HD ES [Live During Events Only]
 http://lol.bz:2095/z65MXkeb/abQBJjg/96038
+
+#EXTINF:-1 tvg-name="INSPORT VIP A" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="◎TV • 1a RFEF y 2a RFEF",INSPORT VIP A
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16646
+#EXTINF:-1 tvg-name="INSPORT VIP B" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="◎TV • 1a RFEF y 2a RFEF",INSPORT VIP B
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16647
+#EXTINF:-1 tvg-name="INSPORT VIP C" tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="◎TV • 1a RFEF y 2a RFEF",INSPORT VIP C
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16648
+#EXTINF:-1 tvg-name="Insports 1 ZZ FHD (Solo Eventos)" tvg-logo="https://logo.aigooe.com/logo/spain/instat.png" group-title="◎TV • 1a RFEF y 2a RFEF",Insports 1 ZZ FHD (Solo Eventos)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16649
+#EXTINF:-1 tvg-name="Insports 2 ZZ FHD (Solo Eventos)" tvg-logo="https://logo.aigooe.com/logo/spain/instat.png" group-title="◎TV • 1a RFEF y 2a RFEF",Insports 2 ZZ FHD (Solo Eventos)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16650
+#EXTINF:-1 tvg-name="Insports 3 ZZ FHD (Solo Eventos)" tvg-logo="https://logo.aigooe.com/logo/spain/instat.png" group-title="◎TV • 1a RFEF y 2a RFEF",Insports 3 ZZ FHD (Solo Eventos)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16651
+#EXTINF:-1 tvg-name="Insports 4 ZZ FHD (Solo Eventos)" tvg-logo="https://logo.aigooe.com/logo/spain/instat.png" group-title="◎TV • 1a RFEF y 2a RFEF",Insports 4 ZZ FHD (Solo Eventos)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16652
+#EXTINF:-1 tvg-name="Insports 5 ZZ FHD (Solo Eventos)" tvg-logo="https://logo.aigooe.com/logo/spain/instat.png" group-title="◎TV • 1a RFEF y 2a RFEF",Insports 5 ZZ FHD (Solo Eventos)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16653
+#EXTINF:-1 tvg-name="Insports 6 ZZ FHD (Solo Eventos)" tvg-logo="https://logo.aigooe.com/logo/spain/instat.png" group-title="◎TV • 1a RFEF y 2a RFEF",Insports 6 ZZ FHD (Solo Eventos)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16654
+#EXTINF:-1 tvg-name="Insports 7 ZZ FHD (Solo Eventos)" tvg-logo="https://logo.aigooe.com/logo/spain/instat.png" group-title="◎TV • 1a RFEF y 2a RFEF",Insports 7 ZZ FHD (Solo Eventos)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16655
+#EXTINF:-1 tvg-name="Insports 8 ZZ FHD (Solo Eventos)" tvg-logo="https://logo.aigooe.com/logo/spain/instat.png" group-title="◎TV • 1a RFEF y 2a RFEF",Insports 8 ZZ FHD (Solo Eventos)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16656
+#EXTINF:-1 tvg-name="Insports 9 ZZ FHD (Solo Eventos)" tvg-logo="https://logo.aigooe.com/logo/spain/instat.png" group-title="◎TV • 1a RFEF y 2a RFEF",Insports 9 ZZ FHD (Solo Eventos)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16657
+#EXTINF:-1 tvg-name="Insports 10 ZZ FHD (Solo Eventos)" tvg-logo="https://logo.aigooe.com/logo/spain/instat.png" group-title="◎TV • 1a RFEF y 2a RFEF",Insports 10 ZZ FHD (Solo Eventos)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16658
+#EXTINF:-1 tvg-name="Insports 11 ZZ FHD (Solo Eventos)" tvg-logo="https://logo.aigooe.com/logo/spain/instat.png" group-title="◎TV • 1a RFEF y 2a RFEF",Insports 11 ZZ FHD (Solo Eventos)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16659
+#EXTINF:-1 tvg-name="Insports 12 ZZ FHD (Solo Eventos)" tvg-logo="https://logo.aigooe.com/logo/spain/instat.png" group-title="◎TV • 1a RFEF y 2a RFEF",Insports 12 ZZ FHD (Solo Eventos)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16660
+#EXTINF:-1 tvg-name="Insports 13 ZZ FHD (Solo Eventos)" tvg-logo="https://logo.aigooe.com/logo/spain/instat.png" group-title="◎TV • 1a RFEF y 2a RFEF",Insports 13 ZZ FHD (Solo Eventos)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16661
+#EXTINF:-1 tvg-name="Insports 14 ZZ FHD (Solo Eventos)" tvg-logo="https://logo.aigooe.com/logo/spain/instat.png" group-title="◎TV • 1a RFEF y 2a RFEF",Insports 14 ZZ FHD (Solo Eventos)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16662
+#EXTINF:-1 tvg-name="Insports 15 ZZ FHD (Solo Eventos)" tvg-logo="https://logo.aigooe.com/logo/spain/instat.png" group-title="◎TV • 1a RFEF y 2a RFEF",Insports 15 ZZ FHD (Solo Eventos)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16663
+#EXTINF:-1 tvg-name="Insports 16 ZZ FHD (Solo Eventos)" tvg-logo="https://logo.aigooe.com/logo/spain/instat.png" group-title="◎TV • 1a RFEF y 2a RFEF",Insports 16 ZZ FHD (Solo Eventos)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16664
+#EXTINF:-1 tvg-name="Insports 17 ZZ FHD (Solo Eventos)" tvg-logo="https://logo.aigooe.com/logo/spain/instat.png" group-title="◎TV • 1a RFEF y 2a RFEF",Insports 17 ZZ FHD (Solo Eventos)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16665
+#EXTINF:-1 tvg-name="Insports 18 ZZ FHD (Solo Eventos)" tvg-logo="https://logo.aigooe.com/logo/spain/instat.png" group-title="◎TV • 1a RFEF y 2a RFEF",Insports 18 ZZ FHD (Solo Eventos)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16666
+#EXTINF:-1 tvg-name="Insports 19 ZZ FHD (Solo Eventos)" tvg-logo="https://logo.aigooe.com/logo/spain/instat.png" group-title="◎TV • 1a RFEF y 2a RFEF",Insports 19 ZZ FHD (Solo Eventos)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16667
+#EXTINF:-1 tvg-name="Insports 20 ZZ FHD (Solo Eventos)" tvg-logo="https://logo.aigooe.com/logo/spain/instat.png" group-title="◎TV • 1a RFEF y 2a RFEF",Insports 20 ZZ FHD (Solo Eventos)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16668
+
+#EXTINF:-1 tvg-id="MovistarLigadeCampeones.es" tvg-name="M+ La Liga de Campeones SD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/1a363f4a46e3a9a2c1fb6c4affd3f4f9.png" group-title="♛ M+ Liga de Campeones ♛",M+ La Liga de Campeones SD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13167
+#EXTINF:-1 tvg-id="MovistarLigadeCampeones.es" tvg-name="M+ La Liga de Campeones FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/1a363f4a46e3a9a2c1fb6c4affd3f4f9.png" group-title="♛ M+ Liga de Campeones ♛",M+ La Liga de Campeones FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13171
+#EXTINF:-1 tvg-id="LigaSmartBankHD" tvg-name="Liga Smart Bank 1 SD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/63199a0d38d9d61852563a082d40d570.png" group-title="♛ M+ Liga de Campeones ♛",Liga Smart Bank 1 SD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13434
+#EXTINF:-1 tvg-id="LigaSmartBankHD" tvg-name="Liga Smart Bank 1 FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/63199a0d38d9d61852563a082d40d570.png" group-title="♛ M+ Liga de Campeones ♛",Liga Smart Bank 1 FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13435
+#EXTINF:-1 tvg-id="LigaSmartBank2HD" tvg-name="Liga Smart Bank 2 SD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/63199a0d38d9d61852563a082d40d570.png" group-title="♛ M+ Liga de Campeones ♛",Liga Smart Bank 2 SD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13437
+#EXTINF:-1 tvg-id="LigaSmartBank2HD" tvg-name="Liga Smart Bank 2 FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/63199a0d38d9d61852563a082d40d570.png" group-title="♛ M+ Liga de Campeones ♛",Liga Smart Bank 2 FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13438
+#EXTINF:-1 tvg-id="MovistarLaLiga2.es" tvg-name="M+ La Liga de Campeones 2 SD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f6e61460c798600e19c6bce46ca8774d.png" group-title="♛ M+ Liga de Campeones ♛",M+ La Liga de Campeones 2 SD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13449
+#EXTINF:-1 tvg-id="MovistarLaLiga2.es" tvg-name="M+ La Liga de Campeones 2 FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f6e61460c798600e19c6bce46ca8774d.png" group-title="♛ M+ Liga de Campeones ♛",M+ La Liga de Campeones 2 FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13451
+#EXTINF:-1 tvg-id="M+LCAMPEON3" tvg-name="M+ La Liga de Campeones 3 FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/88fa41165662f42d021f509ed2ae0eb2.png" group-title="♛ M+ Liga de Campeones ♛",M+ La Liga de Campeones 3 FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13454
+#EXTINF:-1 tvg-id="MovistarLigadeCampeones.es" tvg-name="M+ La Liga Campeones 4K UHD (solo eventos)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/381d517c0fd16b7dc809a611050bcf19.png" group-title="♛ M+ Liga de Campeones ♛",M+ La Liga Campeones 4K UHD (solo eventos)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13475
+#EXTINF:-1 tvg-id="M+LCAMPEON3" tvg-name="M+ La Liga de Campeones 3 SD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/88fa41165662f42d021f509ed2ae0eb2.png" group-title="♛ M+ Liga de Campeones ♛",M+ La Liga de Campeones 3 SD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/64704
+#EXTINF:-1 tvg-name="M+ La Liga de Campeones 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="♛ M+ Liga de Campeones ♛",M+ La Liga de Campeones 4
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/64705
+#EXTINF:-1 tvg-name="M+ La Liga de Campeones 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="♛ M+ Liga de Campeones ♛",M+ La Liga de Campeones 5
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/64706
+#EXTINF:-1 tvg-name="M+ La Liga de Campeones 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="♛ M+ Liga de Campeones ♛",M+ La Liga de Campeones 6
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/64707
+#EXTINF:-1 tvg-name="M+ La Liga de Campeones 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="♛ M+ Liga de Campeones ♛",M+ La Liga de Campeones 7
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/64708
+#EXTINF:-1 tvg-name="M+ La Liga de Campeones 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="♛ M+ Liga de Campeones ♛",M+ La Liga de Campeones 8
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/64709
+#EXTINF:-1 tvg-id="Liga SmartBank 3" tvg-name="Liga Smart Bank 3 FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/63199a0d38d9d61852563a082d40d570.png" group-title="♛ M+ Liga de Campeones ♛",Liga Smart Bank 3 FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69079
+#EXTINF:-1 tvg-id="Liga SmartBank 3" tvg-name="Liga Smart Bank 3 SD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/63199a0d38d9d61852563a082d40d570.png" group-title="♛ M+ Liga de Campeones ♛",Liga Smart Bank 3 SD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69080
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="A3Series FHD (ES)" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ATRESS" group-title="⚜ M+ Series ⚜",A3Series FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13378
+#EXTINF:-1 tvg-id="M+ SERIES 2 HD" tvg-name="M. Series 2 FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/63a09713366e24e1d5fb937762d89bcc.jpg" group-title="⚜ M+ Series ⚜",M. Series 2 FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13588
+#EXTINF:-1 tvg-id="M+ SERIES" tvg-name="M. Series FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/977e30264882eb15e9fa347cb1af9763.png" group-title="⚜ M+ Series ⚜",M. Series FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13591
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="Fox FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/1252bfb3c2a9a498b2b7365ac838aac3.jpg" group-title="⚜ M+ Series ⚜",Fox FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13594
+#EXTINF:-1 tvg-id="AXN" tvg-name="Axn FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="⚜ M+ Series ⚜",Axn FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13597
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="Axn White FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="⚜ M+ Series ⚜",Axn White FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13600
+#EXTINF:-1 tvg-id="AMC" tvg-name="Amc FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/da29f48112a2fed09ffa7f28dbcef629.png" group-title="⚜ M+ Series ⚜",Amc FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13603
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="Calle 13 FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/d1b27eabbe6263d72f35e0e5452daf36.jpg" group-title="⚜ M+ Series ⚜",Calle 13 FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13606
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/e78f0d725277289e0bf29cc001c5ff66.jpg" group-title="⚜ M+ Series ⚜",TNT FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13609
+#EXTINF:-1 tvg-id="COMEDYCENTRALHD" tvg-name="Comedy Central FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/b540a617cbe2e940745f987d416c0138.jpg" group-title="⚜ M+ Series ⚜",Comedy Central FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13612
+#EXTINF:-1 tvg-id="SYFY HD" tvg-name="Syfy FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/dae0dab5bf0fdf08207f2a21e4614740.jpg" group-title="⚜ M+ Series ⚜",Syfy FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13614
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ La Liga  FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/551f8a50f9dd505ca15ac4c66e4af483.png" group-title="♛ M+ La Liga ♛",M+ La Liga  FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13417
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="Dazn La Liga SD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7a2b69be37fe8e240fa2f8a5ffd49a09.png" group-title="♛ M+ La Liga ♛",Dazn La Liga SD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13421
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="Dazn La Liga FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7a2b69be37fe8e240fa2f8a5ffd49a09.png" group-title="♛ M+ La Liga ♛",Dazn La Liga FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13422
+#EXTINF:-1 tvg-id="DAZN LaLiga2 HD" tvg-name="Dazn La Liga 2 SD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/b38b1e79e9b3acdeec15019a6e089ea6.png" group-title="♛ M+ La Liga ♛",Dazn La Liga 2 SD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13425
+#EXTINF:-1 tvg-id="DAZN LaLiga2 HD" tvg-name="Dazn La Liga 2 FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7a2b69be37fe8e240fa2f8a5ffd49a09.png" group-title="♛ M+ La Liga ♛",Dazn La Liga 2 FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13427
+#EXTINF:-1 tvg-id="MovistarLaLiga2.es" tvg-name="M+ La Liga 2 SD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/4c857fd12a21aea613e485cfea1bf37f.png" group-title="♛ M+ La Liga ♛",M+ La Liga 2 SD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13428
+#EXTINF:-1 tvg-id="MovistarLaLiga2.es" tvg-name="M+ La Liga 2 FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/4c857fd12a21aea613e485cfea1bf37f.png" group-title="♛ M+ La Liga ♛",M+ La Liga 2 FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13430
+#EXTINF:-1 tvg-id="MovistarLaLiga3.es" tvg-name="M+ La Liga 3 SD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/88fa41165662f42d021f509ed2ae0eb2.png" group-title="♛ M+ La Liga ♛",M+ La Liga 3 SD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13431
+#EXTINF:-1 tvg-id="MovistarLaLiga3.es" tvg-name="M+ LaLiga 3 FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/88fa41165662f42d021f509ed2ae0eb2.png" group-title="♛ M+ La Liga ♛",M+ LaLiga 3 FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13432
+#EXTINF:-1 tvg-id="LALIGATV BAR" tvg-name="M+ La Liga TV BAR FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/b680415cd5fa1858cec83d97622d709e.png" group-title="♛ M+ La Liga ♛",M+ La Liga TV BAR FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13440
+#EXTINF:-1 tvg-id="MovistarLaLiga.es" tvg-name="M+ La Liga SD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/551f8a50f9dd505ca15ac4c66e4af483.png" group-title="♛ M+ La Liga ♛",M+ La Liga SD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13415
+#EXTINF:-1 tvg-id="Gol.es" tvg-name="Gol FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/746f6a4b54397552df3918c572a6c9ae.png" group-title="❅ M+ Deportes ❅",Gol FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13485
+#EXTINF:-1 tvg-name="Antena Motor TV FHD (ES)" tvg-logo="https://w7.pngwing.com/pngs/756/234/png-transparent-motor-trend-group-logo-car-font-car-text-logo-car-thumbnail.png" group-title="❅ M+ Deportes ❅",Antena Motor TV FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13498
+#EXTINF:-1 tvg-id="M+ #VAMOSHD" tvg-name="#Vamos FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/e944560a5b8369bdc8bd77586ef8193f.png" group-title="❅ M+ Deportes ❅",#Vamos FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13502
+#EXTINF:-1 tvg-id="fce5d72e6176ebf2bb80e612eb7cfeea" tvg-name="ELLAS #VAMOS FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/b200d0b3ebad47f26304350259843a1e.png" group-title="❅ M+ Deportes ❅",ELLAS #VAMOS FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13505
+#EXTINF:-1 tvg-name="M+ Deportes SD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/e7a935610cfa3e688f0b6daee13faf03.png" group-title="❅ M+ Deportes ❅",M+ Deportes SD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13506
+#EXTINF:-1 tvg-name="M+ Deportes FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/e7a935610cfa3e688f0b6daee13faf03.png" group-title="❅ M+ Deportes ❅",M+ Deportes FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13508
+#EXTINF:-1 tvg-name="M+ Deportes 2 FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f6e61460c798600e19c6bce46ca8774d.png" group-title="❅ M+ Deportes ❅",M+ Deportes 2 FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13509
+#EXTINF:-1 tvg-name="M+ Deportes 3 FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/c1e930839d446971530a28959c362345.png" group-title="❅ M+ Deportes ❅",M+ Deportes 3 FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13511
+#EXTINF:-1 tvg-id="M+DEPORTES4" tvg-name="M+ Deportes 4 FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/a03ba68a052b2812a1c69b3b5ca5f3a6.png" group-title="❅ M+ Deportes ❅",M+ Deportes 4 FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13513
+#EXTINF:-1 tvg-id="M+DEPORTES5" tvg-name="M+ Deportes 5 FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/ea453ac42711e64ad99227b3b3f102ea.png" group-title="❅ M+ Deportes ❅",M+ Deportes 5 FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13515
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="Eurosport 1 FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/039a5e4eb7ef5e662f5f260f66026495.png" group-title="❅ M+ Deportes ❅",Eurosport 1 FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13521
+#EXTINF:-1 tvg-id="EUROSPORT2HD" tvg-name="EuroSport 2 FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/1fa884364deb57f7d80409a61a24d585.png" group-title="❅ M+ Deportes ❅",EuroSport 2 FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13523
+#EXTINF:-1 tvg-name="M+ Golf FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/a60d8c97d55929c4e80cf3bb81a4d224.png" group-title="❅ M+ Deportes ❅",M+ Golf FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13525
+#EXTINF:-1 tvg-name="Tennis Channel HD (ENG)" tvg-logo="https://e7.pngegg.com/pngimages/237/1008/png-clipart-logo-tennis-channel-hd-television-channel-tv-logos-angle-text.png" group-title="❅ M+ Deportes ❅",Tennis Channel HD (ENG)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13531
+#EXTINF:-1 tvg-name="NHL Network HD (ENG)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/d9bf2ce565be106c710e3e96c05d0fe3.jpg" group-title="❅ M+ Deportes ❅",NHL Network HD (ENG)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13532
+#EXTINF:-1 tvg-id="RedBull TV HD" tvg-name="Red bull TV FHD (ENG)" tvg-logo="https://e7.pngegg.com/pngimages/520/39/png-clipart-red-bull-energy-drink-logo-graphics-brand-red-bull-company-carnivoran.png" group-title="❅ M+ Deportes ❅",Red bull TV FHD (ENG)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13535
+#EXTINF:-1 tvg-name="WWE Network HD (ENG)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/986d22260997fcbdadb0729fd7dc1367.png" group-title="❅ M+ Deportes ❅",WWE Network HD (ENG)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13536
+#EXTINF:-1 tvg-name="Ufc Fight Pass FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/2ac02b6a467a15af64c5f9bf9656aca5.png" group-title="❅ M+ Deportes ❅",Ufc Fight Pass FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13537
+#EXTINF:-1 tvg-name="NBA Network HD (ENG)" tvg-logo="https://seeklogo.com/images/N/nba-tv-2017-logo-A32DC8E024-seeklogo.com.png" group-title="❅ M+ Deportes ❅",NBA Network HD (ENG)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13538
+#EXTINF:-1 tvg-name="Fight Box HD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/c4a8d736b9a11b8700393ff2158a3333.png" group-title="❅ M+ Deportes ❅",Fight Box HD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13545
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="M+ Deportes FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/e1fefe2875d89a9029b75f2583dc33ec.png" group-title="❅ M+ Deportes ❅",M+ Deportes FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/17369
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="Teledeporte FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/19bb9ee6eec40412fc4b0aee34477ce2.png" group-title="❅ M+ Deportes ❅",Teledeporte FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/17380
+#EXTINF:-1 tvg-name="BETIS TV" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/e886afe89d29302a1981518242ffc863.png" group-title="❅ M+ Deportes ❅",BETIS TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/64671
+#EXTINF:-1 tvg-name="M+ Multideportes (SD)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/ca39866d74d7102df975f69fc51a706d.png" group-title="❅ M+ Deportes ❅",M+ Multideportes (SD)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/64673
+#EXTINF:-1 tvg-id="M+ GOLF HD" tvg-name="M+ Golf (EXTRA)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/6d6ca5aab7ca4523edf5dad3584b99b8.png" group-title="❅ M+ Deportes ❅",M+ Golf (EXTRA)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/64674
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="ESPORT 3" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/5eaad87ad61fe13351cca4a8430dd2e1.png" group-title="❅ M+ Deportes ❅",ESPORT 3
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/64676
+#EXTINF:-1 tvg-id="M+ #VAMOSHD" tvg-name="#VAMOS SD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/ab5c61573cb251889767f0af4b2150ce.png" group-title="❅ M+ Deportes ❅",#VAMOS SD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/64677
+#EXTINF:-1 tvg-id="M+ #VAMOSHD" tvg-name="#VAMOS FHD ENCODER" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/ab5c61573cb251889767f0af4b2150ce.png" group-title="❅ M+ Deportes ❅",#VAMOS FHD ENCODER
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/64679
+#EXTINF:-1 tvg-id="M+ELLAS #V HD" tvg-name="ELLAS #VAMOS SD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/b200d0b3ebad47f26304350259843a1e.png" group-title="❅ M+ Deportes ❅",ELLAS #VAMOS SD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/64682
+#EXTINF:-1 tvg-id="M+DEPORTES" tvg-name="M+ Deportes FHD (ENCODER)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7bc29276bbbfa1842a92925d9a3ff28f.png" group-title="❅ M+ Deportes ❅",M+ Deportes FHD (ENCODER)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/64683
+#EXTINF:-1 tvg-id="M+DEPORTES3" tvg-name="M+ Deportes 2 FHD (ENCODER)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7bc29276bbbfa1842a92925d9a3ff28f.png" group-title="❅ M+ Deportes ❅",M+ Deportes 2 FHD (ENCODER)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/64688
+#EXTINF:-1 tvg-id="M+DEPORTES3" tvg-name="M+ Deportes 3 FHD (ENCODER)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/c1e930839d446971530a28959c362345.png" group-title="❅ M+ Deportes ❅",M+ Deportes 3 FHD (ENCODER)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/64691
+#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="EUROSPORT 1" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/039a5e4eb7ef5e662f5f260f66026495.png" group-title="❅ M+ Deportes ❅",EUROSPORT 1
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/64693
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="EUROSPORT 2" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/1fa884364deb57f7d80409a61a24d585.png" group-title="❅ M+ Deportes ❅",EUROSPORT 2
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/64695
+#EXTINF:-1 tvg-name="BARCA TV FHD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/456319a417c4028b5612378e64f4e39f.jpg" group-title="❅ M+ Deportes ❅",BARCA TV FHD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/64698
+#EXTINF:-1 tvg-id="Gol.es" tvg-name="GOL TV" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/746f6a4b54397552df3918c572a6c9ae.png" group-title="❅ M+ Deportes ❅",GOL TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/64699
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/99cc36ebad6674a1daa9e26a98b41e41.png" group-title="❅ M+ Deportes ❅",Real Madrid TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/64701
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="M. Estrenos FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/9281af09adcc1fd6aeff40050ff3de70.jpg" group-title="✪ M+ Cine ✪",M. Estrenos FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13549
+#EXTINF:-1 tvg-id="MovistarEstrenos2.es" tvg-name="M. Estrenos 2 FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/14209956e5339ddd8ef9d6c20fa3ed9b.jpg" group-title="✪ M+ Cine ✪",M. Estrenos 2 FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13552
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="M. Accion FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/2b93d0cbaaaf3dcc38addb1e4481fd76.jpg" group-title="✪ M+ Cine ✪",M. Accion FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13555
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="M. Comedia FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/17ad467ec489133da03c6b3cb03f5d07.jpg" group-title="✪ M+ Cine ✪",M. Comedia FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13558
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="M. Drama FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/cbd345c098acfab190236276763b673c.jpg" group-title="✪ M+ Cine ✪",M. Drama FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13561
+#EXTINF:-1 tvg-id="MovistarClasicos.es" tvg-name="M. Clasicos FHD (ES)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="✪ M+ Cine ✪",M. Clasicos FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13564
+#EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-name="M. Cine Español FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/8de0407c55425b355d6cba036a904b12.jpg" group-title="✪ M+ Cine ✪",M. Cine Español FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13566
+#EXTINF:-1 tvg-name="My Time Movie Network FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/83f7f3ba98728f4ec5966b3c500d2942.jpg" group-title="✪ M+ Cine ✪",My Time Movie Network FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13568
+#EXTINF:-1 tvg-id="CanalHollywood.es" tvg-name="Hollywood FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/4ace1bb85f6278c789eb1d53bb379828.jpg" group-title="✪ M+ Cine ✪",Hollywood FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13574
+#EXTINF:-1 tvg-id="TCMSpain.es" tvg-name="TCM FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/5dfd993d01f0a5b35a80d0c76099a5a1.png" group-title="✪ M+ Cine ✪",TCM FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13577
+#EXTINF:-1 tvg-id="Somos.es" tvg-name="Somos FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/b797145a5b93beacd30f31588481052f.jpg" group-title="✪ M+ Cine ✪",Somos FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13578
+#EXTINF:-1 tvg-id="DARK" tvg-name="Dark FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/a82fd95db10ff25dfad39f07372ebe37.jpg" group-title="✪ M+ Cine ✪",Dark FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13580
+#EXTINF:-1 tvg-id="XTRM.es" tvg-name="Xtrm FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/af733b5eb7ad48ce25bb539e0f08a207.jpg" group-title="✪ M+ Cine ✪",Xtrm FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13581
+#EXTINF:-1 tvg-id="ParamountChannelSpain.es" tvg-name="Paramount FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/2bd6a77baff6a4f4459d74f342ef69fc.jpg" group-title="✪ M+ Cine ✪",Paramount FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13582
+#EXTINF:-1 tvg-id="SundanceTVSpain.es" tvg-name="Sundance FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/e7ba8916278a7ce05df06c73f736fd67.jpg" group-title="✪ M+ Cine ✪",Sundance FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13584
+#EXTINF:-1 tvg-name="Rakuten TV Shows Spain (720p)" group-title="✪ M+ Cine ✪",Rakuten TV Shows Spain (720p)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72826
+#EXTINF:-1 tvg-name="Rakuten TV Family Spain (720p)" group-title="✪ M+ Cine ✪",Rakuten TV Family Spain (720p)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72827
+#EXTINF:-1 tvg-name="Rakuten Top Free Spain (720p)" group-title="✪ M+ Cine ✪",Rakuten Top Free Spain (720p)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72828
+#EXTINF:-1 tvg-name="Rakuten Spotlight" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/8e9b16d9816bb0739acd1a05632b1248.png" group-title="✪ M+ Cine ✪",Rakuten Spotlight
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72829
+#EXTINF:-1 tvg-name="Rakuten Family" group-title="✪ M+ Cine ✪",Rakuten Family
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72830
+#EXTINF:-1 tvg-name="Rakuten Drama" group-title="✪ M+ Cine ✪",Rakuten Drama
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72831
+#EXTINF:-1 tvg-name="Rakuten Comedy Movies" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/709c15e9fd842f2eb9aed36f6657a89b.png" group-title="✪ M+ Cine ✪",Rakuten Comedy Movies
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72832
+#EXTINF:-1 tvg-name="Rakuten Action Movies Spain (720p)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/556acd0dfdc63778f6332024e933dab4.jpg" group-title="✪ M+ Cine ✪",Rakuten Action Movies Spain (720p)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72833
+#EXTINF:-1 tvg-id="DreamWorks HD" tvg-name="M DreamWorks FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/6419f2251ae5f9bddf1f26a724d60e50.jpg" group-title="★ Infantiles ★",M DreamWorks FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13619
+#EXTINF:-1 tvg-id="NICKELODEONHD" tvg-name="Nickelodeon FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/e275f900ccbda4c07dd4a43d1b6c3f71.jpg" group-title="★ Infantiles ★",Nickelodeon FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13622
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="Nick Jr FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/c0cee6321e422948a93a85e7f28c5b72.jpg" group-title="★ Infantiles ★",Nick Jr FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13623
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="Disney JR HD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/ae2684e7951fa18609082efcf333efd3.jpg" group-title="★ Infantiles ★",Disney JR HD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13624
+#EXTINF:-1 tvg-id="DISNEY CH HD" tvg-name="Disney CH FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/04468a2d619548b4f90bfb11819026d0.jpg" group-title="★ Infantiles ★",Disney CH FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13626
+#EXTINF:-1 tvg-id="CLAN TVE" tvg-name="Clan TVE SD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/a4c135e686aa3969106a415bc1451da2.jpg" group-title="★ Infantiles ★",Clan TVE SD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13627
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="Baby TV FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/9aeb58d64084a0a8267f45235d265ff3.jpg" group-title="★ Infantiles ★",Baby TV FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13628
+#EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="Canal Panda FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/ee70f91a6fb3e5a7b434e2cb14e57045.jpg" group-title="★ Infantiles ★",Canal Panda FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13630
+#EXTINF:-1 tvg-id="BOING" tvg-name="Boing FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/ec600721a85ea06169769f2aac53e229.jpg" group-title="★ Infantiles ★",Boing FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13632
+#EXTINF:-1 tvg-name="PEQUERADIO TV (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/d2ab83723207bee8d24e8ad11c1f8e83.jpg" group-title="★ Infantiles ★",PEQUERADIO TV (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13634
+#EXTINF:-1 tvg-id="LaResistencia.es" tvg-name="M. La Resistencia FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/c01bcc917acebb0594978045cd59e6de.jpg" group-title=" ⚛ M+ Estílo de Vida ⚛",M. La Resistencia FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13636
+#EXTINF:-1 tvg-id="M+ #0 HD" tvg-name="#0 FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title=" ⚛ M+ Estílo de Vida ⚛",#0 FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13640
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="DeCasa FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/5039f7b19fd1975ca6c5251415ac988a.jpg" group-title=" ⚛ M+ Estílo de Vida ⚛",DeCasa FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13642
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="Canal Cocina FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/4a7c44f8501ad5f03ad8fdb28fba3cdf.jpg" group-title=" ⚛ M+ Estílo de Vida ⚛",Canal Cocina FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13645
+#EXTINF:-1 tvg-id="AMC BREAK" tvg-name="Amc Break FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/3f637f18c344d1c20b043df309490667.jpg" group-title=" ⚛ M+ Estílo de Vida ⚛",Amc Break FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13648
+#EXTINF:-1 tvg-id="ac4c9e2dc8f33f9ea6e2f4ab0201de65" tvg-name="Blaze HD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/897ee373c9e482f9a323fe188494520b.jpg" group-title=" ⚛ M+ Estílo de Vida ⚛",Blaze HD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13650
+#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="Caza y Pesca FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/5add5b15df90c79e33e19a82a8cf5b45.jpg" group-title=" ⚛ M+ Estílo de Vida ⚛",Caza y Pesca FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13654
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="Iberalia Original HD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/866deaa2fe82bbd7e558f2d9c9d56fda.png" group-title=" ⚛ M+ Estílo de Vida ⚛",Iberalia Original HD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13656
+#EXTINF:-1 tvg-name="IBERALIA CAZA HD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/866deaa2fe82bbd7e558f2d9c9d56fda.png" group-title=" ⚛ M+ Estílo de Vida ⚛",IBERALIA CAZA HD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13657
+#EXTINF:-1 tvg-name="IBERALIA PESCA HD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/866deaa2fe82bbd7e558f2d9c9d56fda.png" group-title=" ⚛ M+ Estílo de Vida ⚛",IBERALIA PESCA HD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13658
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="El Toro HD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/6f5b6361190579ee326bc9e91da0d2e3.jpg" group-title=" ⚛ M+ Estílo de Vida ⚛",El Toro HD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13660
+#EXTINF:-1 tvg-id="TOROS HD" tvg-name="Toros FHD (ES)" tvg-logo="https://images.ecestaticos.com/8neBETZLPRfFXq7Dqt4sQ4NG81U=/0x0:1565x885/1440x810/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd82%2F6fb%2Fc30%2Fd826fbc30ec345b31d63dc1a77413c2a.jpg" group-title=" ⚛ M+ Estílo de Vida ⚛",Toros FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13664
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="Cosmo FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/fcd004e6313779d4b52dd4abe04a547a.png" group-title=" ⚛ M+ Estílo de Vida ⚛",Cosmo FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13666
+#EXTINF:-1 tvg-name="Dviaje FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/08901eb1d26769d18fcaa2883aa3d6c9.jpg" group-title=" ⚛ M+ Estílo de Vida ⚛",Dviaje FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13669
+#EXTINF:-1 tvg-id="5698ef2a699efc604b07b0040689ae39" tvg-name="Escapa TV FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/8fa8724e237598e30f5d4e08a2419569.jpg" group-title=" ⚛ M+ Estílo de Vida ⚛",Escapa TV FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13670
+#EXTINF:-1 tvg-id="NauticalChannel.it" tvg-name="Nautical Channel HD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/4fcc8316af02f69c378059ae7e2dbbce.png" group-title=" ⚛ M+ Estílo de Vida ⚛",Nautical Channel HD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13672
+#EXTINF:-1 tvg-id="HorseTV.it" tvg-name="Horse TV HD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/cee4342019e9cb636931dffce76209d0.jpg" group-title=" ⚛ M+ Estílo de Vida ⚛",Horse TV HD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13673
+#EXTINF:-1 tvg-name="DBIKE HD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/c70cadc4f29200c6049c7788e71d71a4.png" group-title=" ⚛ M+ Estílo de Vida ⚛",DBIKE HD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13675
+#EXTINF:-1 tvg-name="U-BEAT FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f1c027e2dd55b81a8cf12c1a971ce067.jpg" group-title=" ⚛ M+ Estílo de Vida ⚛",U-BEAT FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13676
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="Nat Geographic FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/9a2806260e96a591f6013df98d237e34.jpg" group-title="✴ M+ Culturales ✴",Nat Geographic FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13680
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="Nat Geo Wild FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/d6e4b3bac3f21d7bd90311a40e93ec28.jpg" group-title="✴ M+ Culturales ✴",Nat Geo Wild FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13683
+#EXTINF:-1 tvg-name="Mascotas TV FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/a8fda1e78f9f21fa16e30d1a11024fb6.png" group-title="✴ M+ Culturales ✴",Mascotas TV FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13684
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="Historia FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/657422a9e592924f33cf820a9935962d.png" group-title="✴ M+ Culturales ✴",Historia FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13686
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="Discovery Chanel FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/e5360599c8db1a2374ae3d7c8f6a9986.jpg" group-title="✴ M+ Culturales ✴",Discovery Chanel FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13688
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="Odisea FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/4a7c44f8501ad5f03ad8fdb28fba3cdf.jpg" group-title="✴ M+ Culturales ✴",Odisea FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13691
+#EXTINF:-1 tvg-id="NauticalChannel.it" tvg-name="Nautical Channel FHD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/c0c53a7c1d48ae399e3e3300fe7bd510.jpg" group-title="✴ M+ Culturales ✴",Nautical Channel FHD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/63146
+#EXTINF:-1 tvg-name="VEVO 80s (ES)" tvg-logo="https://e7.pngegg.com/pngimages/853/734/png-clipart-vevo-musician-streaming-media-music-video-vevo-television-text.png" group-title="♫ M+ Musica ♫",VEVO 80s (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13695
+#EXTINF:-1 tvg-name="VEVO HIP HOP (ES)" tvg-logo="https://e7.pngegg.com/pngimages/853/734/png-clipart-vevo-musician-streaming-media-music-video-vevo-television-text.png" group-title="♫ M+ Musica ♫",VEVO HIP HOP (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13696
+#EXTINF:-1 tvg-name="VEVO LATINO (ES)" tvg-logo="https://e7.pngegg.com/pngimages/853/734/png-clipart-vevo-musician-streaming-media-music-video-vevo-television-text.png" group-title="♫ M+ Musica ♫",VEVO LATINO (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13697
+#EXTINF:-1 tvg-name="All Flamenco HD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/229c6926cd69a6e2e335854a0a33a858.png" group-title="♫ M+ Musica ♫",All Flamenco HD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13698
+#EXTINF:-1 tvg-id="Sol Música" tvg-name="Sol Musica FHD (ES)" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=5d6956&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fsol.png" group-title="♫ M+ Musica ♫",Sol Musica FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13700
+#EXTINF:-1 tvg-name="Top Latino SD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/229c6926cd69a6e2e335854a0a33a858.png" group-title="♫ M+ Musica ♫",Top Latino SD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13701
+#EXTINF:-1 tvg-name="M. Fest FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/229c6926cd69a6e2e335854a0a33a858.png" group-title="♫ M+ Musica ♫",M. Fest FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13702
+#EXTINF:-1 tvg-name="Hit Tv SD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/229c6926cd69a6e2e335854a0a33a858.png" group-title="♫ M+ Musica ♫",Hit Tv SD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13703
+#EXTINF:-1 tvg-name="Hqm Hits FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/229c6926cd69a6e2e335854a0a33a858.png" group-title="♫ M+ Musica ♫",Hqm Hits FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13705
+#EXTINF:-1 tvg-name="UrbanRevolution FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/229c6926cd69a6e2e335854a0a33a858.png" group-title="♫ M+ Musica ♫",UrbanRevolution FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13707
+#EXTINF:-1 tvg-id="MEZZO LIVE HD" tvg-name="Mezzo Live FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/a1ed113ccd16405aad08b6355d46d236.jpg" group-title="♫ M+ Musica ♫",Mezzo Live FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13709
+#EXTINF:-1 tvg-id="CLASSICA" tvg-name="Classica HD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/de64e69510cc4625ef281cd1c9bd0a18.jpg" group-title="♫ M+ Musica ♫",Classica HD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/13710
+#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-name="MTV ESPAÑA (FHD)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/4eb2d78281fcf93a1688ba9ae8029e50.jpg" group-title="♫ M+ Musica ♫",MTV ESPAÑA (FHD)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/17408
+#EXTINF:-1 tvg-id="MTV 00s" tvg-name="MTV 00s" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/4c195f383716e75cef9e06b745148b9e.jpg" group-title="♫ M+ Musica ♫",MTV 00s
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/17407
+#EXTINF:-1 tvg-id="MEZZO" tvg-name="Mezzo FHD (ES)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/23b3123490724d8309fdb3395ee3b321.jpg" group-title="♫ M+ Musica ♫",Mezzo FHD (ES)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/63151
+#EXTINF:-1 tvg-name="Concert Channel FHD (LAT)" tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/concert_channel.png" group-title="♫ M+ Musica ♫",Concert Channel FHD (LAT)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16738
+#EXTINF:-1 tvg-name="HTV SD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/htv.png" group-title="♫ M+ Musica ♫",HTV SD (LAT)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16746
+#EXTINF:-1 tvg-name="MTV 00S FHD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/mtv00s.png" group-title="♫ M+ Musica ♫",MTV 00S FHD (LAT)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16750
+#EXTINF:-1 tvg-name="MTV 80s SD (LAT)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/4f4c0c269a1b183d33d3414044444db8.png" group-title="♫ M+ Musica ♫",MTV 80s SD (LAT)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16753
+#EXTINF:-1 tvg-name="MTV FHD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/mtv.png" group-title="♫ M+ Musica ♫",MTV FHD (LAT)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16754
+#EXTINF:-1 tvg-name="MTV Hits SD (LAT)" tvg-logo="https://w7.pngwing.com/pngs/706/865/png-transparent-nick-music-mtv-hits-television-channel-music-television-mtv-hits-idents-television-text-logo.png" group-title="♫ M+ Musica ♫",MTV Hits SD (LAT)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16756
+#EXTINF:-1 tvg-name="MTV Live FHD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/mtv_live.png" group-title="♫ M+ Musica ♫",MTV Live FHD (LAT)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16757
+#EXTINF:-1 tvg-name="MTV SD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/mtv.png" group-title="♫ M+ Musica ♫",MTV SD (LAT)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16760
+#EXTINF:-1 tvg-name="Telehit FHD (LAT)" tvg-logo="http://caxpar.com:8080/logos/USA/Telehit.png" group-title="♫ M+ Musica ♫",Telehit FHD (LAT)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16776
+#EXTINF:-1 tvg-name="BBC World FHD (ING)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/8717262d0004a79796435513251f668f.png" group-title="❅ Noticias Internacionales ❅",BBC World FHD (ING)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16354
+#EXTINF:-1 tvg-name="CNN en español SD (LAT)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/6eb114942059bf15c910de930da7c4c9.png" group-title="❅ Noticias Internacionales ❅",CNN en español SD (LAT)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16357
+#EXTINF:-1 tvg-name="DW Amerika SD (LAT)" tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/deutsche_welle.png" group-title="❅ Noticias Internacionales ❅",DW Amerika SD (LAT)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16359
+#EXTINF:-1 tvg-name="Enlace SD (LAT)" tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/enlace.png" group-title="❅ Noticias Internacionales ❅",Enlace SD (LAT)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16360
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 FHD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/france24.png" group-title="❅ Noticias Internacionales ❅",France 24 FHD (LAT)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16361
+#EXTINF:-1 tvg-name="TVE Int SD (LAT)" tvg-logo="http://caxpar.com:8080/logos/LATINOS/tve.png" group-title="❅ Noticias Internacionales ❅",TVE Int SD (LAT)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16364
+#EXTINF:-1 tvg-name="CNN Int. FHD (ING)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/6eb114942059bf15c910de930da7c4c9.png" group-title="❅ Noticias Internacionales ❅",CNN Int. FHD (ING)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/16366
+#EXTINF:-1 tvg-name="22- REPLAY LA LIGA 1" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="◎ La Liga Replay ◎",22- REPLAY LA LIGA 1
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/65636
+#EXTINF:-1 tvg-name="23- REPLAY LA LIGA 2" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="◎ La Liga Replay ◎",23- REPLAY LA LIGA 2
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/65637
+#EXTINF:-1 tvg-name="27- REPLAY LA LIGA 3" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="◎ La Liga Replay ◎",27- REPLAY LA LIGA 3
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/65638
+#EXTINF:-1 tvg-name="28- REPLAY LA LIGA 4" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="◎ La Liga Replay ◎",28- REPLAY LA LIGA 4
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/65639
+#EXTINF:-1 tvg-name="29- REPLAY LA LIGA 5" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="◎ La Liga Replay ◎",29- REPLAY LA LIGA 5
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/65640
+#EXTINF:-1 tvg-name="30- REPLAY LA LIGA 6" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="◎ La Liga Replay ◎",30- REPLAY LA LIGA 6
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/65641
+#EXTINF:-1 tvg-name="31- REPLAY LA LIGA 7" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="◎ La Liga Replay ◎",31- REPLAY LA LIGA 7
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/65642
+#EXTINF:-1 tvg-name="32- REPLAY LA LIGA 8" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="◎ La Liga Replay ◎",32- REPLAY LA LIGA 8
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/65643
+#EXTINF:-1 tvg-name="33- REPLAY LA LIGA 9" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="◎ La Liga Replay ◎",33- REPLAY LA LIGA 9
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/65644
+#EXTINF:-1 tvg-name="34- REPLAY LA LIGA 10" tvg-logo="https://i0.wp.com/blogdelblock.com/wp-content/uploads/2020/05/LEGO-RePLAY-logo-RGB.jpg?w=720&ssl=1" group-title="◎ La Liga Replay ◎",34- REPLAY LA LIGA 10
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/65645
+#EXTINF:-1 tvg-name="01- ESTRENOS 01" group-title="✇ M+ Taquillas Estrenos ✇",01- ESTRENOS 01
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/67408
+#EXTINF:-1 tvg-name="02- ESTRENOS 02" group-title="✇ M+ Taquillas Estrenos ✇",02- ESTRENOS 02
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/67409
+#EXTINF:-1 tvg-name="04- ESTRENOS 04" group-title="✇ M+ Taquillas Estrenos ✇",04- ESTRENOS 04
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/67410
+#EXTINF:-1 tvg-name="03- ESTRENOS 03" group-title="✇ M+ Taquillas Estrenos ✇",03- ESTRENOS 03
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/67411
+#EXTINF:-1 tvg-name="05- ESTRENOS 05" group-title="✇ M+ Taquillas Estrenos ✇",05- ESTRENOS 05
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/67412
+#EXTINF:-1 tvg-name="06- ESTRENOS 06" group-title="✇ M+ Taquillas Estrenos ✇",06- ESTRENOS 06
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/67413
+#EXTINF:-1 tvg-name="07- ESTRENOS 07" group-title="✇ M+ Taquillas Estrenos ✇",07- ESTRENOS 07
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/67414
+#EXTINF:-1 tvg-name="08- ESTRENOS 08" group-title="✇ M+ Taquillas Estrenos ✇",08- ESTRENOS 08
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/67415
+#EXTINF:-1 tvg-name="09- ESTRENOS 09" group-title="✇ M+ Taquillas Estrenos ✇",09- ESTRENOS 09
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/67416
+#EXTINF:-1 tvg-name="10- ESTRENOS 10" group-title="✇ M+ Taquillas Estrenos ✇",10- ESTRENOS 10
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/67417
+#EXTINF:-1 tvg-name="11- ESTRENOS 11" group-title="✇ M+ Taquillas Estrenos ✇",11- ESTRENOS 11
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/67418
+#EXTINF:-1 tvg-name="12- ESTRENOS 12" group-title="✇ M+ Taquillas Estrenos ✇",12- ESTRENOS 12
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/67419
+#EXTINF:-1 tvg-name="13- ESTRENOS 13" group-title="✇ M+ Taquillas Estrenos ✇",13- ESTRENOS 13
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/67420
+#EXTINF:-1 tvg-name="14- ESTRENOS 14" group-title="✇ M+ Taquillas Estrenos ✇",14- ESTRENOS 14
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/67421
+#EXTINF:-1 tvg-name="15- ESTRENOS 15" group-title="✇ M+ Taquillas Estrenos ✇",15- ESTRENOS 15
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/67422
+#EXTINF:-1 tvg-name="24H FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/24H" group-title="✱ TDT ✱",24H FHD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69910
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 FHD" tvg-logo="http://eter-picons.one/picons/La_1_HD.png" group-title="✱ TDT ✱",LA 1 FHD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69911
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 FHD EXTRA" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7b731051035e5e1522f8f897af90c66f.png" group-title="✱ TDT ✱",LA 1 FHD EXTRA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69912
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 HD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7b731051035e5e1522f8f897af90c66f.png" group-title="✱ TDT ✱",LA 1 HD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69913
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 HD EXTRA" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7b731051035e5e1522f8f897af90c66f.png" group-title="✱ TDT ✱",LA 1 HD EXTRA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69914
+#EXTINF:-1 tvg-name="TVE 4k UHD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/c869d07245bdacf18168747ae694b342.png" group-title="✱ TDT ✱",TVE 4k UHD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69915
+#EXTINF:-1 tvg-name="TVE INTERNACIONAL" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/c0e298972a8a463b29673b55a76c9d0b.png" group-title="✱ TDT ✱",TVE INTERNACIONAL
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69916
+#EXTINF:-1 tvg-name="LA 2 FHD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/0a79856df0da96542cc231d76f88e60e.png" group-title="✱ TDT ✱",LA 2 FHD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69917
+#EXTINF:-1 tvg-name="LA 2 FHD EXTRA" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/0a79856df0da96542cc231d76f88e60e.png" group-title="✱ TDT ✱",LA 2 FHD EXTRA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69918
+#EXTINF:-1 tvg-name="LA 2 HD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/0a79856df0da96542cc231d76f88e60e.png" group-title="✱ TDT ✱",LA 2 HD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69919
+#EXTINF:-1 tvg-id="La2.TV" tvg-name="LA 2 HD EXTRA" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/0a79856df0da96542cc231d76f88e60e.png" group-title="✱ TDT ✱",LA 2 HD EXTRA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69920
+#EXTINF:-1 tvg-name="ANTENA 3 FHD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/51640b56f6da23b72a89efc15a7be1b5.png" group-title="✱ TDT ✱",ANTENA 3 FHD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69921
+#EXTINF:-1 tvg-name="ANTENA 3 FHD EXTRA" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/51640b56f6da23b72a89efc15a7be1b5.png" group-title="✱ TDT ✱",ANTENA 3 FHD EXTRA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69922
+#EXTINF:-1 tvg-name="ANTENA 3 HD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/51640b56f6da23b72a89efc15a7be1b5.png" group-title="✱ TDT ✱",ANTENA 3 HD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69923
+#EXTINF:-1 tvg-name="ANTENA 3 HD EXTRA" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/51640b56f6da23b72a89efc15a7be1b5.png" group-title="✱ TDT ✱",ANTENA 3 HD EXTRA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69924
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO HD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/0c91d0983714ebc4715a610ded092548.png" group-title="✱ TDT ✱",CUATRO HD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69925
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO HD EXTRA" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/0c91d0983714ebc4715a610ded092548.png" group-title="✱ TDT ✱",CUATRO HD EXTRA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69926
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO FHD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/0c91d0983714ebc4715a610ded092548.png" group-title="✱ TDT ✱",CUATRO FHD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69927
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO FHD EXTRA" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/0c91d0983714ebc4715a610ded092548.png" group-title="✱ TDT ✱",CUATRO FHD EXTRA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69928
+#EXTINF:-1 tvg-name="TELECINCO FHD" tvg-logo="http://eter-picons.one/picons/Telecinco_HD.png" group-title="✱ TDT ✱",TELECINCO FHD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69929
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="TELECINCO FHD EXTRA" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/bebf3bcbc30b2f2463b0fdb5057e8163.png" group-title="✱ TDT ✱",TELECINCO FHD EXTRA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69930
+#EXTINF:-1 tvg-name="TELECINCO HD" tvg-logo="http://eter-picons.one/picons/Telecinco_HD.png" group-title="✱ TDT ✱",TELECINCO HD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69931
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="TELECINCO HD EXTRA" tvg-logo="http://eter-picons.one/picons/Telecinco_HD.png" group-title="✱ TDT ✱",TELECINCO HD EXTRA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69932
+#EXTINF:-1 tvg-name="LA SEXTA FHD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/06abe2d7305d88fbdc01069c94b5557a.png" group-title="✱ TDT ✱",LA SEXTA FHD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69933
+#EXTINF:-1 tvg-name="LA SEXTA FHD EXTRA" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/06abe2d7305d88fbdc01069c94b5557a.png" group-title="✱ TDT ✱",LA SEXTA FHD EXTRA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69934
+#EXTINF:-1 tvg-name="LA SEXTA HD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/d7d5f1ca1ebab63db51ae6da33c534df.png" group-title="✱ TDT ✱",LA SEXTA HD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69935
+#EXTINF:-1 tvg-name="LA SEXTA HD EXTRA" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/06abe2d7305d88fbdc01069c94b5557a.png" group-title="✱ TDT ✱",LA SEXTA HD EXTRA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69936
+#EXTINF:-1 tvg-name="NEOX HD" tvg-logo="http://eter-picons.one/picons/Neox.png" group-title="✱ TDT ✱",NEOX HD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69937
+#EXTINF:-1 tvg-name="NEOX FHD" tvg-logo="http://eter-picons.one/picons/Neox.png" group-title="✱ TDT ✱",NEOX FHD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69938
+#EXTINF:-1 tvg-name="NEOX FHD EXTRA" tvg-logo="http://eter-picons.one/picons/Neox.png" group-title="✱ TDT ✱",NEOX FHD EXTRA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69939
+#EXTINF:-1 tvg-name="ENERGY HD" tvg-logo="http://eter-picons.one/picons/Energy.png" group-title="✱ TDT ✱",ENERGY HD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69940
+#EXTINF:-1 tvg-name="ENERGY FHD" tvg-logo="http://eter-picons.one/picons/Energy.png" group-title="✱ TDT ✱",ENERGY FHD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69941
+#EXTINF:-1 tvg-id="Mega" tvg-name="MEGA HD" tvg-logo="http://eter-picons.one/picons/Mega_HD.png" group-title="✱ TDT ✱",MEGA HD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69942
+#EXTINF:-1 tvg-id="Mega" tvg-name="MEGA FHD" tvg-logo="http://eter-picons.one/picons/Mega_HD.png" group-title="✱ TDT ✱",MEGA FHD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69943
+#EXTINF:-1 tvg-id="Mega" tvg-name="MEGA FHD EXTRA" tvg-logo="http://eter-picons.one/picons/Mega_HD.png" group-title="✱ TDT ✱",MEGA FHD EXTRA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69944
+#EXTINF:-1 tvg-name="NOVA HD" tvg-logo="http://eter-picons.one/picons/Nova.png" group-title="✱ TDT ✱",NOVA HD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69945
+#EXTINF:-1 tvg-name="NOVA FHD" tvg-logo="http://eter-picons.one/picons/Nova.png" group-title="✱ TDT ✱",NOVA FHD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69946
+#EXTINF:-1 tvg-name="NOVA FHD EXTRA" tvg-logo="http://eter-picons.one/picons/Nova.png" group-title="✱ TDT ✱",NOVA FHD EXTRA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69947
+#EXTINF:-1 tvg-name="DIVINITY HD" tvg-logo="http://eter-picons.one/picons/Divinity.png" group-title="✱ TDT ✱",DIVINITY HD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69948
+#EXTINF:-1 tvg-name="DIVINITY FHD" tvg-logo="http://eter-picons.one/picons/Divinity.png" group-title="✱ TDT ✱",DIVINITY FHD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69949
+#EXTINF:-1 tvg-name="FDF HD" tvg-logo="http://eter-picons.one/picons/Factoria_de_Ficcion.png" group-title="✱ TDT ✱",FDF HD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69950
+#EXTINF:-1 tvg-name="FDF FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/125px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="✱ TDT ✱",FDF FHD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69951
+#EXTINF:-1 tvg-name="BE MAD HD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/24d1b6c2741bfe925ef4aa5c4808db07.png" group-title="✱ TDT ✱",BE MAD HD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69952
+#EXTINF:-1 tvg-name="BE MAD FHD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/24d1b6c2741bfe925ef4aa5c4808db07.png" group-title="✱ TDT ✱",BE MAD FHD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69953
+#EXTINF:-1 tvg-name="TEN" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/6d26dd785a4cf1b001ebbca03f0d92e0.png" group-title="✱ TDT ✱",TEN
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69954
+#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/69f79fbaa1445c3efbd4a98837d9badd.png" group-title="✱ TDT ✱",DKISS
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69955
+#EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/12984f1c2000a479f32d97741172f183.png" group-title="✱ TDT ✱",TRECE
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69956
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/b86d6c715b67b3d0f00db4d2840fc76f.png" group-title="✱ TDT ✱",DMAX
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69957
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="EL TORO TV" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/54ce99cde07b4b425304286a4abfa33c.png" group-title="✱ TDT ✱",EL TORO TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69958
+#EXTINF:-1 tvg-name="ETB BASQUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/640px-ETB_Basque_2022_logo.svg.png" group-title="✱ TDT ✱",ETB BASQUE
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69959
+#EXTINF:-1 tvg-name="CMM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/1200px-CMMedia.svg.png" group-title="✱ TDT ✱",CMM HD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69960
+#EXTINF:-1 tvg-name="CANAL EXTREMADURA SAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/480px-CEXMA_new.png" group-title="✱ TDT ✱",CANAL EXTREMADURA SAT
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69961
+#EXTINF:-1 tvg-id="Canal Sur HD" tvg-name="CANAL SUR" tvg-logo="http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320" group-title="✱ TDT ✱",CANAL SUR
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69962
+#EXTINF:-1 tvg-name="8 CADIZ" tvg-logo="http://graph.facebook.com/8tvcadiz/picture?width=320&height=320" group-title="✱ TDT ✱",8 CADIZ
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69963
+#EXTINF:-1 tvg-name="ALGECIRAS TV" tvg-logo="http://graph.facebook.com/ondaalgecirastv/picture?width=320&height=320" group-title="✱ TDT ✱",ALGECIRAS TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69964
+#EXTINF:-1 tvg-name="TELEONUBA" tvg-logo="http://graph.facebook.com/Teleonuba/picture?width=320&height=320" group-title="✱ TDT ✱",TELEONUBA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69965
+#EXTINF:-1 tvg-name="CANAL COSTA" tvg-logo="http://graph.facebook.com/canalcosta/picture?width=320&height=320" group-title="✱ TDT ✱",CANAL COSTA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69966
+#EXTINF:-1 tvg-name="CANAL MALAGA" tvg-logo="https://pbs.twimg.com/profile_images/971928392592449536/dXg0E5Ga_400x400.jpg" group-title="✱ TDT ✱",CANAL MALAGA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69967
+#EXTINF:-1 tvg-name="ARAGON INTER TV" tvg-logo="http://graph.facebook.com/AragonTV/picture?width=320&height=320" group-title="✱ TDT ✱",ARAGON INTER TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69968
+#EXTINF:-1 tvg-name="TV3 FHD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/e9f01491ba1fdd155bcf9c94f89d4f7c.png" group-title="✱ TDT ✱",TV3 FHD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69969
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="TELE MADRID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Telemadrid.svg/1077px-Telemadrid.svg.png" group-title="✱ TDT ✱",TELE MADRID
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69970
+#EXTINF:-1 tvg-name="C33 MADRID" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/1b58a054d93f6d2724c2d07917ec8b69.png" group-title="✱ TDT ✱",C33 MADRID
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69971
+#EXTINF:-1 tvg-id="Aragón TV" tvg-name="Aragón TV" tvg-logo="https://graph.facebook.com/AragonTV/picture?width=200&height=200" group-title="✱ TDT ✱",Aragón TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69972
+#EXTINF:-1 tvg-name="7RM" tvg-logo="http://fibra1.sytes.net:4324/images/7ea88f2b68281fa5ed0ce5eaf459844e.png" group-title="✱ TDT ✱",7RM
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69973
+#EXTINF:-1 tvg-id="Canal Sur HD" tvg-name="CANAL SUR" tvg-logo="https://play-lh.googleusercontent.com/Oq2DTUtBa2_t_mQrwJ5UVSAO0DSaKAjGE_Sff5RGtC1WhJyKsf8awMlg7SnivI5Kvkg" group-title="✱ TDT ✱",CANAL SUR
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69974
+#EXTINF:-1 tvg-name="CASTILLA LA MANCHA" tvg-logo="http://fibra1.sytes.net:4324/images/847c35b896af7513c02c60df8b028c17.jpg" group-title="✱ TDT ✱",CASTILLA LA MANCHA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69975
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="TELEMADRID HD" tvg-logo="http://fibra1.sytes.net:4324/images/78b6494e9bb8f880f538293477770495.png" group-title="✱ TDT ✱",TELEMADRID HD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69976
+#EXTINF:-1 tvg-name="LA OTRA SD" tvg-logo="http://fibra1.sytes.net:4324/images/3d3f2944c0d340742496f6499d9f053c.png" group-title="✱ TDT ✱",LA OTRA SD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69977
+#EXTINF:-1 tvg-name="TVG" tvg-logo="http://fibra1.sytes.net:4324/images/727d19d3023cee98f47c9ed2854e753a.png" group-title="✱ TDT ✱",TVG
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69978
+#EXTINF:-1 tvg-name="EXTREMADURA TV" tvg-logo="http://fibra1.sytes.net:4324/images/deda9ed48552b1118e88388499e951df.png" group-title="✱ TDT ✱",EXTREMADURA TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69979
+#EXTINF:-1 tvg-name="ETB 1" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/01/etb1.png?fit=440%2C264&ssl=1" group-title="✱ TDT ✱",ETB 1
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69980
+#EXTINF:-1 tvg-name="ETB 2" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/01/etb2.png?fit=440%2C264&ssl=1" group-title="✱ TDT ✱",ETB 2
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69981
+#EXTINF:-1 tvg-name="LEVANTE TV" tvg-logo="http://fibra1.sytes.net:4324/images/008756a67959123b7082264987f0cb2d.png" group-title="✱ TDT ✱",LEVANTE TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69982
+#EXTINF:-1 tvg-name="A Punt" tvg-logo="http://fibra1.sytes.net:4324/images/6157548f095825161572aac971a44d1f.png" group-title="✱ TDT ✱",A Punt
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69983
+#EXTINF:-1 tvg-name="ONDA CADIZ" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="✱ TDT ✱",ONDA CADIZ
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69984
+#EXTINF:-1 tvg-name="TPA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/TPA_logo_2006.png/revision/latest?cb=20110707134110" group-title="✱ TDT ✱",TPA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69985
+#EXTINF:-1 tvg-name="TELEVISIÓN CANARIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/TVCanaria2008.png/revision/latest/scale-to-width-down/300?cb=20210514143342&path-prefix=es" group-title="✱ TDT ✱",TELEVISIÓN CANARIA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69986
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="TELEMADRID" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/56c2ce454684de6262e922e7ea000672.png" group-title="✤ Autonomicas ✤",TELEMADRID
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69987
+#EXTINF:-1 tvg-name="8 MADRID" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/28346d11f853b9569a93b12a1c0e1bb8.png" group-title="✤ Autonomicas ✤",8 MADRID
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69988
+#EXTINF:-1 tvg-name="CANAL SUR ANDALUCIA" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/fc4219b77bed4fe73ecd15fd6ffad5ba.png" group-title="✤ Autonomicas ✤",CANAL SUR ANDALUCIA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69989
+#EXTINF:-1 tvg-name="CANAL MALAGA" group-title="✤ Autonomicas ✤",CANAL MALAGA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69990
+#EXTINF:-1 tvg-name="7RM MURCIA" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7befa8bc6fa86181a69b8e99ea56e5e0.png" group-title="✤ Autonomicas ✤",7RM MURCIA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69991
+#EXTINF:-1 tvg-name="Onda Cádiz 24h" group-title="✤ Autonomicas ✤",Onda Cádiz 24h
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69992
+#EXTINF:-1 tvg-name="Onda Cadiz" group-title="✤ Autonomicas ✤",Onda Cadiz
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69993
+#EXTINF:-1 tvg-name="ETB 1" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/876a7269d1288986b4a65e4cb875bb49.png" group-title="✤ Autonomicas ✤",ETB 1
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69994
+#EXTINF:-1 tvg-name="ETB 2" group-title="✤ Autonomicas ✤",ETB 2
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69995
+#EXTINF:-1 tvg-name="VEPACO TV" group-title="✤ Autonomicas ✤",VEPACO TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69996
+#EXTINF:-1 tvg-name="Canal Extremadura" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/2aeb64044b5d7b951c20581088f2aa06.png" group-title="✤ Autonomicas ✤",Canal Extremadura
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69997
+#EXTINF:-1 tvg-name="Canal 25 Barbastro TV" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/0a7c00ccb8e165b1eeadf72d7a4b9b9d.png" group-title="✤ Autonomicas ✤",Canal 25 Barbastro TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69998
+#EXTINF:-1 tvg-name="Diez TV" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/fd08a3a5dc46aae6f17f5c65807e601b.jpg" group-title="✤ Autonomicas ✤",Diez TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/69999
+#EXTINF:-1 tvg-name="TEF" group-title="✤ Autonomicas ✤",TEF
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70000
+#EXTINF:-1 tvg-name="MELILLA TV" group-title="✤ Autonomicas ✤",MELILLA TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70001
+#EXTINF:-1 tvg-name="ERLO TV" group-title="✤ Autonomicas ✤",ERLO TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70002
+#EXTINF:-1 tvg-name="Urola TV" group-title="✤ Autonomicas ✤",Urola TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70003
+#EXTINF:-1 tvg-name="TeleGilena" group-title="✤ Autonomicas ✤",TeleGilena
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70004
+#EXTINF:-1 tvg-name="Islatel" group-title="✤ Autonomicas ✤",Islatel
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70005
+#EXTINF:-1 tvg-name="Interalmeria TV" group-title="✤ Autonomicas ✤",Interalmeria TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70006
+#EXTINF:-1 tvg-name="Bailen TV" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/ccf001ac236c15190480b629a8e51867.png" group-title="✤ Autonomicas ✤",Bailen TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70007
+#EXTINF:-1 tvg-name="La 1 Catalunya" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/700bc9788d0dee0794ae157e7ef972b5.jpg" group-title="✤ Autonomicas ✤",La 1 Catalunya
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70008
+#EXTINF:-1 tvg-name="La 1 Catalunya" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/700bc9788d0dee0794ae157e7ef972b5.jpg" group-title="✤ Autonomicas ✤",La 1 Catalunya
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70009
+#EXTINF:-1 tvg-name="La 2 Catalunya" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="✤ Autonomicas ✤",La 2 Catalunya
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70010
+#EXTINF:-1 tvg-name="La 2 Catalunya" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="✤ Autonomicas ✤",La 2 Catalunya
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70011
+#EXTINF:-1 tvg-name="24h Catalunya" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/199c649ea110e7d48e585838620ff062.png" group-title="✤ Autonomicas ✤",24h Catalunya
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70012
+#EXTINF:-1 tvg-name="Bon Dia TV" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/8f675cc35b6896340c06da326ea19da6.png" group-title="✤ Autonomicas ✤",Bon Dia TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70013
+#EXTINF:-1 tvg-name="betevé" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="✤ Autonomicas ✤",betevé
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70014
+#EXTINF:-1 tvg-name="25 TV" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/fbd232728d03a67f238f5afefa5c39d7.png" group-title="✤ Autonomicas ✤",25 TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70015
+#EXTINF:-1 tvg-name="Canal 4 Televisió" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/3a33adbeb7ece7929ad1436daedbef46.png" group-title="✤ Autonomicas ✤",Canal 4 Televisió
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70016
+#EXTINF:-1 tvg-name="8 TV" tvg-logo="https://graph.facebook.com/8tvcat/picture?width=200&height=200" group-title="✤ Autonomicas ✤",8 TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70017
+#EXTINF:-1 tvg-name="Canal 4 Mancha Centro" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f65d65c8d5e03e802b77afa8390b7f3d.png" group-title="✤ Autonomicas ✤",Canal 4 Mancha Centro
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70018
+#EXTINF:-1 tvg-name="Canal 56 NOTICIES" group-title="✤ Autonomicas ✤",Canal 56 NOTICIES
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70019
+#EXTINF:-1 tvg-name="Alcarria tv" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/4ef4f8c6c4fdf510e54a740faf990738.jpg" group-title="✤ Autonomicas ✤",Alcarria tv
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70020
+#EXTINF:-1 tvg-name="CMM TV" group-title="✤ Autonomicas ✤",CMM TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70021
+#EXTINF:-1 tvg-name="Vision 6 TV" group-title="✤ Autonomicas ✤",Vision 6 TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70022
+#EXTINF:-1 tvg-name="La 8 Avila" group-title="✤ Autonomicas ✤",La 8 Avila
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70023
+#EXTINF:-1 tvg-name="Lancelot TV" group-title="✤ Autonomicas ✤",Lancelot TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70024
+#EXTINF:-1 tvg-name="Ribera TV" group-title="✤ Autonomicas ✤",Ribera TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70025
+#EXTINF:-1 tvg-name="Levante TV" group-title="✤ Autonomicas ✤",Levante TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70026
+#EXTINF:-1 tvg-name="Piera TV" group-title="✤ Autonomicas ✤",Piera TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70027
+#EXTINF:-1 tvg-name="LAOTRA" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/bac1601bcb3f577a14e7e9d975698ac6.png" group-title="✤ Autonomicas ✤",LAOTRA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70028
+#EXTINF:-1 tvg-name="TVM" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f52c33a6860bc0dd1296658e1240aec8.png" group-title="✤ Autonomicas ✤",TVM
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70029
+#EXTINF:-1 tvg-name="IB3" group-title="✤ Autonomicas ✤",IB3
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70030
+#EXTINF:-1 tvg-name="La 1 Canarias" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/700bc9788d0dee0794ae157e7ef972b5.jpg" group-title="✤ Autonomicas ✤",La 1 Canarias
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70031
+#EXTINF:-1 tvg-name="La 2 Canarias" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="✤ Autonomicas ✤",La 2 Canarias
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70032
+#EXTINF:-1 tvg-name="24h Canarias" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/199c649ea110e7d48e585838620ff062.png" group-title="✤ Autonomicas ✤",24h Canarias
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70033
+#EXTINF:-1 tvg-name="Mírame TV" tvg-logo="https://graph.facebook.com/MirameTVCanarias/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Mírame TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70034
+#EXTINF:-1 tvg-name="Canal 4 Tenerife" tvg-logo="https://graph.facebook.com/CANAL4TENERIFE/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Canal 4 Tenerife
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70035
+#EXTINF:-1 tvg-name="Biosfera TV" tvg-logo="https://graph.facebook.com/biosferamedia/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Biosfera TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70036
+#EXTINF:-1 tvg-name="NORTEvisión" tvg-logo="https://graph.facebook.com/aljoamyvisual/picture?width=200&height=200" group-title="✤ Autonomicas ✤",NORTEvisión
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70037
+#EXTINF:-1 tvg-name="RTVCE" tvg-logo="https://graph.facebook.com/RTVCE/picture?width=200&height=200" group-title="✤ Autonomicas ✤",RTVCE
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70038
+#EXTINF:-1 tvg-name="Telemadrid" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Telemadrid
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70039
+#EXTINF:-1 tvg-name="LaOtra" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/4f00900edcb1d6448a34754569fa4787.jpg" group-title="✤ Autonomicas ✤",LaOtra
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70040
+#EXTINF:-1 tvg-name="Webcam OndaMadrid" tvg-logo="https://graph.facebook.com/ondamadridradio/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Webcam OndaMadrid
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70041
+#EXTINF:-1 tvg-name="Webcam OndaMadrid" tvg-logo="https://graph.facebook.com/ondamadridradio/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Webcam OndaMadrid
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70042
+#EXTINF:-1 tvg-name="Teleganés" tvg-logo="https://graph.facebook.com/1423419417957760/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Teleganés
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70043
+#EXTINF:-1 tvg-name="Distrito TV" tvg-logo="https://graph.facebook.com/2004860103163343/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Distrito TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70044
+#EXTINF:-1 tvg-name="C33 Madrid" tvg-logo="https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200" group-title="✤ Autonomicas ✤",C33 Madrid
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70045
+#EXTINF:-1 tvg-name="GCM TV" tvg-logo="https://graph.facebook.com/100146922067408/picture?width=200&height=200" group-title="✤ Autonomicas ✤",GCM TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70046
+#EXTINF:-1 tvg-name="Nesting TV" tvg-logo="https://graph.facebook.com/nestingtv/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Nesting TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70047
+#EXTINF:-1 tvg-name="IBEROAMERICA TV" tvg-logo="https://graph.facebook.com/iberoamericatv/picture?width=200&height=200" group-title="✤ Autonomicas ✤",IBEROAMERICA TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70048
+#EXTINF:-1 tvg-name="Navarra TV HD" tvg-logo="https://graph.facebook.com/NavarraTelevision/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Navarra TV HD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70049
+#EXTINF:-1 tvg-name="Navarra TV SD" tvg-logo="https://graph.facebook.com/NavarraTelevision/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Navarra TV SD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70050
+#EXTINF:-1 tvg-name="TeleRibera" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/519e78d59e5edf7c7e09ef6ede95d9b9.jpg" group-title="✤ Autonomicas ✤",TeleRibera
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70051
+#EXTINF:-1 tvg-name="Xaloa Telebista" tvg-logo="https://graph.facebook.com/xaloatb/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Xaloa Telebista
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70052
+#EXTINF:-1 tvg-name="Parlamento de Navarra" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/626f64f7f568238db0203da668621d89.jpg" group-title="✤ Autonomicas ✤",Parlamento de Navarra
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70053
+#EXTINF:-1 tvg-name="Parlamento de Navarra" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/626f64f7f568238db0203da668621d89.jpg" group-title="✤ Autonomicas ✤",Parlamento de Navarra
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70054
+#EXTINF:-1 tvg-name="À Punt" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="✤ Autonomicas ✤",À Punt
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70055
+#EXTINF:-1 tvg-name="7 TeleValencia" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/82c308f176f1b963be9fd5c8555402f4.jpg" group-title="✤ Autonomicas ✤",7 TeleValencia
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70056
+#EXTINF:-1 tvg-name="Intercomarcal TV" tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Intercomarcal TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70057
+#EXTINF:-1 tvg-name="Intercomarcal TV" tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Intercomarcal TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70058
+#EXTINF:-1 tvg-name="Intercomarcal TV" tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Intercomarcal TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70059
+#EXTINF:-1 tvg-name="Ribera TV" tvg-logo="https://graph.facebook.com/grup.televisio/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Ribera TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70060
+#EXTINF:-1 tvg-name="8 La Marina TV" tvg-logo="https://graph.facebook.com/8lamarinatelevision/picture?width=200&height=200" group-title="✤ Autonomicas ✤",8 La Marina TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70061
+#EXTINF:-1 tvg-name="La 8 Mediterráneo" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title="✤ Autonomicas ✤",La 8 Mediterráneo
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70062
+#EXTINF:-1 tvg-name="Alacantí TV" tvg-logo="https://graph.facebook.com/alacantitv/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Alacantí TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70063
+#EXTINF:-1 tvg-name="TV Artequatre" tvg-logo="https://graph.facebook.com/tvArtequatre/picture?width=200&height=200" group-title="✤ Autonomicas ✤",TV Artequatre
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70064
+#EXTINF:-1 tvg-name="12TV Alicante" tvg-logo="https://graph.facebook.com/12tv.es/picture?width=200&height=200" group-title="✤ Autonomicas ✤",12TV Alicante
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70065
+#EXTINF:-1 tvg-name="Levante TV" tvg-logo="https://graph.facebook.com/levantetv/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Levante TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70066
+#EXTINF:-1 tvg-name="TV Vega Baja" tvg-logo="https://graph.facebook.com/TVVegaBaja/picture?width=200&height=200" group-title="✤ Autonomicas ✤",TV Vega Baja
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70067
+#EXTINF:-1 tvg-name="TV 4 Vall de Uxó" tvg-logo="https://graph.facebook.com/TV4LaVall/picture?width=200&height=200" group-title="✤ Autonomicas ✤",TV 4 Vall de Uxó
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70068
+#EXTINF:-1 tvg-name="Burriana TV" tvg-logo="https://graph.facebook.com/burrianateve/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Burriana TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70069
+#EXTINF:-1 tvg-name="Distrito TV Valencia" tvg-logo="https://graph.facebook.com/2004860103163343/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Distrito TV Valencia
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70070
+#EXTINF:-1 tvg-name="telesafor" tvg-logo="https://graph.facebook.com/Tele7Safor/picture?width=200&height=200" group-title="✤ Autonomicas ✤",telesafor
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70071
+#EXTINF:-1 tvg-name="Elche 7 TV" tvg-logo="https://graph.facebook.com/elche7hd/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Elche 7 TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70072
+#EXTINF:-1 tvg-name="Canal 56" tvg-logo="https://graph.facebook.com/canal56televisio/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Canal 56
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70073
+#EXTINF:-1 tvg-name="Tevequatre TV" tvg-logo="https://graph.facebook.com/teve4televisio/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Tevequatre TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70074
+#EXTINF:-1 tvg-name="Maestrat TV" tvg-logo="https://graph.facebook.com/maestrat.tv/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Maestrat TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70075
+#EXTINF:-1 tvg-name="Univers TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQb35mWN9WQKdrbrrl30uG9PdY_du6DmbB_khSZdA=s200" group-title="✤ Autonomicas ✤",Univers TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70076
+#EXTINF:-1 tvg-name="TV Almassora" tvg-logo="https://graph.facebook.com/tvalmassora/picture?width=200&height=200" group-title="✤ Autonomicas ✤",TV Almassora
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70077
+#EXTINF:-1 tvg-name="Onda 15 TV" tvg-logo="https://graph.facebook.com/Onda15Radio/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Onda 15 TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70078
+#EXTINF:-1 tvg-name="Canal 3 Biar" tvg-logo="https://graph.facebook.com/canal3biar/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Canal 3 Biar
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70079
+#EXTINF:-1 tvg-name="Ràdio Bocairent TV" tvg-logo="https://graph.facebook.com/radiobocairent/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Ràdio Bocairent TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70080
+#EXTINF:-1 tvg-name="Punt 3 Vall Uixó" tvg-logo="https://graph.facebook.com/Punt3Television/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Punt 3 Vall Uixó
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70081
+#EXTINF:-1 tvg-name="7NN Valencia" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/a6deddefe9d7db7253118ff51e80ce6e.jpg" group-title="✤ Autonomicas ✤",7NN Valencia
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70082
+#EXTINF:-1 tvg-name="Ciudades Del Ocio TV" tvg-logo="https://graph.facebook.com/CiudadesDelOcioTV/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Ciudades Del Ocio TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70083
+#EXTINF:-1 tvg-name="Onda Valencia" tvg-logo="https://graph.facebook.com/ondavalenciatv/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Onda Valencia
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70084
+#EXTINF:-1 tvg-name="Une Vinalopó" tvg-logo="https://graph.facebook.com/UneVinalopo/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Une Vinalopó
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70085
+#EXTINF:-1 tvg-name="Corts Valencianes" tvg-logo="https://graph.facebook.com/cortsval/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Corts Valencianes
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70086
+#EXTINF:-1 tvg-name="Canal Extremadura" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Canal Extremadura
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70087
+#EXTINF:-1 tvg-name="Zafra TV" tvg-logo="https://graph.facebook.com/ZFtelevision/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Zafra TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70088
+#EXTINF:-1 tvg-name="Cáceres Tevé" tvg-logo="https://graph.facebook.com/caceresteve/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Cáceres Tevé
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70089
+#EXTINF:-1 tvg-name="TVG" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="✤ Autonomicas ✤",TVG
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70090
+#EXTINF:-1 tvg-name="TVG 2" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="✤ Autonomicas ✤",TVG 2
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70091
+#EXTINF:-1 tvg-name="TVG Xabarin" tvg-logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200" group-title="✤ Autonomicas ✤",TVG Xabarin
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70092
+#EXTINF:-1 tvg-name="TVG Musigal" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="✤ Autonomicas ✤",TVG Musigal
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70093
+#EXTINF:-1 tvg-name="TVG Cultura" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="✤ Autonomicas ✤",TVG Cultura
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70094
+#EXTINF:-1 tvg-name="TVG Momentos G" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="✤ Autonomicas ✤",TVG Momentos G
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70095
+#EXTINF:-1 tvg-name="TVG Eventos" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="✤ Autonomicas ✤",TVG Eventos
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70096
+#EXTINF:-1 tvg-name="TVG Eventos" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="✤ Autonomicas ✤",TVG Eventos
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70097
+#EXTINF:-1 tvg-name="TVG Eventos" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="✤ Autonomicas ✤",TVG Eventos
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70098
+#EXTINF:-1 tvg-name="TVG Eventos" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="✤ Autonomicas ✤",TVG Eventos
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70099
+#EXTINF:-1 tvg-name="TVG Eventos" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="✤ Autonomicas ✤",TVG Eventos
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70100
+#EXTINF:-1 tvg-name="TV Ferrol" tvg-logo="https://graph.facebook.com/tvferrol/picture?width=200&height=200" group-title="✤ Autonomicas ✤",TV Ferrol
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70101
+#EXTINF:-1 tvg-name="TeleVigo" tvg-logo="https://graph.facebook.com/televigo/picture?width=200&height=200" group-title="✤ Autonomicas ✤",TeleVigo
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70102
+#EXTINF:-1 tvg-name="TEF" tvg-logo="https://graph.facebook.com/TEFTV/picture?width=200&height=200" group-title="✤ Autonomicas ✤",TEF
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70103
+#EXTINF:-1 tvg-name="TV Rioja" tvg-logo="https://graph.facebook.com/tvrtelevision/picture?width=200&height=200" group-title="✤ Autonomicas ✤",TV Rioja
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70104
+#EXTINF:-1 tvg-name="Parlamento de La Rioja" tvg-logo="https://graph.facebook.com/ParlamentodeLaRioja/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Parlamento de La Rioja
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70105
+#EXTINF:-1 tvg-name="Melilla TV" tvg-logo="https://graph.facebook.com/TelevisionMelilla/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Melilla TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70106
+#EXTINF:-1 tvg-name="Popular TV Melilla" tvg-logo="https://graph.facebook.com/populartvml/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Popular TV Melilla
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70107
+#EXTINF:-1 tvg-name="ETB 1" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="✤ Autonomicas ✤",ETB 1
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70108
+#EXTINF:-1 tvg-name="ETB 2" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="✤ Autonomicas ✤",ETB 2
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70109
+#EXTINF:-1 tvg-name="ETB Eventos 1" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="✤ Autonomicas ✤",ETB Eventos 1
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70110
+#EXTINF:-1 tvg-name="ETB Eventos 2 GEO" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="✤ Autonomicas ✤",ETB Eventos 2 GEO
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70111
+#EXTINF:-1 tvg-name="Hamaika TV" tvg-logo="https://graph.facebook.com/HamaikaTb/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Hamaika TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70112
+#EXTINF:-1 tvg-name="Tele 7" tvg-logo="https://graph.facebook.com/Tele7Radio7/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Tele 7
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70113
+#EXTINF:-1 tvg-name="Goiena Eus" tvg-logo="https://graph.facebook.com/goiena.eus/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Goiena Eus
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70114
+#EXTINF:-1 tvg-name="Durangaldeko TV" tvg-logo="https://graph.facebook.com/dotbDurangaldekoTelebista/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Durangaldeko TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70115
+#EXTINF:-1 tvg-name="Goierri Irrati TV" tvg-logo="https://graph.facebook.com/GoierriIrratiTelebista/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Goierri Irrati TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70116
+#EXTINF:-1 tvg-name="28 Kanala" tvg-logo="https://graph.facebook.com/28kanala/picture?width=200&height=200" group-title="✤ Autonomicas ✤",28 Kanala
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70117
+#EXTINF:-1 tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/312994995454199/picture?width=200&height=200" group-title="✤ Autonomicas ✤",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70118
+#EXTINF:-1 tvg-name="Erlo TV" tvg-logo="https://graph.facebook.com/542582126141223/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Erlo TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70119
+#EXTINF:-1 tvg-name="Oizmendi TV" tvg-logo="https://graph.facebook.com/oizmenditelebista/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Oizmendi TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70120
+#EXTINF:-1 tvg-name="Urola TV" tvg-logo="https://graph.facebook.com/urolatelebista/picture?width=200&height=200" group-title="✤ Autonomicas ✤",Urola TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70121
+#EXTINF:-1 tvg-name="7 R. de Murcia" tvg-logo="https://graph.facebook.com/la7tele/picture?width=200&height=200" group-title="✤ Autonomicas ✤",7 R. de Murcia
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70122
+#EXTINF:-1 tvg-name="Popular TV Murcia" tvg-logo="https://pbs.twimg.com/profile_images/1442865104614158343/5MprEWSZ_200x200.jpg" group-title="✤ Autonomicas ✤",Popular TV Murcia
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70123
+#EXTINF:-1 tvg-name="Canal 1 Mar Menor Torre Pacheco" tvg-logo="https://miguel.tuwebtv.es/images/canal_1.png" group-title="✤ Autonomicas ✤",Canal 1 Mar Menor Torre Pacheco
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70124
+#EXTINF:-1 tvg-name="TV3CAT GEO CAT" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="✤ Autonomicas ✤",TV3CAT GEO CAT
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70125
+#EXTINF:-1 tvg-name="TV3CAT GEO" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="✤ Autonomicas ✤",TV3CAT GEO
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70126
+#EXTINF:-1 tvg-name="TV3CAT" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="✤ Autonomicas ✤",TV3CAT
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70127
+#EXTINF:-1 tvg-name="EITB Basque" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="✤ Autonomicas ✤",EITB Basque
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70128
+#EXTINF:-1 tvg-name="TVG América" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="✤ Autonomicas ✤",TVG América
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70129
+#EXTINF:-1 tvg-name="ATV Andorra" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="✤ Autonomicas ✤",ATV Andorra
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70130
+#EXTINF:-1 tvg-name="ATV Web Andorra" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="✤ Autonomicas ✤",ATV Web Andorra
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70131
+#EXTINF:-1 tvg-name="CNN Internacional" tvg-logo="https://graph.facebook.com/cnninternational/picture?width=320&height=320" group-title="✤ Autonomicas ✤",CNN Internacional
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70132
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN MOVISTAR 1 SD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="♛ DAZN ♛",DAZN MOVISTAR 1 SD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70912
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN MOVISTAR 1 HD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="♛ DAZN ♛",DAZN MOVISTAR 1 HD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70913
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN MOVISTAR 1 FHD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="♛ DAZN ♛",DAZN MOVISTAR 1 FHD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70914
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN MOVISTAR 1 FHD EXTRA" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="♛ DAZN ♛",DAZN MOVISTAR 1 FHD EXTRA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70915
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN MOVISTAR 1 FHD (x265)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="♛ DAZN ♛",DAZN MOVISTAR 1 FHD (x265)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70916
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN MOVISTAR 2 FHD (x265)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="♛ DAZN ♛",DAZN MOVISTAR 2 FHD (x265)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70917
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN MOVISTAR 2 SD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="♛ DAZN ♛",DAZN MOVISTAR 2 SD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70918
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN MOVISTAR 2 HD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="♛ DAZN ♛",DAZN MOVISTAR 2 HD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70919
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN MOVISTAR 2 FHD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="♛ DAZN ♛",DAZN MOVISTAR 2 FHD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70920
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN MOVISTAR 2 FHD EXTRA" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="♛ DAZN ♛",DAZN MOVISTAR 2 FHD EXTRA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70921
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="MOVISTAR DAZN 3 SD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="♛ DAZN ♛",MOVISTAR DAZN 3 SD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70922
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="MOVISTAR DAZN 3 HD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="♛ DAZN ♛",MOVISTAR DAZN 3 HD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70923
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="MOVISTAR DAZN 3 FHD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="♛ DAZN ♛",MOVISTAR DAZN 3 FHD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70924
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="MOVISTAR DAZN 3 FHD EXTRA" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="♛ DAZN ♛",MOVISTAR DAZN 3 FHD EXTRA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70925
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="MOVISTAR DAZN 3 FHD (H265)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="♛ DAZN ♛",MOVISTAR DAZN 3 FHD (H265)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70926
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="MOVISTAR DAZN 4 SD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="♛ DAZN ♛",MOVISTAR DAZN 4 SD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70927
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="MOVISTAR DAZN 4 HD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="♛ DAZN ♛",MOVISTAR DAZN 4 HD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70928
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="MOVISTAR DAZN 4 FHD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="♛ DAZN ♛",MOVISTAR DAZN 4 FHD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70929
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="MOVISTAR DAZN 4 FHD EXTRA" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="♛ DAZN ♛",MOVISTAR DAZN 4 FHD EXTRA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70930
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="MOVISTAR DAZN 4 FHD (H265)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f95d0cf8b60bcfd70061bad09caa1554.png" group-title="♛ DAZN ♛",MOVISTAR DAZN 4 FHD (H265)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70931
+#EXTINF:-1 tvg-name="MGPTV | Camara General Carrera Con Comentarios" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7bb5286ac54cfdd910188b013ac564e1.png" group-title="♛ DAZN ♛",MGPTV | Camara General Carrera Con Comentarios
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70932
+#EXTINF:-1 tvg-name="MGPTV | Camara General Carrera Sin Comentarios" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7bb5286ac54cfdd910188b013ac564e1.png" group-title="♛ DAZN ♛",MGPTV | Camara General Carrera Sin Comentarios
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70933
+#EXTINF:-1 tvg-name="MGPTV | Camara Helicoptero" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7bb5286ac54cfdd910188b013ac564e1.png" group-title="♛ DAZN ♛",MGPTV | Camara Helicoptero
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70934
+#EXTINF:-1 tvg-name="MGPTV | Camara de a bordo 1" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7bb5286ac54cfdd910188b013ac564e1.png" group-title="♛ DAZN ♛",MGPTV | Camara de a bordo 1
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70935
+#EXTINF:-1 tvg-name="MGPTV | Camara de a bordo 2" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7bb5286ac54cfdd910188b013ac564e1.png" group-title="♛ DAZN ♛",MGPTV | Camara de a bordo 2
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70936
+#EXTINF:-1 tvg-name="MGPTV | Camara de a bordo 3" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7bb5286ac54cfdd910188b013ac564e1.png" group-title="♛ DAZN ♛",MGPTV | Camara de a bordo 3
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70937
+#EXTINF:-1 tvg-name="MGPTV | Camara de a bordo 4" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7bb5286ac54cfdd910188b013ac564e1.png" group-title="♛ DAZN ♛",MGPTV | Camara de a bordo 4
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70938
+#EXTINF:-1 tvg-name="MGPTV | Camara Carrera 360 grados en 2K ( Solo Motogp )" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7bb5286ac54cfdd910188b013ac564e1.png" group-title="♛ DAZN ♛",MGPTV | Camara Carrera 360 grados en 2K ( Solo Motogp )
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70939
+#EXTINF:-1 tvg-name="CANAL+ MOTO GP" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/ea6bc2ea126c4d50b886d45f37d7f2d3.png" group-title="♛ DAZN ♛",CANAL+ MOTO GP
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70940
+#EXTINF:-1 tvg-name="SKY MOTO GP" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/8d45d01ec4578bd4b6621621259879ae.png" group-title="♛ DAZN ♛",SKY MOTO GP
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70941
+#EXTINF:-1 tvg-name="-------DAZN EXTRA--------" group-title="♛ DAZN ♛",-------DAZN EXTRA--------
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70942
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 OP1  [FHD]" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/10cffb81c3df4a36081e6a9cc2f110d9.png" group-title="♛ DAZN ♛",DAZN 1 OP1  [FHD]
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70943
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2  OP1  [FHD]" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/10cffb81c3df4a36081e6a9cc2f110d9.png" group-title="♛ DAZN ♛",DAZN 2  OP1  [FHD]
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70944
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3 VIP OP1  [FHD]" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/10cffb81c3df4a36081e6a9cc2f110d9.png" group-title="♛ DAZN ♛",DAZN 3 VIP OP1  [FHD]
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70945
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4 VIP OP1 [FHD]" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/10cffb81c3df4a36081e6a9cc2f110d9.png" group-title="♛ DAZN ♛",DAZN 4 VIP OP1 [FHD]
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70946
+#EXTINF:-1 tvg-name="------DAZN FORMULA F1------" group-title="♛ DAZN ♛",------DAZN FORMULA F1------
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70947
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 SD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/8f48d53f0bb233a19b5909031f416dc1.png" group-title="♛ DAZN ♛",DAZN F1 SD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70948
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1  HD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/8f48d53f0bb233a19b5909031f416dc1.png" group-title="♛ DAZN ♛",DAZN F1  HD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70949
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 FHD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/8f48d53f0bb233a19b5909031f416dc1.png" group-title="♛ DAZN ♛",DAZN F1 FHD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70950
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1  FHD EXTRA" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/8f48d53f0bb233a19b5909031f416dc1.png" group-title="♛ DAZN ♛",DAZN F1  FHD EXTRA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70951
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 4K" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/8f48d53f0bb233a19b5909031f416dc1.png" group-title="♛ DAZN ♛",DAZN F1 4K
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70952
+#EXTINF:-1 tvg-name="F1TV | Practise / Qualifying / Main Race" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/28c82b5abb43b6ee66983a5041293f56.png" group-title="♛ DAZN ♛",F1TV | Practise / Qualifying / Main Race
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70953
+#EXTINF:-1 tvg-name="F1TV | Data Channel" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/28c82b5abb43b6ee66983a5041293f56.png" group-title="♛ DAZN ♛",F1TV | Data Channel
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70954
+#EXTINF:-1 tvg-name="F1TV | Driver Tracker Channel" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/28c82b5abb43b6ee66983a5041293f56.png" group-title="♛ DAZN ♛",F1TV | Driver Tracker Channel
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70955
+#EXTINF:-1 tvg-name="F1TV | Pit Lane Channel" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/28c82b5abb43b6ee66983a5041293f56.png" group-title="♛ DAZN ♛",F1TV | Pit Lane Channel
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70956
+#EXTINF:-1 tvg-name="F1TV | Fernando Alonso Helmet Camera" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/28c82b5abb43b6ee66983a5041293f56.png" group-title="♛ DAZN ♛",F1TV | Fernando Alonso Helmet Camera
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70957
+#EXTINF:-1 tvg-name="F1TV | Esteban Ocon Helmet Camera" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/28c82b5abb43b6ee66983a5041293f56.png" group-title="♛ DAZN ♛",F1TV | Esteban Ocon Helmet Camera
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70958
+#EXTINF:-1 tvg-name="F1TV | Zhou Guanyu Helmet Camera" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/28c82b5abb43b6ee66983a5041293f56.png" group-title="♛ DAZN ♛",F1TV | Zhou Guanyu Helmet Camera
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70959
+#EXTINF:-1 tvg-name="F1TV | Max Verstappen Helmet Camera" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/28c82b5abb43b6ee66983a5041293f56.png" group-title="♛ DAZN ♛",F1TV | Max Verstappen Helmet Camera
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70960
+#EXTINF:-1 tvg-name="F1TV | Lance Stroll Helmet Camera" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/28c82b5abb43b6ee66983a5041293f56.png" group-title="♛ DAZN ♛",F1TV | Lance Stroll Helmet Camera
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70961
+#EXTINF:-1 tvg-name="F1TV | Carlos Sainz Helmet Camera" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/28c82b5abb43b6ee66983a5041293f56.png" group-title="♛ DAZN ♛",F1TV | Carlos Sainz Helmet Camera
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70962
+#EXTINF:-1 tvg-name="F1TV | Mick Schumacher Helmet Camera" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/28c82b5abb43b6ee66983a5041293f56.png" group-title="♛ DAZN ♛",F1TV | Mick Schumacher Helmet Camera
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70963
+#EXTINF:-1 tvg-name="F1TV | Charles Leclerc Helmet Camera" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/28c82b5abb43b6ee66983a5041293f56.png" group-title="♛ DAZN ♛",F1TV | Charles Leclerc Helmet Camera
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70964
+#EXTINF:-1 tvg-name="F1TV | George Russell Helmet Camera" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/28c82b5abb43b6ee66983a5041293f56.png" group-title="♛ DAZN ♛",F1TV | George Russell Helmet Camera
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70965
+#EXTINF:-1 tvg-name="F1TV | Lewis Hamilton Helmet Camera" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/28c82b5abb43b6ee66983a5041293f56.png" group-title="♛ DAZN ♛",F1TV | Lewis Hamilton Helmet Camera
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70966
+#EXTINF:-1 tvg-name="F1TV | Kevin Magnussen Camera" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/28c82b5abb43b6ee66983a5041293f56.png" group-title="♛ DAZN ♛",F1TV | Kevin Magnussen Camera
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70967
+#EXTINF:-1 tvg-name="F1TV | Yuki Tsunoda  Helmet Camera" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/28c82b5abb43b6ee66983a5041293f56.png" group-title="♛ DAZN ♛",F1TV | Yuki Tsunoda  Helmet Camera
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70968
+#EXTINF:-1 tvg-name="F1TV | Daniel Ricciardo Helmet Camera" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/28c82b5abb43b6ee66983a5041293f56.png" group-title="♛ DAZN ♛",F1TV | Daniel Ricciardo Helmet Camera
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70969
+#EXTINF:-1 tvg-name="F1TV | Pierre Gasly Helmet Camera" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/28c82b5abb43b6ee66983a5041293f56.png" group-title="♛ DAZN ♛",F1TV | Pierre Gasly Helmet Camera
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70970
+#EXTINF:-1 tvg-name="F1TV | Alexander Albon Helmet Camera" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/28c82b5abb43b6ee66983a5041293f56.png" group-title="♛ DAZN ♛",F1TV | Alexander Albon Helmet Camera
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70971
+#EXTINF:-1 tvg-name="F1TV | Sebastian Vettel Helmet Camera" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/28c82b5abb43b6ee66983a5041293f56.png" group-title="♛ DAZN ♛",F1TV | Sebastian Vettel Helmet Camera
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70972
+#EXTINF:-1 tvg-name="F1TV | Nicholas Latifi Helmet Camera" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/28c82b5abb43b6ee66983a5041293f56.png" group-title="♛ DAZN ♛",F1TV | Nicholas Latifi Helmet Camera
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70973
+#EXTINF:-1 tvg-name="F1TV | Sergio Perez Helmet Camera" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/28c82b5abb43b6ee66983a5041293f56.png" group-title="♛ DAZN ♛",F1TV | Sergio Perez Helmet Camera
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70974
+#EXTINF:-1 tvg-name="F1TV | Lando Norris Helmet Camera" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/28c82b5abb43b6ee66983a5041293f56.png" group-title="♛ DAZN ♛",F1TV | Lando Norris Helmet Camera
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70975
+#EXTINF:-1 tvg-name="F1TV | Valtteri Bottas Helmet Camera" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/28c82b5abb43b6ee66983a5041293f56.png" group-title="♛ DAZN ♛",F1TV | Valtteri Bottas Helmet Camera
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70976
+#EXTINF:-1 tvg-name="ONBOARD F1 ALONSO" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/6fc6f5100058852efd5f6c43ba9e6d6e.png" group-title="♛ DAZN ♛",ONBOARD F1 ALONSO
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70977
+#EXTINF:-1 tvg-name="ONBOARD F1 SAINZ" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/6fc6f5100058852efd5f6c43ba9e6d6e.png" group-title="♛ DAZN ♛",ONBOARD F1 SAINZ
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70978
+#EXTINF:-1 tvg-name="ON BOARD F1 HAMILTON" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/6fc6f5100058852efd5f6c43ba9e6d6e.png" group-title="♛ DAZN ♛",ON BOARD F1 HAMILTON
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70979
+#EXTINF:-1 tvg-name="ONBOARD F1 VERSTAPPEN" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/6fc6f5100058852efd5f6c43ba9e6d6e.png" group-title="♛ DAZN ♛",ONBOARD F1 VERSTAPPEN
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70980
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/5455c9f2862d00e1fde58ba4fecfc1e8.png" group-title="NBA / NFL / NHL / MLB",NBA TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70981
+#EXTINF:-1 tvg-name="NBA NETWORK" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f1832f09dd313c5c98d3939e5db7a097.png" group-title="NBA / NFL / NHL / MLB",NBA NETWORK
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70982
+#EXTINF:-1 tvg-name="SPORT TV NBA FHD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/075a3e36a0a52dcbc568c05788e8a713.jpg" group-title="NBA / NFL / NHL / MLB",SPORT TV NBA FHD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70983
+#EXTINF:-1 tvg-name="NBA League Pass 1" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/76420a9c9ac07a40176e72c390a98666.png" group-title="NBA / NFL / NHL / MLB",NBA League Pass 1
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70984
+#EXTINF:-1 tvg-name="NBA League Pass 2" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/76420a9c9ac07a40176e72c390a98666.png" group-title="NBA / NFL / NHL / MLB",NBA League Pass 2
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70985
+#EXTINF:-1 tvg-name="NBA League Pass 3" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/76420a9c9ac07a40176e72c390a98666.png" group-title="NBA / NFL / NHL / MLB",NBA League Pass 3
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70986
+#EXTINF:-1 tvg-name="NBA League Pass 4" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/76420a9c9ac07a40176e72c390a98666.png" group-title="NBA / NFL / NHL / MLB",NBA League Pass 4
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70987
+#EXTINF:-1 tvg-name="NBA League Pass 5" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/76420a9c9ac07a40176e72c390a98666.png" group-title="NBA / NFL / NHL / MLB",NBA League Pass 5
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70988
+#EXTINF:-1 tvg-name="NBA League Pass 6" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/76420a9c9ac07a40176e72c390a98666.png" group-title="NBA / NFL / NHL / MLB",NBA League Pass 6
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70989
+#EXTINF:-1 tvg-name="NBA League Pass 7" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/76420a9c9ac07a40176e72c390a98666.png" group-title="NBA / NFL / NHL / MLB",NBA League Pass 7
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70990
+#EXTINF:-1 tvg-name="NBA League Pass 8" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/76420a9c9ac07a40176e72c390a98666.png" group-title="NBA / NFL / NHL / MLB",NBA League Pass 8
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70991
+#EXTINF:-1 tvg-name="NBA League Pass 9" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/76420a9c9ac07a40176e72c390a98666.png" group-title="NBA / NFL / NHL / MLB",NBA League Pass 9
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70992
+#EXTINF:-1 tvg-name="NBA League Pass  10" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/76420a9c9ac07a40176e72c390a98666.png" group-title="NBA / NFL / NHL / MLB",NBA League Pass  10
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70993
+#EXTINF:-1 tvg-name="PPV NFL 1" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/c2c56e18600a8f2d76dee1653562cb0e.png" group-title="NBA / NFL / NHL / MLB",PPV NFL 1
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70994
+#EXTINF:-1 tvg-name="PPV NFL 2" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/c2c56e18600a8f2d76dee1653562cb0e.png" group-title="NBA / NFL / NHL / MLB",PPV NFL 2
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70995
+#EXTINF:-1 tvg-name="PPV NFL 3" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/c2c56e18600a8f2d76dee1653562cb0e.png" group-title="NBA / NFL / NHL / MLB",PPV NFL 3
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70996
+#EXTINF:-1 tvg-name="PPV NFL 4" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/c2c56e18600a8f2d76dee1653562cb0e.png" group-title="NBA / NFL / NHL / MLB",PPV NFL 4
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70997
+#EXTINF:-1 tvg-name="NFL WEEK 1 S01 E01" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/8bc76b0d888786632f23655f6c36d847.jpg" group-title="NBA / NFL / NHL / MLB",NFL WEEK 1 S01 E01
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70998
+#EXTINF:-1 tvg-name="NFL WEEK 1 S01 E02" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f501f2d5eb8db5af384d60f92758b1c2.jpg" group-title="NBA / NFL / NHL / MLB",NFL WEEK 1 S01 E02
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/70999
+#EXTINF:-1 tvg-name="NFL WEEK 1 S01 E03" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/57d94f7f21f2fb12d45df3f9decad137.jpg" group-title="NBA / NFL / NHL / MLB",NFL WEEK 1 S01 E03
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71000
+#EXTINF:-1 tvg-name="NFL WEEK 1 S01 E04" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/1118cc4fbc7f3030a97d67698d36909e.jpg" group-title="NBA / NFL / NHL / MLB",NFL WEEK 1 S01 E04
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71001
+#EXTINF:-1 tvg-name="NFL WEEK 1 S01 E05" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/fee2d5a8b13efe886cf58ba5f1b6ea61.jpg" group-title="NBA / NFL / NHL / MLB",NFL WEEK 1 S01 E05
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71002
+#EXTINF:-1 tvg-name="NFL WEEK 1 S01 E06" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/86701b7e6062cd143014739437083846.png" group-title="NBA / NFL / NHL / MLB",NFL WEEK 1 S01 E06
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71003
+#EXTINF:-1 tvg-name="NFL WEEK 1 S01 E07" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/9b1af3df7306a1765525559c915f078b.jpg" group-title="NBA / NFL / NHL / MLB",NFL WEEK 1 S01 E07
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71004
+#EXTINF:-1 tvg-name="NFL WEEK 1 S01 E08" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/3fd1ede380265d0d176707eadd92ace5.jpeg" group-title="NBA / NFL / NHL / MLB",NFL WEEK 1 S01 E08
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71005
+#EXTINF:-1 tvg-name="NFL WEEK 1 S01 E09" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/900d7180a8eaffe69d241b82ca35c242.jpg" group-title="NBA / NFL / NHL / MLB",NFL WEEK 1 S01 E09
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71006
+#EXTINF:-1 tvg-name="NFL WEEK 1 S01 E10" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/b4c6e3e6abb46d748e9511c368b1989f.jpg" group-title="NBA / NFL / NHL / MLB",NFL WEEK 1 S01 E10
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71007
+#EXTINF:-1 tvg-name="NFL WEEK 1 S01 E11" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/faebb622e8d2c0714f54515758dca199.jpg" group-title="NBA / NFL / NHL / MLB",NFL WEEK 1 S01 E11
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71008
+#EXTINF:-1 tvg-name="NFL WEEK 1 S01 E12" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/766ef3a4c5e64018e55d6cbdbe889b2c.jpg" group-title="NBA / NFL / NHL / MLB",NFL WEEK 1 S01 E12
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71009
+#EXTINF:-1 tvg-name="NFL WEEK 1 S01 E13" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/b67d402e55b3d43415a1f5a8c31f854d.jpg" group-title="NBA / NFL / NHL / MLB",NFL WEEK 1 S01 E13
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71010
+#EXTINF:-1 tvg-name="NFL WEEK 1 S01 E14" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/abc824e67475da76ddb44c48db36ad3c.jpg" group-title="NBA / NFL / NHL / MLB",NFL WEEK 1 S01 E14
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71011
+#EXTINF:-1 tvg-name="NFL WEEK 1 S01 E15" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/8fc07f48b451ccaeb21b86fb4919d4ae.jpg" group-title="NBA / NFL / NHL / MLB",NFL WEEK 1 S01 E15
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71012
+#EXTINF:-1 tvg-name="NFL WEEK 1 S01 E16" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/8d95a8e65392c7495cb60fffb2baceaf.jpg" group-title="NBA / NFL / NHL / MLB",NFL WEEK 1 S01 E16
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71013
+#EXTINF:-1 tvg-name="NFL WEEK 2 S01 E01" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401326368.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 2 S01 E01
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71014
+#EXTINF:-1 tvg-name="NFL WEEK 2 S01 E02" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401437636.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 2 S01 E02
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71015
+#EXTINF:-1 tvg-name="NFL WEEK 2 S01 E03" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401326428.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 2 S01 E03
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71016
+#EXTINF:-1 tvg-name="NFL WEEK 2 S01 E04" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401437652.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 2 S01 E04
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71017
+#EXTINF:-1 tvg-name="NFL WEEK 2 S01 E05" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401437633.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 2 S01 E05
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71018
+#EXTINF:-1 tvg-name="NFL WEEK 2 S01 E06" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401437635.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 2 S01 E06
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71019
+#EXTINF:-1 tvg-name="NFL WEEK 2 S01 E07" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401326591.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 2 S01 E07
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71020
+#EXTINF:-1 tvg-name="NFL WEEK 2 S01 E08" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401437732.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 2 S01 E08
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71021
+#EXTINF:-1 tvg-name="NFL WEEK 2 S01 E09" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401437642.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 2 S01 E09
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71022
+#EXTINF:-1 tvg-name="NFL WEEK 2 S01 E10" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401437733.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 2 S01 E10
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71023
+#EXTINF:-1 tvg-name="NFL WEEK 2 S01 E11" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401326535.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 2 S01 E11
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71024
+#EXTINF:-1 tvg-name="NFL WEEK 2 S01 E12" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401437734.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 2 S01 E12
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71025
+#EXTINF:-1 tvg-name="NFL WEEK 2 S01 E13" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401437641.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 2 S01 E13
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71026
+#EXTINF:-1 tvg-name="NFL WEEK 2 S01 E14" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401326390.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 2 S01 E14
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71027
+#EXTINF:-1 tvg-name="NFL WEEK 2 S01 E15" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401436832.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 2 S01 E15
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71028
+#EXTINF:-1 tvg-name="NFL WEEK 2 S01 E16" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401326422.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 2 S01 E16
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71029
+#EXTINF:-1 tvg-name="NFL WEEK 8 S01 E01" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401437809.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 8 S01 E01
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71030
+#EXTINF:-1 tvg-name="NFL WEEK 8 S01 E02" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401437806.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 8 S01 E02
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71031
+#EXTINF:-1 tvg-name="NFL WEEK 8 S01 E03" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401437807.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 8 S01 E03
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71032
+#EXTINF:-1 tvg-name="NFL WEEK 8 S01 E04" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401435641.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 8 S01 E04
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71033
+#EXTINF:-1 tvg-name="NFL WEEK 8 S01 E05" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401437817.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 8 S01 E05
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71034
+#EXTINF:-1 tvg-name="NFL WEEK 8 S01 E06" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401437810.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 8 S01 E06
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71035
+#EXTINF:-1 tvg-name="NFL WEEK 8 S01 E07" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401437808.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 8 S01 E07
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71036
+#EXTINF:-1 tvg-name="NFL WEEK 8 S01 E08" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401437811.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 8 S01 E08
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71037
+#EXTINF:-1 tvg-name="NFL WEEK 8 S01 E09" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401437816.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 8 S01 E09
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71038
+#EXTINF:-1 tvg-name="NFL WEEK 8 S01 E10" tvg-logo="https://s.espncdn.com/stitcher/sports/football/nfl/events/401437812.png?templateId=espn.com.share.1" group-title="NBA / NFL / NHL / MLB",NFL WEEK 8 S01 E10
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71039
+#EXTINF:-1 tvg-name="USA | Root Sports" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/2c64a31763aa4bcad9034deb465d2599.png" group-title="NBA / NFL / NHL / MLB",USA | Root Sports
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71040
+#EXTINF:-1 tvg-name="USA | NFL Now" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/d19229f26b5150671d17ffc2c969e204.png" group-title="NBA / NFL / NHL / MLB",USA | NFL Now
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71041
+#EXTINF:-1 tvg-name="NFL NETWORK" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/e80c702d93b03d2e923cac4be7ee5c8d.jpg" group-title="NBA / NFL / NHL / MLB",NFL NETWORK
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71042
+#EXTINF:-1 tvg-name="NFL REDZONE" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/ebc4094a88e19dbfe24a0f747165dda8.png" group-title="NBA / NFL / NHL / MLB",NFL REDZONE
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71043
+#EXTINF:-1 tvg-name="NFL FANTASY SPORTS NETWORK" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/339ca29382dcd82d609f1810b74d0956.png" group-title="NBA / NFL / NHL / MLB",NFL FANTASY SPORTS NETWORK
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71044
+#EXTINF:-1 tvg-name="NFL MON NIGHT FOOTBALL" tvg-logo="https://ecdn.evensi.com/e263538899?cph=gAAAAABdn71pICF4SQh2WVwqbHuMgifo6YEZrqzQWOVAlhQeIMqQ_CFBFUOdmJcjGmK9QVzccBfGqzt6KeyMtLPODR4_qtmiyJ5qbQkvQydNY3CU0BbaxcTBfVyCPlglhbVV8PZIQHWqv3ZbgF9PoiWcd5Fj1MXcGWyJDwnL0gg4H9cscoylF3La4fqIWB5msk0e9IOWDQ11wEyGdEXL4EJCSP5DMD0n92LN1ILSfxtqoNmyy8_bR-lnKAVNYvYbVFwDMQEzruBO91HxMIv_DGRCwAbUeCzYkN0cGcuz7QbqjjPtifFO6SapGPZOlNXeZqoaiF-E3KmOqfsOH3Hw4aKuHGsqLyo2_w==" group-title="NBA / NFL / NHL / MLB",NFL MON NIGHT FOOTBALL
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71045
+#EXTINF:-1 tvg-name="NFL THUR NIGHT FOOTBALL" tvg-logo="https://nbcprofootballtalk.files.wordpress.com/2014/10/thursday_night_football_logo.png?w=243" group-title="NBA / NFL / NHL / MLB",NFL THUR NIGHT FOOTBALL
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71046
+#EXTINF:-1 tvg-name="NFL NETWORK HD" tvg-logo="http://xtream-coders.com/x0/sports/NFL/_NFL_NETWORK.png" group-title="NBA / NFL / NHL / MLB",NFL NETWORK HD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71047
+#EXTINF:-1 tvg-name="NFL REDZONE" tvg-logo="http://xtream-coders.com/x0/sports/NFL/_NFL_REDZONE.png" group-title="NBA / NFL / NHL / MLB",NFL REDZONE
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71048
+#EXTINF:-1 tvg-name="NFL Network EXTRA" tvg-logo="http://xtream-coders.com/x0/sports/NFL/_NFL_NETWORK.png" group-title="NBA / NFL / NHL / MLB",NFL Network EXTRA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71049
+#EXTINF:-1 tvg-name="NFL Redzone EXTRA" tvg-logo="http://xtream-coders.com/x0/sports/NFL/_NFL_REDZONE.png" group-title="NBA / NFL / NHL / MLB",NFL Redzone EXTRA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71050
+#EXTINF:-1 tvg-name="NHL Network EXTRA" tvg-logo="http://xtream-coders.com/x0/sports/NHL/nhl_network.png" group-title="NBA / NFL / NHL / MLB",NHL Network EXTRA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71051
+#EXTINF:-1 tvg-name="NCAAF 38: NCAAF Louisiana Monroe at Texas @8:00 pm" tvg-logo="“https://i.imgur.com/sTnnkUq.png”," group-title="NBA / NFL / NHL / MLB",NCAAF 38: NCAAF Louisiana Monroe at Texas @8:00 pm
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71052
+#EXTINF:-1 tvg-name="NCAAF 39: NCAAF Louisville at Syracuse @8:00 pm" tvg-logo="“https://i.imgur.com/sTnnkUq.png”," group-title="NBA / NFL / NHL / MLB",NCAAF 39: NCAAF Louisville at Syracuse @8:00 pm
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71053
+#EXTINF:-1 tvg-name="NCAAF 40: NCAAF Idaho at Washington State @9:30 pm" tvg-logo="“https://i.imgur.com/sTnnkUq.png”," group-title="NBA / NFL / NHL / MLB",NCAAF 40: NCAAF Idaho at Washington State @9:30 pm
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71054
+#EXTINF:-1 tvg-name="NCAAF 41: NCAAF Boise State at Oregon State @10:30 pm" tvg-logo="“https://i.imgur.com/sTnnkUq.png”," group-title="NBA / NFL / NHL / MLB",NCAAF 41: NCAAF Boise State at Oregon State @10:30 pm
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71055
+#EXTINF:-1 tvg-name="NCAAF 42: NCAAF Kent State at Washington @10:30 pm" tvg-logo="“https://i.imgur.com/sTnnkUq.png”," group-title="NBA / NFL / NHL / MLB",NCAAF 42: NCAAF Kent State at Washington @10:30 pm
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71056
+#EXTINF:-1 tvg-name="MLS SOCCER 01: FC Dallas VS Minnesota United FC (03-09 3:30PM ET)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/765e6a5b954303a5e2ab2cef063eba27.png" group-title="NBA / NFL / NHL / MLB",MLS SOCCER 01: FC Dallas VS Minnesota United FC (03-09 3:30PM ET)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71057
+#EXTINF:-1 tvg-name="MLS SOCCER 02: Chicago Fire FC VS Columbus Crew (03-09 5:30PM ET)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/765e6a5b954303a5e2ab2cef063eba27.png" group-title="NBA / NFL / NHL / MLB",MLS SOCCER 02: Chicago Fire FC VS Columbus Crew (03-09 5:30PM ET)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71058
+#EXTINF:-1 tvg-name="MLS SOCCER 03: Philadelphia Union VS New York Red Bulls (03-09 7:00PM ET)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/765e6a5b954303a5e2ab2cef063eba27.png" group-title="NBA / NFL / NHL / MLB",MLS SOCCER 03: Philadelphia Union VS New York Red Bulls (03-09 7:00PM ET)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71059
+#EXTINF:-1 tvg-name="MLS SOCCER 04: Charlotte FC VS FC Cincinnati (03-09 7:30PM ET)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/765e6a5b954303a5e2ab2cef063eba27.png" group-title="NBA / NFL / NHL / MLB",MLS SOCCER 04: Charlotte FC VS FC Cincinnati (03-09 7:30PM ET)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71060
+#EXTINF:-1 tvg-name="MLS SOCCER 05: Austin FC VS Nashville SC (03-09 8:30PM ET)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/765e6a5b954303a5e2ab2cef063eba27.png" group-title="NBA / NFL / NHL / MLB",MLS SOCCER 05: Austin FC VS Nashville SC (03-09 8:30PM ET)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71061
+#EXTINF:-1 tvg-name="MLB TV" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/471ee2bd4492117493d05c3c62f2d903.png" group-title="NBA / NFL / NHL / MLB",MLB TV
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71062
+#EXTINF:-1 tvg-name="MLB NETWORK" tvg-logo="https://pbs.twimg.com/profile_images/1185162712256524289/PSW5rokU_400x400.jpg" group-title="NBA / NFL / NHL / MLB",MLB NETWORK
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71063
+#EXTINF:-1 tvg-name="MLB Network EXTRA" tvg-logo="http://xtream-coders.com/x0/sports/mlb_network.png" group-title="NBA / NFL / NHL / MLB",MLB Network EXTRA
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71064
+#EXTINF:-1 tvg-name="MLB | Arizona Diamondbacks" tvg-logo="https://rolo.nocdnrlly.xyz/images/teams/Logo-Arizona-Diamondbacks.png" group-title="NBA / NFL / NHL / MLB",MLB | Arizona Diamondbacks
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71065
+#EXTINF:-1 tvg-name="MLB |  Atlanta Braves" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/c912b40a19f60939b0d826679039a389.png" group-title="NBA / NFL / NHL / MLB",MLB |  Atlanta Braves
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71066
+#EXTINF:-1 tvg-name="MLB | Baltimore Orioles" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/e04f7f1dba18d95565f8a7c52c97902c.png" group-title="NBA / NFL / NHL / MLB",MLB | Baltimore Orioles
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71067
+#EXTINF:-1 tvg-name="MLB | Boston Red Sox" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/ac656616595b02a4e13b6f0e917d92ca.png" group-title="NBA / NFL / NHL / MLB",MLB | Boston Red Sox
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71068
+#EXTINF:-1 tvg-name="MLB | Chicago Cubs" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/731955eb27cc411d97c4469236b84639.png" group-title="NBA / NFL / NHL / MLB",MLB | Chicago Cubs
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71069
+#EXTINF:-1 tvg-name="MLB | Chicago White Sox" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f9da9b9bbf3fed81b5fdba958fd99fd4.png" group-title="NBA / NFL / NHL / MLB",MLB | Chicago White Sox
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71070
+#EXTINF:-1 tvg-name="MLB | Cincinnati Reds" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/61553db6f6a07ea9b083e48a6018b23b.png" group-title="NBA / NFL / NHL / MLB",MLB | Cincinnati Reds
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71071
+#EXTINF:-1 tvg-name="MLB | Cleveland Indians" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7174bb9ccffcc6e37fd7ab025fb1972f.png" group-title="NBA / NFL / NHL / MLB",MLB | Cleveland Indians
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71072
+#EXTINF:-1 tvg-name="MLB | Colorado Rockies" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/4d63e0f37acd89caaf2953dfdafc0ba5.png" group-title="NBA / NFL / NHL / MLB",MLB | Colorado Rockies
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71073
+#EXTINF:-1 tvg-name="MLB | Detroit Tigers" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/49ef07110c1410a7f35a9574da2d81f4.png" group-title="NBA / NFL / NHL / MLB",MLB | Detroit Tigers
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71074
+#EXTINF:-1 tvg-name="MLB | Houston Astros" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7d7b22d0bb916992da74df918dbaaea9.png" group-title="NBA / NFL / NHL / MLB",MLB | Houston Astros
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71075
+#EXTINF:-1 tvg-name="MLB | Kansas City Royals" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7cec38bac0ad690587db6dce1207a923.png" group-title="NBA / NFL / NHL / MLB",MLB | Kansas City Royals
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71076
+#EXTINF:-1 tvg-name="MLB | Los Angeles AngelsLos" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/5773a0c4c97fa6db1800939749c1db6a.png" group-title="NBA / NFL / NHL / MLB",MLB | Los Angeles AngelsLos
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71077
+#EXTINF:-1 tvg-name="MLB | Los Angeles Dodgers" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/d2ace617dd141634706d5930582c17b3.png" group-title="NBA / NFL / NHL / MLB",MLB | Los Angeles Dodgers
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71078
+#EXTINF:-1 tvg-name="MLB | Miami Marlins" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/ce6728287257421c5bef87f9ffb91f39.png" group-title="NBA / NFL / NHL / MLB",MLB | Miami Marlins
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71079
+#EXTINF:-1 tvg-name="MLB | Milwaukee Brewers" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/8fa192f415df20f875dbc855dc4b5a40.png" group-title="NBA / NFL / NHL / MLB",MLB | Milwaukee Brewers
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71080
+#EXTINF:-1 tvg-name="MLB | Minnesota Twins" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/9d85cf10c4e3a853faf6ebfb71c820f3.png" group-title="NBA / NFL / NHL / MLB",MLB | Minnesota Twins
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71081
+#EXTINF:-1 tvg-name="MLB | New York Mets" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/07342f72f18b4a3b905fa24bd2ed0fe9.png" group-title="NBA / NFL / NHL / MLB",MLB | New York Mets
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71082
+#EXTINF:-1 tvg-name="MLB | New York Yankees" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/38b12e7938be1a689981c84a0f49aead.png" group-title="NBA / NFL / NHL / MLB",MLB | New York Yankees
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71083
+#EXTINF:-1 tvg-name="MLB | Oakland Athletics" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/c92c340ea14273c27232b0737c74606a.png" group-title="NBA / NFL / NHL / MLB",MLB | Oakland Athletics
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71084
+#EXTINF:-1 tvg-name="MLB | Philadelphia Phillies" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/6f144c42fcb9bd5d896b9729c9e8b82e.png" group-title="NBA / NFL / NHL / MLB",MLB | Philadelphia Phillies
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71085
+#EXTINF:-1 tvg-name="MLB | Pittsburgh Pirates" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/45d4eaeeadbe970a4276bf76f6d2083f.png" group-title="NBA / NFL / NHL / MLB",MLB | Pittsburgh Pirates
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71086
+#EXTINF:-1 tvg-name="MLB | San Diego Padres" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/95143a371efd47d8152d68cc3dd70327.png" group-title="NBA / NFL / NHL / MLB",MLB | San Diego Padres
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71087
+#EXTINF:-1 tvg-name="MLB | San Francisco Giants" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/0e9950947b1368a190bdf83857160721.png" group-title="NBA / NFL / NHL / MLB",MLB | San Francisco Giants
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71088
+#EXTINF:-1 tvg-name="MLB | Seattle Mariners" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/cfe070378b6f52c4e1d76f72ad53866b.png" group-title="NBA / NFL / NHL / MLB",MLB | Seattle Mariners
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71089
+#EXTINF:-1 tvg-name="MLB | St. Louis Cardinals" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/707434418f0e6fd7b95a0d54850f4e99.png" group-title="NBA / NFL / NHL / MLB",MLB | St. Louis Cardinals
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71090
+#EXTINF:-1 tvg-name="MLB | Tampa Bay Rays" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/dbb33618d77bbe0559d779aea24da777.png" group-title="NBA / NFL / NHL / MLB",MLB | Tampa Bay Rays
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71091
+#EXTINF:-1 tvg-name="MLB | Texas Rangers" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/dcd3380f3432bbd687781ad3cd33259d.png" group-title="NBA / NFL / NHL / MLB",MLB | Texas Rangers
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71092
+#EXTINF:-1 tvg-name="MLB | Washington Nationals" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/a718972c3411a36c021e5662b9f97600.png" group-title="NBA / NFL / NHL / MLB",MLB | Washington Nationals
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71093
+#EXTINF:-1 tvg-name="MLB | Toronto Blue Jays" tvg-logo="https://rolo.nocdnrlly.xyz/images/teams/Logo-Toronto-Blue-Jays.png" group-title="NBA / NFL / NHL / MLB",MLB | Toronto Blue Jays
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71094
+#EXTINF:-1 tvg-name="NBA | Toronto Raptors" group-title="NBA / NFL / NHL / MLB",NBA | Toronto Raptors
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71095
+#EXTINF:-1 tvg-name="NBA | Sacramento Kings" group-title="NBA / NFL / NHL / MLB",NBA | Sacramento Kings
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71096
+#EXTINF:-1 tvg-name="NBA | Orlando Magic" group-title="NBA / NFL / NHL / MLB",NBA | Orlando Magic
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71097
+#EXTINF:-1 tvg-name="NBA | New York Knicks" group-title="NBA / NFL / NHL / MLB",NBA | New York Knicks
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71098
+#EXTINF:-1 tvg-name="NBA | New Orleans Pelicans" group-title="NBA / NFL / NHL / MLB",NBA | New Orleans Pelicans
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71099
+#EXTINF:-1 tvg-name="NBA | Minnesota Timberwolves" group-title="NBA / NFL / NHL / MLB",NBA | Minnesota Timberwolves
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71100
+#EXTINF:-1 tvg-name="NBA | Los Angeles Lakers" group-title="NBA / NFL / NHL / MLB",NBA | Los Angeles Lakers
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71101
+#EXTINF:-1 tvg-name="NBA | Los Angeles Clippers" group-title="NBA / NFL / NHL / MLB",NBA | Los Angeles Clippers
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71102
+#EXTINF:-1 tvg-name="NBA | Indiana Pacers" group-title="NBA / NFL / NHL / MLB",NBA | Indiana Pacers
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71103
+#EXTINF:-1 tvg-name="NBA | Houston Rockets" group-title="NBA / NFL / NHL / MLB",NBA | Houston Rockets
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71104
+#EXTINF:-1 tvg-name="NBA | Golden State Warriors" group-title="NBA / NFL / NHL / MLB",NBA | Golden State Warriors
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71105
+#EXTINF:-1 tvg-name="NBA | Denver Nuggets" group-title="NBA / NFL / NHL / MLB",NBA | Denver Nuggets
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71106
+#EXTINF:-1 tvg-name="NBA | Dallas Mavericks" group-title="NBA / NFL / NHL / MLB",NBA | Dallas Mavericks
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71107
+#EXTINF:-1 tvg-name="NBA | Cleveland Cavaliers" group-title="NBA / NFL / NHL / MLB",NBA | Cleveland Cavaliers
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71108
+#EXTINF:-1 tvg-name="NBA | Brooklyn Nets" group-title="NBA / NFL / NHL / MLB",NBA | Brooklyn Nets
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71109
+#EXTINF:-1 tvg-name="NBA | Boston Celtics" group-title="NBA / NFL / NHL / MLB",NBA | Boston Celtics
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71110
+#EXTINF:-1 tvg-name="NBA | Utah Jazz" group-title="NBA / NFL / NHL / MLB",NBA | Utah Jazz
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71111
+#EXTINF:-1 tvg-name="NBA | SAN ANTONIO SPURS" group-title="NBA / NFL / NHL / MLB",NBA | SAN ANTONIO SPURS
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71112
+#EXTINF:-1 tvg-name="NBA | Washington Wizards" group-title="NBA / NFL / NHL / MLB",NBA | Washington Wizards
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71113
+#EXTINF:-1 tvg-name="NBA | Milwaukee Bucks" group-title="NBA / NFL / NHL / MLB",NBA | Milwaukee Bucks
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71114
+#EXTINF:-1 tvg-name="NBA | Detroit Pistons" group-title="NBA / NFL / NHL / MLB",NBA | Detroit Pistons
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71115
+#EXTINF:-1 tvg-name="NBA | Chicago Bulls" group-title="NBA / NFL / NHL / MLB",NBA | Chicago Bulls
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71116
+#EXTINF:-1 tvg-name="NBA | Charlotte Hornets" group-title="NBA / NFL / NHL / MLB",NBA | Charlotte Hornets
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71117
+#EXTINF:-1 tvg-name="NBA | Atlanta Hawks" group-title="NBA / NFL / NHL / MLB",NBA | Atlanta Hawks
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71118
+#EXTINF:-1 tvg-name="NBA | Portland Trail Blazers" group-title="NBA / NFL / NHL / MLB",NBA | Portland Trail Blazers
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71119
+#EXTINF:-1 tvg-name="NBA | Phoenix Suns" group-title="NBA / NFL / NHL / MLB",NBA | Phoenix Suns
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71120
+#EXTINF:-1 tvg-name="NBA | Philadelphia 76ers" group-title="NBA / NFL / NHL / MLB",NBA | Philadelphia 76ers
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71121
+#EXTINF:-1 tvg-name="NBA | Oklahoma City Thunder" group-title="NBA / NFL / NHL / MLB",NBA | Oklahoma City Thunder
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71122
+#EXTINF:-1 tvg-name="NBA | Miami Heat" group-title="NBA / NFL / NHL / MLB",NBA | Miami Heat
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71123
+#EXTINF:-1 tvg-name="NBA | Memphis Grizzlies" group-title="NBA / NFL / NHL / MLB",NBA | Memphis Grizzlies
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71124
+#EXTINF:-1 tvg-name="NHL | Carolina Hurricanes" tvg-logo="https://rolo.nocdnrlly.xyz/images/teams/Logo-Carolina-Hurricanes.png" group-title="NBA / NFL / NHL / MLB",NHL | Carolina Hurricanes
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71125
+#EXTINF:-1 tvg-name="NHL | Columbus Blue Jackets" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/b7e8afcbd840b5926c30854fdb313e39.png" group-title="NBA / NFL / NHL / MLB",NHL | Columbus Blue Jackets
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71126
+#EXTINF:-1 tvg-name="NHL | New Jersey Devils" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/655c9ebc799887b32036d9033ca9496b.png" group-title="NBA / NFL / NHL / MLB",NHL | New Jersey Devils
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71127
+#EXTINF:-1 tvg-name="NHL | New York Islanders" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/46798a781896c9a2bf7338bd4aa0d079.png" group-title="NBA / NFL / NHL / MLB",NHL | New York Islanders
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71128
+#EXTINF:-1 tvg-name="NHL | New York Rangers" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/d9f39eaf48980851ce7dc5b72006816e.png" group-title="NBA / NFL / NHL / MLB",NHL | New York Rangers
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71129
+#EXTINF:-1 tvg-name="NHL | Philadelphia Flyers" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/2d3703bd76286ca2a6cbe7936a411c6a.png" group-title="NBA / NFL / NHL / MLB",NHL | Philadelphia Flyers
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71130
+#EXTINF:-1 tvg-name="NHL | Pittsburgh Penguins" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/2e5effe1b6f06ce977fdce84d3fdff3b.png" group-title="NBA / NFL / NHL / MLB",NHL | Pittsburgh Penguins
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71131
+#EXTINF:-1 tvg-name="NHL | Washington Capitals" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/988c54d130f13672c60743df01631c83.png" group-title="NBA / NFL / NHL / MLB",NHL | Washington Capitals
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71132
+#EXTINF:-1 tvg-name="NHL | Boston Bruins" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/b852710242e523ccf4bb9cf90a5fcaf0.png" group-title="NBA / NFL / NHL / MLB",NHL | Boston Bruins
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71133
+#EXTINF:-1 tvg-name="NHL | Buffalo Sabres" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/ae7071733192bfcf52c2ffe2a9ec0f29.png" group-title="NBA / NFL / NHL / MLB",NHL | Buffalo Sabres
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71134
+#EXTINF:-1 tvg-name="NHL | Detroit Red Wings" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/e88b8a6bcf8e2ff9ce7eab2921af4062.png" group-title="NBA / NFL / NHL / MLB",NHL | Detroit Red Wings
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71135
+#EXTINF:-1 tvg-name="NHL | Florida Panthers" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/2a4ad18f94fd1f6a747d4abb4acaab06.png" group-title="NBA / NFL / NHL / MLB",NHL | Florida Panthers
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71136
+#EXTINF:-1 tvg-name="NHL | Montreal Canadiens" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/a8718954aaed8e8cec69211f06596e9a.png" group-title="NBA / NFL / NHL / MLB",NHL | Montreal Canadiens
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71137
+#EXTINF:-1 tvg-name="NHL | Ottawa Senators" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/e76803aa69034a5b3d23f35a07d4f0ec.png" group-title="NBA / NFL / NHL / MLB",NHL | Ottawa Senators
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71138
+#EXTINF:-1 tvg-name="NHL | Tampa Bay Lightning" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/b374b5545964a72902d5270857bc3413.png" group-title="NBA / NFL / NHL / MLB",NHL | Tampa Bay Lightning
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71139
+#EXTINF:-1 tvg-name="NHL | Carolina Hurricanes" tvg-logo="https://rolo.nocdnrlly.xyz/images/teams/Logo-Carolina-Hurricanes.png" group-title="NBA / NFL / NHL / MLB",NHL | Carolina Hurricanes
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71140
+#EXTINF:-1 tvg-name="NHL | Columbus Blue Jackets" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/5769f1ab94c711ebfa84a3ce7d53e108.png" group-title="NBA / NFL / NHL / MLB",NHL | Columbus Blue Jackets
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71141
+#EXTINF:-1 tvg-name="NHL | New Jersey Devils" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/acc37a3971a92cc9e2ad6a5afb30221b.png" group-title="NBA / NFL / NHL / MLB",NHL | New Jersey Devils
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71142
+#EXTINF:-1 tvg-name="NHL | New York Islanders" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/1119fff22946d01441db26d30704a837.png" group-title="NBA / NFL / NHL / MLB",NHL | New York Islanders
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71143
+#EXTINF:-1 tvg-name="NHL | New York Rangers" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/cdebba9f3f6eebded49d303de132dc56.png" group-title="NBA / NFL / NHL / MLB",NHL | New York Rangers
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71144
+#EXTINF:-1 tvg-name="NHL | Philadelphia Flyers" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/8cad68ac120b5279dc4136d56dc4128d.png" group-title="NBA / NFL / NHL / MLB",NHL | Philadelphia Flyers
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71145
+#EXTINF:-1 tvg-name="NHL | Pittsburgh Penguins" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/0e00e0ad4a525bb09cedf34676dc8dff.png" group-title="NBA / NFL / NHL / MLB",NHL | Pittsburgh Penguins
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71146
+#EXTINF:-1 tvg-name="NHL | Washington Capitals" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/3b2c03c8acee4f5f0a196630117d2d50.png" group-title="NBA / NFL / NHL / MLB",NHL | Washington Capitals
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71147
+#EXTINF:-1 tvg-name="NHL | Boston Bruins" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/745229b1f74d67e12678487dc71ab623.png" group-title="NBA / NFL / NHL / MLB",NHL | Boston Bruins
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71148
+#EXTINF:-1 tvg-name="NHL | Buffalo Sabres" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/6ee629181499aa87467af4d3d455afaa.png" group-title="NBA / NFL / NHL / MLB",NHL | Buffalo Sabres
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71149
+#EXTINF:-1 tvg-name="NHL | Detroit Red Wings" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/86e70aad9638f5bded4e5efbb6009cc8.png" group-title="NBA / NFL / NHL / MLB",NHL | Detroit Red Wings
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71150
+#EXTINF:-1 tvg-name="NHL | Florida Panthers" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/4f4c05f2fdf9995a5a004544c9f817de.png" group-title="NBA / NFL / NHL / MLB",NHL | Florida Panthers
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71151
+#EXTINF:-1 tvg-name="NHL | Montreal Canadiens" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/e750528e24b4fbab2f64cca70a46875c.png" group-title="NBA / NFL / NHL / MLB",NHL | Montreal Canadiens
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71152
+#EXTINF:-1 tvg-name="NHL | Ottawa Senators" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/782e04ec1dc763d62f071173312a2a27.png" group-title="NBA / NFL / NHL / MLB",NHL | Ottawa Senators
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71153
+#EXTINF:-1 tvg-name="NHL | Tampa Bay Lightning" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/2f99374a3aab65f0b9c2dc0f6499edab.png" group-title="NBA / NFL / NHL / MLB",NHL | Tampa Bay Lightning
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71154
+#EXTINF:-1 tvg-name="NHL | Toronto Maple Leafs" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/149ad801274e88d453648d9530a3fd2f.png" group-title="NBA / NFL / NHL / MLB",NHL | Toronto Maple Leafs
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71155
+#EXTINF:-1 tvg-name="NHL | Chicago Blackhawks" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/dd66c9c6c4671e65b537e1c82f4b2bbd.png" group-title="NBA / NFL / NHL / MLB",NHL | Chicago Blackhawks
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71156
+#EXTINF:-1 tvg-name="NHL | Colorado Avalanche" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/342db3277b9f68601c9d39fe2c6a3be4.png" group-title="NBA / NFL / NHL / MLB",NHL | Colorado Avalanche
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71157
+#EXTINF:-1 tvg-name="NHL | Dallas Stars" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/6eaa85f005c21a0deaf4f6cc6d1fbe56.png" group-title="NBA / NFL / NHL / MLB",NHL | Dallas Stars
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71158
+#EXTINF:-1 tvg-name="NHL | Minnesota Wild" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7a0897d6a601f410853a6aff6ffaad4d.png" group-title="NBA / NFL / NHL / MLB",NHL | Minnesota Wild
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71159
+#EXTINF:-1 tvg-name="NHL | Nashville Predators" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f19698b65948239eb708084986065d34.png" group-title="NBA / NFL / NHL / MLB",NHL | Nashville Predators
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71160
+#EXTINF:-1 tvg-name="NHL | St. Louis Blues" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/32de3d1e8fe6771179870806fb9270ef.png" group-title="NBA / NFL / NHL / MLB",NHL | St. Louis Blues
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71161
+#EXTINF:-1 tvg-name="NHL | Winnipeg Jets" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/0ca51d2aedd966e5beee0ceea93a386e.png" group-title="NBA / NFL / NHL / MLB",NHL | Winnipeg Jets
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71162
+#EXTINF:-1 tvg-name="NHL | San Jose Sharks" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/24e3c6ae20e9a3a6745b55e327c51d17.png" group-title="NBA / NFL / NHL / MLB",NHL | San Jose Sharks
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71163
+#EXTINF:-1 tvg-name="NHL | Vancouver Canucks" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/c506b6465522a9cd1271a97d9e1a4d10.png" group-title="NBA / NFL / NHL / MLB",NHL | Vancouver Canucks
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71164
+#EXTINF:-1 tvg-name="NHL | Vegas Golden Knights" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/2ba67f99987e4ab899a63b930fcbdbeb.png" group-title="NBA / NFL / NHL / MLB",NHL | Vegas Golden Knights
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71165
+#EXTINF:-1 tvg-name="NHL | Los Angeles Kings" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/8d22e5d3830ef9e1e2c6d38eb6fee950.png" group-title="NBA / NFL / NHL / MLB",NHL | Los Angeles Kings
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71166
+#EXTINF:-1 tvg-name="NHL | Edmonton Oilers" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/c3018562be92154cb001e8ac3d1ab898.png" group-title="NBA / NFL / NHL / MLB",NHL | Edmonton Oilers
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71167
+#EXTINF:-1 tvg-name="NHL | Calgary Flames" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/5ef0684217e0a33b17ec8f4238d2ba91.png" group-title="NBA / NFL / NHL / MLB",NHL | Calgary Flames
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71168
+#EXTINF:-1 tvg-name="NHL | Anaheim Ducks" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/6efa7cfdc3fa9fe9c7b93d169b94fd6a.png" group-title="NBA / NFL / NHL / MLB",NHL | Anaheim Ducks
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71169
+#EXTINF:-1 tvg-name="NHL | Arizona Coyotes" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/621bedc3fc37cde5dfe29cda27a9dc0f.png" group-title="NBA / NFL / NHL / MLB",NHL | Arizona Coyotes
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/71170
+#EXTINF:-1 tvg-name="•●★-- 24/7 España TV Show --★●" group-title="24/7",•●★-- 24/7 España TV Show --★●
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72003
+#EXTINF:-1 tvg-name="ES: Amazonas Clandestino HD 24H" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/caa31dc074621c8889150e9f965b7125.png" group-title="24/7",ES: Amazonas Clandestino HD 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72004
+#EXTINF:-1 tvg-name="ES: Callejeros 24H" tvg-logo="http://swedtv.net:8080/images/9068f1cb147f2c3eba8d662ced1781b4.png" group-title="24/7",ES: Callejeros 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72005
+#EXTINF:-1 tvg-name="ES: Callejeros Viajeros 24H" tvg-logo="http://swedtv.net:8080/images/9068f1cb147f2c3eba8d662ced1781b4.png" group-title="24/7",ES: Callejeros Viajeros 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72006
+#EXTINF:-1 tvg-name="ES: Cuarto Milenio HD 24H" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/9ca2758af84a2ae97fe95e037f99b546.png" group-title="24/7",ES: Cuarto Milenio HD 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72007
+#EXTINF:-1 tvg-name="ES: Empeños a lo Bestia HD 24H" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/42e05532e608b6ce280fcc0e83641f69.png" group-title="24/7",ES: Empeños a lo Bestia HD 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72008
+#EXTINF:-1 tvg-name="ES: Españoles En El Mundo HD 24H" tvg-logo="http://swedtv.net:8080/images/27b3dc5db437de862708507860045f9e.png" group-title="24/7",ES: Españoles En El Mundo HD 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72009
+#EXTINF:-1 tvg-name="ES: El Encantador de Perros HD 24H" tvg-logo="http://swedtv.net:8080/images/281625d7d2e3373191323c0653e410b7.png" group-title="24/7",ES: El Encantador de Perros HD 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72010
+#EXTINF:-1 tvg-name="ES: Forjado a Fuego HD 24H" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/1dfc7b974cdcf7f86425c5d65839985f.png" group-title="24/7",ES: Forjado a Fuego HD 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72011
+#EXTINF:-1 tvg-name="ES: Policías en Acción HD 24H" tvg-logo="http://swedtv.net:8080/images/973bb92d0bdfab6d8d339226afdcc7db.png" group-title="24/7",ES: Policías en Acción HD 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72012
+#EXTINF:-1 tvg-name="ES: Los cazadores de mitos HD 24H" tvg-logo="http://swedtv.net:8080/images/d99687104c2b939aa2e3f2872b0c0b9b.png" group-title="24/7",ES: Los cazadores de mitos HD 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72013
+#EXTINF:-1 tvg-name="ES: Quien vive ahi HD 24H" tvg-logo="http://swedtv.net:8080/images/095c256a228addc3a6c4104c4ec386a1.png" group-title="24/7",ES: Quien vive ahi HD 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72014
+#EXTINF:-1 tvg-name="ES: Wild Frank HD 24H" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/377c455dd81807b497cf4d7c08741836.png" group-title="24/7",ES: Wild Frank HD 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72015
+#EXTINF:-1 tvg-name="•●★-- 24/7 España Drama --★●" group-title="24/7",•●★-- 24/7 España Drama --★●
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72016
+#EXTINF:-1 tvg-name="ES: La Biblia Series HD 24H" tvg-logo="http://swedtv.net:8080/images/55d55254d6bf10b429731c0b06255332.png" group-title="24/7",ES: La Biblia Series HD 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72017
+#EXTINF:-1 tvg-name="•●★-- 24/7 España Caricaturas --★●" tvg-logo="http://swedtv.net:8080/images/dfb116044dba486387e147da936e37c7.png" group-title="24/7",•●★-- 24/7 España Caricaturas --★●
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72018
+#EXTINF:-1 tvg-name="ES: Ben Y Holly 24H" tvg-logo="https://e7.pngegg.com/pngimages/514/702/png-clipart-children-s-television-series-entertainment-one-television-show-elf-ben-and-holly.png" group-title="24/7",ES: Ben Y Holly 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72019
+#EXTINF:-1 tvg-name="ES: Barbapapa 24H" tvg-logo="http://swedtv.net:8080/images/eac546f72b5befb299304bd58b16b776.png" group-title="24/7",ES: Barbapapa 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72020
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Torneo Galactico SD (1-40) 24H" tvg-logo="http://swedtv.net:8080/images/8666acaac116736ee1b3a60c61e715d9.png" group-title="24/7",ES: Caballeros del Zodiaco Torneo Galactico SD (1-40) 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72021
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Torneo Galactico HD (1-40) 24H" tvg-logo="http://swedtv.net:8080/images/8666acaac116736ee1b3a60c61e715d9.png" group-title="24/7",ES: Caballeros del Zodiaco Torneo Galactico HD (1-40) 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72022
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Santuario SD (41-73) 24H" tvg-logo="http://swedtv.net:8080/images/8666acaac116736ee1b3a60c61e715d9.png" group-title="24/7",ES: Caballeros del Zodiaco Santuario SD (41-73) 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72023
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Santuario HD (41-73) 24H" tvg-logo="http://swedtv.net:8080/images/8666acaac116736ee1b3a60c61e715d9.png" group-title="24/7",ES: Caballeros del Zodiaco Santuario HD (41-73) 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72024
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Asgard SD (74-99) 24H" tvg-logo="http://swedtv.net:8080/images/8666acaac116736ee1b3a60c61e715d9.png" group-title="24/7",ES: Caballeros del Zodiaco Asgard SD (74-99) 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72025
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Asgard HD (74-99) 24H" tvg-logo="http://swedtv.net:8080/images/8666acaac116736ee1b3a60c61e715d9.png" group-title="24/7",ES: Caballeros del Zodiaco Asgard HD (74-99) 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72026
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Poseidon SD (100-114) 24H" tvg-logo="http://swedtv.net:8080/images/8666acaac116736ee1b3a60c61e715d9.png" group-title="24/7",ES: Caballeros del Zodiaco Poseidon SD (100-114) 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72027
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Poseidon HD (100-114) 24H" tvg-logo="https://e7.pngegg.com/pngimages/615/390/png-clipart-saint-seiya-knights-of-the-zodiac-pegasus-seiya-saint-seiya-brave-soldiers-anime-cavaleiros-do-zodiaco-game-text.png" group-title="24/7",ES: Caballeros del Zodiaco Poseidon HD (100-114) 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72028
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Hades SD (115-145) 24H" tvg-logo="https://e7.pngegg.com/pngimages/615/390/png-clipart-saint-seiya-knights-of-the-zodiac-pegasus-seiya-saint-seiya-brave-soldiers-anime-cavaleiros-do-zodiaco-game-text.png" group-title="24/7",ES: Caballeros del Zodiaco Hades SD (115-145) 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72029
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Hades HD (115-145) 24H" tvg-logo="https://e7.pngegg.com/pngimages/615/390/png-clipart-saint-seiya-knights-of-the-zodiac-pegasus-seiya-saint-seiya-brave-soldiers-anime-cavaleiros-do-zodiaco-game-text.png" group-title="24/7",ES: Caballeros del Zodiaco Hades HD (115-145) 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72030
+#EXTINF:-1 tvg-name="ES: Los Simpsons La casa-árbol del terror SD 24H" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/4f0fea3ceda6754d92564ade01b6a39e.png" group-title="24/7",ES: Los Simpsons La casa-árbol del terror SD 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72031
+#EXTINF:-1 tvg-name="ES: Los Simpsons La casa-árbol del terror HD 24H" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/4f0fea3ceda6754d92564ade01b6a39e.png" group-title="24/7",ES: Los Simpsons La casa-árbol del terror HD 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72032
+#EXTINF:-1 tvg-name="ES: Los Simpsons Temp 1-5 24H" tvg-logo="https://c0.klipartz.com/pngpicture/407/279/gratis-png-lisa-simpson-bart-simpson-maggie-simpson-homer-simpson-simpson-familia-bart-simpson.png" group-title="24/7",ES: Los Simpsons Temp 1-5 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72033
+#EXTINF:-1 tvg-name="ES: Los Simpsons HD 24H" tvg-logo="http://swedtv.net:8080/images/3a7f02bccddaf256c59a555bde12c702.png" group-title="24/7",ES: Los Simpsons HD 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72034
+#EXTINF:-1 tvg-name="ES: Futurama 24H" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/8d3ad2d7145841df660f825ec312679b.png" group-title="24/7",ES: Futurama 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72035
+#EXTINF:-1 tvg-name="ES: Futurama HD 24H" tvg-logo="http://swedtv.net:8080/images/ea6cf2e0a6c2a6490606b26b05078c97.png" group-title="24/7",ES: Futurama HD 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72036
+#EXTINF:-1 tvg-name="ES: Padre de Familia 24H" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f0d6ac2323c84315fb5587f4ea00fd5c.png" group-title="24/7",ES: Padre de Familia 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72037
+#EXTINF:-1 tvg-name="ES: Fabulas de Disney 24H" tvg-logo="http://swedtv.net:8080/images/b1a7ef736fc48702be21d927a3f036e3.png" group-title="24/7",ES: Fabulas de Disney 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72038
+#EXTINF:-1 tvg-name="ES: Patrulla Canina 24H" tvg-logo="http://swedtv.net:8080/images/bfb5db45300e6ea6133ce849b5eaf5d0.png" group-title="24/7",ES: Patrulla Canina 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72039
+#EXTINF:-1 tvg-name="ES: Vaca y Pollito 24h" tvg-logo="http://swedtv.net:8080/images/19fb39e0ec3eb738b210317270e2585f.png" group-title="24/7",ES: Vaca y Pollito 24h
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72040
+#EXTINF:-1 tvg-name="ES: Super Wings 24H" tvg-logo="http://swedtv.net:8080/images/a6af703ee05d319a9f3253bd4f89f633.png" group-title="24/7",ES: Super Wings 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72041
+#EXTINF:-1 tvg-name="ES: El Bebé Jefazo (Vuelta al curro) 24H" tvg-logo="http://swedtv.net:8080/images/6dc62ac946efe3afa1694c9f113f806d.png" group-title="24/7",ES: El Bebé Jefazo (Vuelta al curro) 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72042
+#EXTINF:-1 tvg-name="ES: Wabbit 24H" tvg-logo="http://swedtv.net:8080/images/82871df72d2277070ef5c5ca7c35e385.png" group-title="24/7",ES: Wabbit 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72043
+#EXTINF:-1 tvg-name="ES: Kim Possible SD 24H" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/40dea61fc2263492bd087bfd47d40557.png" group-title="24/7",ES: Kim Possible SD 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72044
+#EXTINF:-1 tvg-name="ES: Kim Possible HD 24H" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/40dea61fc2263492bd087bfd47d40557.png" group-title="24/7",ES: Kim Possible HD 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72045
+#EXTINF:-1 tvg-name="ES: Lilo y Stitch SD 24H" tvg-logo="http://swedtv.net:8080/images/2efefb3226a6b9c730a00e52aa302203.png" group-title="24/7",ES: Lilo y Stitch SD 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72046
+#EXTINF:-1 tvg-name="ES: Lilo y Stitch HD 24H" tvg-logo="http://swedtv.net:8080/images/2efefb3226a6b9c730a00e52aa302203.png" group-title="24/7",ES: Lilo y Stitch HD 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72047
+#EXTINF:-1 tvg-name="ES: Heroes Mitologicos 24H" tvg-logo="http://swedtv.net:8080/images/fef7d636c7cfadb2cdff04ccf23c0e7a.png" group-title="24/7",ES: Heroes Mitologicos 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72048
+#EXTINF:-1 tvg-name="ES: Teen Titans Go! 24H" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/6de1cfa1ab13663be6bc773680f0cdab.png" group-title="24/7",ES: Teen Titans Go! 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72049
+#EXTINF:-1 tvg-name="ES: Zak Storm 24H" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/084e200ade0f10996c4debf1c9e6f062.png" group-title="24/7",ES: Zak Storm 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72050
+#EXTINF:-1 tvg-name="ES: Johnny Test 24H" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/e1e18119d4cf1797a7bfc1fad55fb4cb.png" group-title="24/7",ES: Johnny Test 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72051
+#EXTINF:-1 tvg-name="ES: Garfield y amigos 24H" tvg-logo="https://w1.pngwing.com/pngs/175/868/png-transparent-friends-garfield-cat-paws-inc-line-sticker-text-cartoon-thumbnail.png" group-title="24/7",ES: Garfield y amigos 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72052
+#EXTINF:-1 tvg-name="ES: El Show de los Looney Tunes 24H" tvg-logo="https://e7.pngegg.com/pngimages/112/686/png-clipart-wile-e-coyote-and-the-road-runner-television-show-looney-tunes-foghorn-leghorn-road-runner-wile-e-coyote-and-the-road-runner-television-show-thumbnail.png" group-title="24/7",ES: El Show de los Looney Tunes 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72053
+#EXTINF:-1 tvg-name="•●★-- 24/7 España Crimen --★●" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/dcab4b753a6e360b0d746f63f8e4371d.png" group-title="24/7",•●★-- 24/7 España Crimen --★●
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72054
+#EXTINF:-1 tvg-name="ES: NCIS Los Angeles HD 24H" tvg-logo="http://swedtv.net:8080/images/553162d1e6c9e75bfd0de5e3d06e0f00.png" group-title="24/7",ES: NCIS Los Angeles HD 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72055
+#EXTINF:-1 tvg-name="ES: NCIS Nueva Orleans HD 24H" tvg-logo="http://swedtv.net:8080/images/553162d1e6c9e75bfd0de5e3d06e0f00.png" group-title="24/7",ES: NCIS Nueva Orleans HD 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72056
+#EXTINF:-1 tvg-name="ES: NCIS Navy Investigación Criminal) HD 24H" tvg-logo="http://swedtv.net:8080/images/553162d1e6c9e75bfd0de5e3d06e0f00.png" group-title="24/7",ES: NCIS Navy Investigación Criminal) HD 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72057
+#EXTINF:-1 tvg-name="ES: CSI Las Vegas HD 24H" tvg-logo="http://swedtv.net:8080/images/bbdd85bc2dbc44b746cd1cfa520d4303.png" group-title="24/7",ES: CSI Las Vegas HD 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72058
+#EXTINF:-1 tvg-name="ES: El Caso HD 24H" group-title="24/7",ES: El Caso HD 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72059
+#EXTINF:-1 tvg-name="•●★-- 24/7 España Comedia --★●" group-title="24/7",•●★-- 24/7 España Comedia --★●
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72060
+#EXTINF:-1 tvg-name="ES: La Que se Avecina 24H" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/16ea48348bc205280479d30fe9c92aac.png" group-title="24/7",ES: La Que se Avecina 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72061
+#EXTINF:-1 tvg-name="ES: Pippi Calzaslargas 24H" tvg-logo="https://w7.pngwing.com/pngs/643/891/png-transparent-character-pippi-longing-cartoon-fictional-character-art-thumbnail.png" group-title="24/7",ES: Pippi Calzaslargas 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72062
+#EXTINF:-1 tvg-name="ES: El Principe de Bel Air HD 24H" tvg-logo="https://e1.pngegg.com/pngimages/294/320/png-clipart-the-fresh-prince-of-bel-air-season-6.png" group-title="24/7",ES: El Principe de Bel Air HD 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72063
+#EXTINF:-1 tvg-name="•●★-- 24/7 España Sci-Fi --★●" group-title="24/7",•●★-- 24/7 España Sci-Fi --★●
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72064
+#EXTINF:-1 tvg-name="ES: Xena La Princesa Guerrera 24H" tvg-logo="https://w7.pngwing.com/pngs/170/403/png-transparent-xena-gabrielle-youtube-television-show-warrior-television-logo-fictional-character.png" group-title="24/7",ES: Xena La Princesa Guerrera 24H
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72065
+#EXTINF:-1 tvg-name="ES: Expedientes X SD" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/eed512a51278ba2a203595b066cc3cd5.png" group-title="24/7",ES: Expedientes X SD
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72066
+#EXTINF:-1 tvg-name="24/7 I | Angry Birds" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/ec6d9cb4753ecce95637df63201bac08.png" group-title="24/7",24/7 I | Angry Birds
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72067
+#EXTINF:-1 tvg-name="24/7 I | Autobus Magico" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/2155697e0e2a560a9ea94b5fb508a1b4.png" group-title="24/7",24/7 I | Autobus Magico
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72068
+#EXTINF:-1 tvg-name="24/7 I | Barbie" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/824256867137de8acce86abcb87ed6b2.png" group-title="24/7",24/7 I | Barbie
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72069
+#EXTINF:-1 tvg-name="24/7 I | Ben Y Holly (Castellano)" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/faeae2ccddfdee5dd4baf660876f7316.png" group-title="24/7",24/7 I | Ben Y Holly (Castellano)
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72070
+#EXTINF:-1 tvg-name="24/7 I | Coraje el Perro Cobarde" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/2996149385ebec8c771f63f8739f076a.png" group-title="24/7",24/7 I | Coraje el Perro Cobarde
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72071
+#EXTINF:-1 tvg-name="24/7 I | Digimon" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/2449d55cbf85502f47f595311c9f123a.png" group-title="24/7",24/7 I | Digimon
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72072
+#EXTINF:-1 tvg-name="24/7 I | Don Gato y Su Pandilla" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/2a33bc6c3e7ce45626c0a3d1b2d7d200.png" group-title="24/7",24/7 I | Don Gato y Su Pandilla
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72073
+#EXTINF:-1 tvg-name="24/7 I | Dora y Sus Amigos En La Ciudad" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/cd80df8e22b343590cb26bd2edd30dfa.png" group-title="24/7",24/7 I | Dora y Sus Amigos En La Ciudad
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72074
+#EXTINF:-1 tvg-name="24/7 I | El Chavo Del 8" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/1da7f6c29002d32c1467a75ff4f9b553.png" group-title="24/7",24/7 I | El Chavo Del 8
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72075
+#EXTINF:-1 tvg-name="24/7 I | El Conde Pátula" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/b707a78937fb7b60af7cb4e837cd9531.png" group-title="24/7",24/7 I | El Conde Pátula
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72076
+#EXTINF:-1 tvg-name="24/7 I | El Reto de los Super Amigos" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/778de9742be6fec31ef2e0c3ccb7458e.png" group-title="24/7",24/7 I | El Reto de los Super Amigos
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72077
+#EXTINF:-1 tvg-name="24/7 I | Gasparin y Sus Amigos" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/aa171f5759bc726678958deb4fbde8e2.png" group-title="24/7",24/7 I | Gasparin y Sus Amigos
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72078
+#EXTINF:-1 tvg-name="24/7 I | Halcones Galacticos" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/e306250e76468ae822ff7d0b0e9b85f4.png" group-title="24/7",24/7 I | Halcones Galacticos
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72079
+#EXTINF:-1 tvg-name="24/7 I | Hey Arnold" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/5b6210bb9092fde6cc0e7ab16158c874.png" group-title="24/7",24/7 I | Hey Arnold
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72080
+#EXTINF:-1 tvg-name="24/7 I | Hombres de Negro" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/4b6618b17266c8bbe5b847bbb8ab7314.png" group-title="24/7",24/7 I | Hombres de Negro
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72081
+#EXTINF:-1 tvg-name="24/7 I | Johnny Bravo" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/9bfe900f0a9f184e6f7c12c8d02c2f22.png" group-title="24/7",24/7 I | Johnny Bravo
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72082
+#EXTINF:-1 tvg-name="24/7 I | La Casa De Mickey Mouse" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/258eecaa17f437886b341b3df48b4dc6.png" group-title="24/7",24/7 I | La Casa De Mickey Mouse
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72083
+#EXTINF:-1 tvg-name="24/7 I | La Pantera Rosa" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/bdd85ae427ff0eacbb7f65f76612444e.png" group-title="24/7",24/7 I | La Pantera Rosa
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72084
+#EXTINF:-1 tvg-name="24/7 I | La Vaca y El Pollito" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f8fb1b7b1b24ba64b084281b8ea0d338.png" group-title="24/7",24/7 I | La Vaca y El Pollito
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72085
+#EXTINF:-1 tvg-name="24/7 I | Las Chicas Superpoderosas" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/7fae93b3da5fb66d4fe57e857f5279fc.png" group-title="24/7",24/7 I | Las Chicas Superpoderosas
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72086
+#EXTINF:-1 tvg-name="24/7 I | Lego World" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/bdddea5a2a82543a92f327686c9f5d7e.png" group-title="24/7",24/7 I | Lego World
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72087
+#EXTINF:-1 tvg-name="24/7 I | Los Castores Cascarrabias" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f228c3fc3ae8e9ab2187efb0fea284e8.png" group-title="24/7",24/7 I | Los Castores Cascarrabias
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72088
+#EXTINF:-1 tvg-name="24/7 I | Los Pequeños Picapiedras" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/1d133686dba383fb5f8e980eb257536a.png" group-title="24/7",24/7 I | Los Pequeños Picapiedras
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72089
+#EXTINF:-1 tvg-name="24/7 I | Los Picapiedras" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/3ab25eb5f07357fde49166b045f8a6fc.png" group-title="24/7",24/7 I | Los Picapiedras
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72090
+#EXTINF:-1 tvg-name="24/7 I | Los Pitufos" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/f06e89f2be365d1f8f0e7d3a1934c91c.png" group-title="24/7",24/7 I | Los Pitufos
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72091
+#EXTINF:-1 tvg-name="24/7 I | Los Supersonicos" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/010ede31a177ba2166def8be524e2abd.png" group-title="24/7",24/7 I | Los Supersonicos
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72092
+#EXTINF:-1 tvg-name="24/7 I | Masha y el oso" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/db8d5d40f07ce38ff0312e5b342a48c9.png" group-title="24/7",24/7 I | Masha y el oso
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72093
+#EXTINF:-1 tvg-name="24/7 I | Pajaro Loco" tvg-logo="http://mazcotuspain.ddnsguru.com:8080/images/018df4336c2cc6fcba553f79ebe52044.png" group-title="24/7",24/7 I | Pajaro Loco
+http://mazcotuspain.ddnsguru.com:8080/mayracasa/232323/72094
+
 
 #EXTINF:-1 tvg-name="DAZN F1 SD" group-title="EVENTOS DEPORTES",DAZN F1 SD
 http://f1.4jbpp.top:80/live/1214/1197/226.ts
