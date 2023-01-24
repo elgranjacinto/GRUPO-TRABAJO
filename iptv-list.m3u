@@ -1,19 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="23/01",00:30 NFL San Francisco 49ers-Dallas Cowboys # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="23/01",12:00 Sorteo Basquet COPA DEL REY # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="23/01",20:45 Inter-Empoli Movistar L. Campeones
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 group-title="23/01",21:00 Fulham-Tottenham DAZN 1
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 group-title="23/01",21:00 Valencia-Almería DAZN LaLiga
-acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
-#EXTINF:-1 group-title="23/01",21:00 Andorra-Albacete LaLiga SmartBank TV
-acestream://7791ba828c0226d8f54cef1611889d29fb333247
-
 
 #EXTINF:-1 group-title="24/01",02:00 Houston Rockets-Minnesota Timberwolves Movistar Deportes
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
