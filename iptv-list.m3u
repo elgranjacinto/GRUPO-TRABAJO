@@ -43,7 +43,14 @@ acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 #EXTINF:-1 group-title="29/01 ACE",21:00 UD Ibiza-Cartagena LaLiga SmartBank TV
 acestream://7791ba828c0226d8f54cef1611889d29fb333247
 
-
+#EXTINF:-1 group-title="Eventos 30/01 ACE",00:30 NFL Kansas City Chiefs-Cincinnati Bengals # Vamos
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+#EXTINF:-1 group-title="Eventos 30/01 ACE",20:45 Derby-West Ham DAZN 1
+acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+#EXTINF:-1 group-title="Eventos 30/01 ACE",21:00 Villarreal-Rayo Vallecano Movistar LaLiga
+acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+#EXTINF:-1 group-title="Eventos 30/01 ACE",21:00 Real Zaragoza-Ponferradina # Vamos
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 
 
 #EXTINF:-1 group-title="Canales ACE 26ene23",Eleven Sports 1 4K
