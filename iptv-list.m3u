@@ -1,52 +1,6 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 group-title="29/01 ACE",12:30 Manresa-Real Madrid Movistar Deportes
-acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
-#EXTINF:-1 group-title="29/01 ACE",12:30 AC Milan-Sassuolo Movistar L. Campeones
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 group-title="29/01 ACE",13:00 Unicaja-Valencia Basket # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="29/01 ACE",14:00 Real Valladolid-Valencia DAZN LaLiga
-acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
-#EXTINF:-1 group-title="29/01 ACE",14:00 Mirandés-Alavés LaLiga SmartBank TV
-acestream://7791ba828c0226d8f54cef1611889d29fb333247
-#EXTINF:-1 group-title="29/01 ACE",15:00 Juventus-Monza Movistar L. Campeones
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 group-title="29/01 ACE",16:15 Osasuna-Atlético de Madrid Movistar LaLiga
-acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
-#EXTINF:-1 group-title="29/01 ACE",16:15 Levante-Burgos CF LaLiga SmartBank TV
-acestream://7791ba828c0226d8f54cef1611889d29fb333247
-#EXTINF:-1 group-title="29/01 ACE",17:00 UCAM Murcia-Baskonia Movistar Deportes 2
-acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
-#EXTINF:-1 group-title="29/01 ACE",17:30 Bayer Leverkusen-Borussia Dortmund Movistar L. Campeones
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 group-title="29/01 ACE",18:00 Lazio-Fiorentina Movistar L. Camp. 2
-acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
-#EXTINF:-1 group-title="29/01 ACE",18:30 Gran Canaria-Obradoiro Movistar Deportes 3
-acestream://ecf2096f9f612a70638d644fb621472a3ddaeb20
-#EXTINF:-1 group-title="29/01 ACE",18:30 Celta de Vigo-Athletic Club GOL PLAY
-acestream://d4627f7b6b237a8556819445b3283d866caceca2
-#EXTINF:-1 group-title="29/01 ACE",18:30 Albacete-Lugo LaLiga SmartBank TV 2
-acestream://cf6249379184d88a61f9db617341c6b6e6abb342
-#EXTINF:-1 group-title="29/01 ACE",18:30  Sporting de Gijón-Málaga # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="29/01 ACE",19:00 Charlotte Hornets-Miami Heat Movistar Deportes
-acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
-#EXTINF:-1 group-title="29/01 ACE",20:00 Basket Zaragoza-Real Betis Movistar Deportes 2
-acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
-#EXTINF:-1 group-title="29/01 ACE",20:45 Nápoles-Roma # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="29/01 ACE",21:00 Real Madrid-Real Sociedad Movistar LaLiga
-acestream://d47addf5e467cbf102ba759600303c21efb1deeb
-#EXTINF:-1 group-title="29/01 ACE",21:00 Real Madrid-Real Sociedad Movistar LaLiga
-acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
-#EXTINF:-1 group-title="29/01 ACE",21:00 Real Madrid-Real Sociedad Movistar LaLiga
-acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
-#EXTINF:-1 group-title="29/01 ACE",21:00 UD Ibiza-Cartagena LaLiga SmartBank TV
-acestream://7791ba828c0226d8f54cef1611889d29fb333247
-
 #EXTINF:-1 group-title="Eventos 30/01 ACE",00:30 NFL Kansas City Chiefs-Cincinnati Bengals # Vamos
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 #EXTINF:-1 group-title="Eventos 30/01 ACE",20:45 Derby-West Ham DAZN 1
@@ -55,6 +9,169 @@ acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 #EXTINF:-1 group-title="Eventos 30/01 ACE",21:00 Real Zaragoza-Ponferradina # Vamos
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+
+#EXTINF:-1 group-title="Eventos 31/01 ACE",01:30 Brooklyn Nets-Los Angeles Lakers Movistar Deportes
+acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+#EXTINF:-1 group-title="Eventos 31/01 ACE",19:00 Olimpia Milano-Baskonia DAZN 2
+acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
+#EXTINF:-1 group-title="Eventos 31/01 ACE",20:30 Barcelona-Maccabi Tel Aviv DAZN 1
+acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+#EXTINF:-1 group-title="Eventos 31/01 ACE",20:30 Valencia Basket-Bayern DAZN 3
+acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
+#EXTINF:-1 group-title="Eventos 31/01 ACE",20:30 Limoges-Unicaja Teledeporte
+acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
+#EXTINF:-1 group-title="Eventos 31/01 ACE",21:00 Inter-Atalanta DAZN 4
+acestream://149a38e333de920753f1388c43247283bdb05f5b
+#EXTINF:-1 group-title="Eventos 31/01 ACE",21:00 Newcastle-Southampton DAZN 2
+acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
+
+
+#EXTINF:-1 group-title="Eventos 01/02 ACE",02:00 Chicago Bulls-Los Angeles Clippers Movistar Deportes
+acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+#EXTINF:-1 group-title="Eventos 01/02 ACE",18:00 Fiorentina-Torino DAZN 3
+acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
+#EXTINF:-1 group-title="Eventos 01/02 ACE",20:45 Real Madrid-Panathinaikos DAZN 1
+acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+#EXTINF:-1 group-title="Eventos 01/02 ACE",21:00 Roma-Cremonese DAZN 3
+acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
+#EXTINF:-1 group-title="Eventos 01/02 ACE",21:00 Gran Canaria-Paris DAZN 2
+acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
+#EXTINF:-1 group-title="Eventos 01/02 ACE",21:00 Manchester Utd-Nottingham Forest DAZN 4
+acestream://149a38e333de920753f1388c43247283bdb05f5b
+#EXTINF:-1 group-title="Eventos 01/02 ACE",21:00 Real Betis-Barcelona Movistar LaLiga
+acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+#EXTINF:-1 group-title="Eventos 01/02 ACE",21:00 Real Betis-Barcelona Movistar LaLiga
+acestream://d47addf5e467cbf102ba759600303c21efb1deeb
+
+
+
+#EXTINF:-1 group-title="Eventos 02/02 ACE",01:30 Boston Celtics-Brooklyn Nets Movistar Deportes
+acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+#EXTINF:-1 group-title="Eventos 02/02 ACE",20:30 Barcelona-Bayern DAZN 1
+acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+#EXTINF:-1 group-title="Eventos 02/02 ACE",20:30 Valencia Basket-Maccabi Tel Aviv DAZN 2
+acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
+#EXTINF:-1 group-title="Eventos 02/02 ACE",21:00 Juventus-Lazio DAZN 3
+acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
+#EXTINF:-1 group-title="Eventos 02/02 ACE",21:00 Real Madrid-Valencia DAZN LaLiga
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+#EXTINF:-1 group-title="Eventos 02/02 ACE",21:00 Real Madrid-Valencia DAZN LaLiga
+acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+
+
+
+#EXTINF:-1 group-title="Eventos 03/02 ACE",01:30 Cleveland Cavaliers-Memphis Grizzlies Movistar Deportes
+acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+#EXTINF:-1 group-title="Eventos 03/02 ACE",19:00 Mónaco-Real Madrid DAZN
+acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+#EXTINF:-1 group-title="Eventos 03/02 ACE",20:30 Baskonia-Panathinaikos DAZN
+acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+#EXTINF:-1 group-title="Eventos 03/02 ACE",20:30 Augsburgo-Bayer Leverkusen Movistar L. Campeones
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 group-title="Eventos 03/02 ACE",21:00 Chelsea-Fulham DAZN
+acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+#EXTINF:-1 group-title="Eventos 03/02 ACE",21:00 Athletic Club-Cádiz GOL PLAY
+acestream://d4627f7b6b237a8556819445b3283d866caceca2
+#EXTINF:-1 group-title="Eventos 03/02 ACE",21:00 Málaga-Real Oviedo # Vamos
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+
+
+
+#EXTINF:-1 group-title="Eventos 04/02 ACE",01:30 Boston Celtics-Phoenix Suns # Vamos
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+#EXTINF:-1 group-title="Eventos 04/02 ACE",13:30 Everton-Arsenal DAZN
+acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+#EXTINF:-1 group-title="Eventos 04/02 ACE",14:00 Espanyol-Osasuna DAZN LaLiga
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+#EXTINF:-1 group-title="Eventos 04/02 ACE",15:15 SEIS NACIONES Gales-Irlanda Movistar Deportes
+acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+#EXTINF:-1 group-title="Eventos 04/02 ACE",15:30 Borussia Dortmund-Friburgo # Vamos
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+#EXTINF:-1 group-title="Eventos 04/02 ACE",15:30 Colonia-RB Leipzig Movistar L. Campeones
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 group-title="Eventos 04/02 ACE",15:30 Eintracht Frankfurt-Hertha BSC Movistar L. Camp. 2
+acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+#EXTINF:-1 group-title="Eventos 04/02 ACE",16:15 Elche-Villarreal Movistar LaLiga
+acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+#EXTINF:-1 group-title="Eventos 04/02 ACE",16:15 Huesca-Mirandés LaLiga SmartBank TV 2
+acestream://cf6249379184d88a61f9db617341c6b6e6abb342
+#EXTINF:-1 group-title="Eventos 04/02 ACE",16:15 Leganés-Sporting de Gijón LaLiga SmartBank TV
+acestream://7791ba828c0226d8f54cef1611889d29fb333247
+#EXTINF:-1 group-title="Eventos 04/02 ACE",17:45 SEIS NACIONES Inglaterra-Escocia # Vamos
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+#EXTINF:-1 group-title="Eventos 04/02 ACE",18:00 Roma-Empoli Movistar L. Campeones
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 group-title="Eventos 04/02 ACE",18:00 Joventut-Manresa Movistar Deportes
+acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+#EXTINF:-1 group-title="Eventos 04/02 ACE",18:00 R Betis-UCAM Murcia Movistar Deportes 2
+acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
+#EXTINF:-1 group-title="Eventos 04/02 ACE",18:30 Atlético de Madrid-Getafe DAZN LaLiga
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+#EXTINF:-1 group-title="Eventos 04/02 ACE",18:30 Tenerife-Albacete LaLiga SmartBank TV
+acestream://7791ba828c0226d8f54cef1611889d29fb333247
+#EXTINF:-1 group-title="Eventos 04/02 ACE",20:45 Sassuolo-Atalanta Movistar L. Campeones
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 group-title="Eventos 04/02 ACE",20:45 Gran Canaria-Unicaja Movistar Deportes
+acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+#EXTINF:-1 group-title="Eventos 04/02 ACE",20:45 Obradoiro-Bilbao Basket Movistar Deportes 2
+acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
+#EXTINF:-1 group-title="Eventos 04/02 ACE",21:00 Real Betis-Celta de Vigo Movistar LaLiga
+acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+#EXTINF:-1 group-title="Eventos 04/02 ACE",21:00 LALIGA SMARTBANK Alavés-Eibar # Vamos
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+
+
+
+#EXTINF:-1 group-title="Eventos 05/02 ACE",00:00 Brooklyn Nets-Washington Wizards # Vamos
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+#EXTINF:-1 group-title="Eventos 05/02 ACE",12:30 Spezia-Nápoles Movistar L. Campeones
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 group-title="Eventos 05/02 ACE",12:30 Barcelona-Valencia Basket # Vamos
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+#EXTINF:-1 group-title="Eventos 05/02 ACE",12:30 Breogán-Basquet Girona Movistar Deportes
+acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+#EXTINF:-1 group-title="Eventos 05/02 ACE",14:00 Mallorca-Real Madrid Movistar LaLiga
+acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+#EXTINF:-1 group-title="Eventos 05/02 ACE",14:00 Mallorca-Real Madrid Movistar LaLiga
+acestream://d47addf5e467cbf102ba759600303c21efb1deeb
+#EXTINF:-1 group-title="Eventos 05/02 ACE",14:00 Villarreal B-Granada LaLiga SmartBank TV
+acestream://7791ba828c0226d8f54cef1611889d29fb333247
+#EXTINF:-1 group-title="Eventos 05/02 ACE",15:00 Nottingham Forest-Leeds Utd DAZN
+acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+#EXTINF:-1 group-title="Eventos 05/02 ACE",16:00 SEIS NACIONES Italia-Francia Movistar Deportes
+acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+#EXTINF:-1 group-title="Eventos 05/02 ACE",16:15 Girona-Valencia DAZN LaLiga
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+#EXTINF:-1 group-title="Eventos 05/02 ACE",16:15 Andorra-Real Zaragoza LaLiga SmartBank TV
+acestream://7791ba828c0226d8f54cef1611889d29fb333247
+#EXTINF:-1 group-title="Eventos 05/02 ACE",17:00 Baskonia-Basket Zaragoza Movistar Deportes 2
+acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
+#EXTINF:-1 group-title="Eventos 05/02 ACE",17:30 Wolfsburgo-Bayern Múnich Movistar L. Campeones
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 group-title="Eventos 05/02 ACE",17:30 Tottenham-Manchester City DAZN
+acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+#EXTINF:-1 group-title="Eventos 05/02 ACE",18:30 Real Madrid-Lenovo Tenerife Movistar Deportes
+acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+#EXTINF:-1 group-title="Eventos 05/02 ACE",18:30 Real Sociedad-Real Valladolid Movistar LaLiga
+acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+#EXTINF:-1 group-title="Eventos 05/02 ACE",18:30 Cartagena-Levante LaLiga SmartBank TV
+acestream://7791ba828c0226d8f54cef1611889d29fb333247
+#EXTINF:-1 group-title="Eventos 05/02 ACE",18:30 Ponferradina-Racing LaLiga SmartBank TV 2
+acestream://cf6249379184d88a61f9db617341c6b6e6abb342
+#EXTINF:-1 group-title="Eventos 05/02 ACE",19:00 Charlotte Hornets-Orlando Magic Movistar Deportes 2
+acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
+#EXTINF:-1 group-title="Eventos 05/02 ACE",20:00 Granada-Fuenlabrada Movistar Deportes 3
+acestream://ecf2096f9f612a70638d644fb621472a3ddaeb20
+#EXTINF:-1 group-title="Eventos 05/02 ACE",20:45 Inter-AC Milan # Vamos
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+#EXTINF:-1 group-title="Eventos 05/02 ACE",21:00 Barcelona-Sevilla DAZN LaLiga
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+#EXTINF:-1 group-title="Eventos 05/02 ACE",21:00 Barcelona-Sevilla DAZN LaLiga
+acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+#EXTINF:-1 group-title="Eventos 05/02 ACE",21:00  Lugo-UD Ibiza LaLiga SmartBank TV
+acestream://7791ba828c0226d8f54cef1611889d29fb333247
+
+
 
 
 #EXTINF:-1 group-title="Canales ACE 26ene23",Eleven Sports 1 4K
