@@ -1,14 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Eventos 30/01 ACE",00:30 NFL Kansas City Chiefs-Cincinnati Bengals # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="Eventos 30/01 ACE",20:45 Derby-West Ham DAZN 1
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 group-title="Eventos 30/01 ACE",21:00 Villarreal-Rayo Vallecano Movistar LaLiga
-acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
-#EXTINF:-1 group-title="Eventos 30/01 ACE",21:00 Real Zaragoza-Ponferradina # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 
 #EXTINF:-1 group-title="Eventos 31/01 ACE",01:30 Brooklyn Nets-Los Angeles Lakers Movistar Deportes
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
