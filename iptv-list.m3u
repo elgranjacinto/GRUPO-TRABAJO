@@ -1,40 +1,6 @@
 #EXTM3U
 
 
-
-
-#EXTINF:-1 group-title="Eventos 25/02 ACE",01:30 Atlanta Hawks-Cleveland Cavaliers # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="Eventos 25/02 ACE",04:00 SUPERBIKE G.P. Australia DAZN 2
-acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
-#EXTINF:-1 group-title="Eventos 25/02 ACE",08:00 TEST Bahréin DAZN F1
-acestream://ffaa5f556ee0497ad905208d317b1f3ed4c0914b
-#EXTINF:-1 group-title="Eventos 25/02 ACE",15:15 SEIS NACIONES Italia-Irlanda Movistar Deportes
-acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
-#EXTINF:-1 group-title="Eventos 25/02 ACE",16:15 Cádiz-Rayo Vallecano Movistar LaLiga
-acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
-#EXTINF:-1 group-title="Eventos 25/02 ACE",16:15 Alavés-Cartagena LaLiga SmartBank TV
-acestream://7791ba828c0226d8f54cef1611889d29fb333247
-#EXTINF:-1 group-title="Eventos 25/02 ACE",16:15 Racing-Andorra LaLiga SmartBank TV 2
-acestream://cf6249379184d88a61f9db617341c6b6e6abb342
-#EXTINF:-1 group-title="Eventos 25/02 ACE",17:45 SEIS NACIONES Gales-Inglaterra # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="Eventos 25/02 ACE",18:00 Detroit Pistons-Toronto Raptors Movistar Deportes
-acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
-#EXTINF:-1 group-title="Eventos 25/02 ACE",18:30 Real Madrid-Atlético de Madrid DAZN LaLiga
-acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
-#EXTINF:-1 group-title="Eventos 25/02 ACE",18:30 Real Madrid-Atlético de Madrid DAZN LaLiga
-acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
-#EXTINF:-1 group-title="Eventos 25/02 ACE",18:30 Real Madrid-Atlético de Madrid DAZN LaLiga
-acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
-#EXTINF:-1 group-title="Eventos 25/02 ACE",21:00 Valencia-Real Sociedad Movistar LaLiga
-acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
-#EXTINF:-1 group-title="Eventos 25/02 ACE",21:00 Sporting de Gijón-Tenerife # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="Eventos 25/02 ACE",21:00 Mirandés-Leganés LaLiga SmartBank TV 2
-acestream://cf6249379184d88a61f9db617341c6b6e6abb342
-
-
 #EXTINF:-1 group-title="Eventos 26/02 ACE",06:00 SUPERBIKE G.P. Australia DAZN 2
 acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
 #EXTINF:-1 group-title="Eventos 26/02 ACE",14:00 Athletic Club-Girona Movistar LaLiga
