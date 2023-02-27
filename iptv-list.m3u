@@ -1,33 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Eventos 26/02 ACE",06:00 SUPERBIKE G.P. Australia DAZN 2
-acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
-#EXTINF:-1 group-title="Eventos 26/02 ACE",14:00 Athletic Club-Girona Movistar LaLiga
-acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
-#EXTINF:-1 group-title="Eventos 26/02 ACE",14:00 UD Ibiza-Huesca LaLiga SmartBank TV
-acestream://7791ba828c0226d8f54cef1611889d29fb333247
-#EXTINF:-1 group-title="Eventos 26/02 ACE",16:00 SEIS NACIONES Francia-Escocia Movistar Deportes
-acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
-#EXTINF:-1 group-title="Eventos 26/02 ACE",16:15 Celta de Vigo-Real Valladolid DAZN LaLiga
-acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
-#EXTINF:-1 group-title="Eventos 26/02 ACE",16:15 Levante-Lugo LaLiga SmartBank TV 2
-acestream://cf6249379184d88a61f9db617341c6b6e6abb342
-#EXTINF:-1 group-title="Eventos 26/02 ACE",16:15 Real Zaragoza-Burgos CF LaLiga SmartBank TV
-acestream://7791ba828c0226d8f54cef1611889d29fb333247
-#EXTINF:-1 group-title="Eventos 26/02 ACE",18:00 Basket España-Italia Teledeporte
-acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
-#EXTINF:-1 group-title="Eventos 26/02 ACE",18:30 Almería-Barcelona Movistar LaLiga
-acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
-#EXTINF:-1 group-title="Eventos 26/02 ACE",18:30 Las Palmas-Ponferradina LaLiga SmartBank TV
-acestream://7791ba828c0226d8f54cef1611889d29fb333247
-#EXTINF:-1 group-title="Eventos 26/02 ACE",21:00 Sevilla-Osasuna DAZN LaLiga
-acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
-#EXTINF:-1 group-title="Eventos 26/02 ACE",21:00 Real Oviedo-Albacete LaLiga SmartBank TV
-acestream://7791ba828c0226d8f54cef1611889d29fb333247
-#EXTINF:-1 group-title="Eventos 26/02 ACE",21:30 Dallas Mavericks-Los Angeles Lakers Movistar Deportes
-acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
-
 
 
 #EXTINF:-1 group-title="Eventos 27/02 ACE",21:00 Villarreal-Getafe Movistar LaLiga
