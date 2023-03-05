@@ -1,49 +1,6 @@
 #EXTM3U
 
 
-
-
-
-#EXTINF:-1 group-title="Eventos 04/03 ACE",02:00 Chicago Bulls-Phoenix Suns # Vamos
-acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
-#EXTINF:-1 group-title="Eventos 04/03 ACE",13:30 Manchester City-Newcastle DAZN 1
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 group-title="Eventos 04/03 ACE",14:00 Getafe-Girona Movistar LaLiga
-acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
-#EXTINF:-1 group-title="Eventos 04/03 ACE",16:00 CLASIF. G.P. BAHREIN DAZN F1
-acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
-#EXTINF:-1 group-title="Eventos 04/03 ACE",16:00 CLASIF. G.P. BAHREIN DAZN F1
-acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
-#EXTINF:-1 group-title="Eventos 04/03 ACE",16:00 CLASIF. G.P. BAHREIN DAZN F1
-acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
-#EXTINF:-1 group-title="Eventos 04/03 ACE",16:00 Arsenal-Bournemouth DAZN 1
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 group-title="Eventos 04/03 ACE",16:00 Aston Villa-Crystal Palace DAZN 4
-acestream://149a38e333de920753f1388c43247283bdb05f5b
-#EXTINF:-1 group-title="Eventos 04/03 ACE",16:00 Chelsea-Leeds Utd DAZN 2
-acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
-#EXTINF:-1 group-title="Eventos 04/03 ACE",16:00 Wolves-Tottenham DAZN 3
-acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
-#EXTINF:-1 group-title="Eventos 04/03 ACE",16:15 Almería-Villarreal Movistar LaLiga
-acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
-#EXTINF:-1 group-title="Eventos 04/03 ACE",16:15 Burgos CF-Granada # Vamos
-acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
-#EXTINF:-1 group-title="Eventos 04/03 ACE",18:30 Mallorca-Elche Movistar LaLiga
-acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
-#EXTINF:-1 group-title="Eventos 04/03 ACE",18:30 Huesca-Levante LaLiga SmartBank TV 2
-acestream://cf6249379184d88a61f9db617341c6b6e6abb342
-#EXTINF:-1 group-title="Eventos 04/03 ACE",18:30 Tenerife-Eibar LaLiga SmartBank TV
-acestream://7791ba828c0226d8f54cef1611889d29fb333247
-#EXTINF:-1 group-title="Eventos 04/03 ACE",21:00 Atlético de Madrid-Sevilla Movistar LaLiga
-acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
-#EXTINF:-1 group-title="Eventos 04/03 ACE",21:00 Mirandés-Real Oviedo LaLiga SmartBank TV
-acestream://7791ba828c0226d8f54cef1611889d29fb333247
-#EXTINF:-1 group-title="Eventos 04/03 ACE",23:00 Washington Wizards-Toronto Raptors Movistar Deportes
-acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
-
-
-
-
 #EXTINF:-1 group-title="Eventos 05/03 ACE",14:00 Real Valladolid-Espanyol Movistar LaLiga
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 #EXTINF:-1 group-title="Eventos 05/03 ACE",14:00 Leganés-UD Ibiza LaLiga SmartBank TV
