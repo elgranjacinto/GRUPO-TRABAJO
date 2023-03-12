@@ -38,7 +38,19 @@ acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 #EXTINF:-1 group-title="Eventos 12/03 ACE",21:00 Granada-Ponferradina LaLiga SmartBank TV
 acestream://7791ba828c0226d8f54cef1611889d29fb333247
 
+#EXTINF:-1 group-title="Eventos 13/03 ACE",21:00 Girona-Atlético de Madrid DAZN LaLiga
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+#EXTINF:-1 group-title="Eventos 13/03 ACE",21:00 Racing-Huesca LaLiga SmartBank TV
+acestream://7791ba828c0226d8f54cef1611889d29fb333247
 
+#EXTINF:-1 group-title="Eventos 14/03 ACE",00:30 Dallas Mavericks-Memphis Grizzlies # Vamos
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+#EXTINF:-1 group-title="Eventos 14/03 ACE",18:30 Anadolu Efes-Real Madrid DAZN 1
+acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+#EXTINF:-1 group-title="Eventos 14/03 ACE",21:00 Manchester City-RB Leipzig Movistar L. Campeones
+acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
+#EXTINF:-1 group-title="Eventos 14/03 ACE",21:00 Oporto-Inter Movistar L. Camp. 2
+acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 
 
 
