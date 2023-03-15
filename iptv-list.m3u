@@ -1,14 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Eventos 14/03 ACE",00:30 Dallas Mavericks-Memphis Grizzlies # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="Eventos 14/03 ACE",18:30 Anadolu Efes-Real Madrid DAZN 1
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 group-title="Eventos 14/03 ACE",21:00 Manchester City-RB Leipzig Movistar L. Campeones
-acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
-#EXTINF:-1 group-title="Eventos 14/03 ACE",21:00 Oporto-Inter Movistar L. Camp. 2
-acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 
 #EXTINF:-1 group-title="Eventos 15/03 ACE",01:00 Oklahoma City Thunder-Brooklyn Nets Movistar Deportes
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
