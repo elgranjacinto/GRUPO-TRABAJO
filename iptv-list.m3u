@@ -1,33 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Eventos 24/03 ACE",00:30 Brooklyn Nets-Cleveland Cavaliers Movistar Deportes
-acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
-#EXTINF:-1 group-title="Eventos 24/03 ACE",19:00 Mónaco-Valencia Basket DAZN 2
-acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
-#EXTINF:-1 group-title="Eventos 24/03 ACE",19:00 Virtus Bolonia-Real Madrid DAZN 1
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 group-title="Eventos 24/03 ACE",21:00 SUB-21 España-Suiza Teledeporte
-acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7
-#EXTINF:-1 group-title="Eventos 24/03 ACE",21:00 Cartagena-Lugo LaLiga SmartBank TV
-acestream://7791ba828c0226d8f54cef1611889d29fb333247
-
-#EXTINF:-1 group-title="Eventos 25/03 ACE",03:00 Sacramento Kings-Phoenix Suns Movistar Deportes
-acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
-#EXTINF:-1 group-title="Eventos 25/03 ACE",16:15 UD Ibiza-Burgos CF LaLiga SmartBank TV 2
-acestream://cf6249379184d88a61f9db617341c6b6e6abb342
-#EXTINF:-1 group-title="Eventos 25/03 ACE",16:15 Racing-Levante LaLiga SmartBank TV
-acestream://7791ba828c0226d8f54cef1611889d29fb333247
-#EXTINF:-1 group-title="Eventos 25/03 ACE",18:15 LIGA F Barcelona-Real Madrid DAZN
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 group-title="Eventos 25/03 ACE",18:30 Alavés-Tenerife # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="Eventos 25/03 ACE",20:45 Barcelona-Joventut Movistar Deportes
-acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
-#EXTINF:-1 group-title="Eventos 25/03 ACE",20:45 España-Noruega La 1
-acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
-#EXTINF:-1 group-title="Eventos 25/03 ACE",22:00 Atlanta Hawks-Indiana Pacers # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 
 #EXTINF:-1 group-title="Eventos 26/03 ACE",12:00 G.P. PORTUGAL Moto3 DAZN 1
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
