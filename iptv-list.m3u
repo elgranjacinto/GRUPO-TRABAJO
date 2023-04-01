@@ -1,18 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Eventos 30/03 ACE",20:30 Barcelona-Alba Berlín DAZN 1
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-
-
-
-
-#EXTINF:-1 group-title="Eventos 31/03 ACE",01:30 Milwaukee Bucks-Boston Celtics # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="Eventos 31/03 ACE",20:30 Partizan-Real Madrid DAZN 2
-acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
-#EXTINF:-1 group-title="Eventos 31/03 ACE",21:00 Levante-Real Zaragoza # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-
 
 
 #EXTINF:-1 group-title="Eventos 01/04 ACE",01:30 Brooklyn Nets-Atlanta Hawks Movistar Deportes
