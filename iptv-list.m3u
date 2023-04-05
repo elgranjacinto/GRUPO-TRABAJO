@@ -1,25 +1,5 @@
 #EXTM3U
 
-
-
-
-
-#EXTINF:-1 group-title="Eventos 03/04 ACE",21:00 Everton-Tottenham DAZN 1
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 group-title="Eventos 03/04 ACE",21:00 Valencia-Rayo Vallecano DAZN LaLiga
-acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
-#EXTINF:-1 group-title="Eventos 03/04 ACE",21:00 Albacete-Las Palmas # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-
-
-
-#EXTINF:-1 group-title="Eventos 04/04 ACE",21:00 Chelsea-Liverpool DAZN 1
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 group-title="Eventos 04/04 ACE",21:00 Athletic Club-Osasuna La 1
-acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
-
-
-
 #EXTINF:-1 group-title="Eventos 05/04 ACE",21:00 Manchester Utd-Brentford DAZN 1
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
 #EXTINF:-1 group-title="Eventos 05/04 ACE",21:00 Barcelona-Real Madrid La 1
