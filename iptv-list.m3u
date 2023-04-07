@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Eventos 05/04 ACE",21:00 Manchester Utd-Brentford DAZN 1
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 group-title="Eventos 05/04 ACE",21:00 Barcelona-Real Madrid La 1
-acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
-
-
-
-#EXTINF:-1 group-title="Eventos 06/04 ACE",20:45 Real Madrid-Bayern DAZN 1
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 group-title="Eventos 06/04 ACE",21:00 Baskonia-Asvel Basket DAZN 2
-acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
-
 
 
 #EXTINF:-1 group-title="Eventos 07/04 ACE",02:00 Boxeo PESO GALLO Ángel Acosta vs Angelino Córdova DAZN 2
