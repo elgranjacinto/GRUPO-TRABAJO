@@ -7,7 +7,6 @@ acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 #EXTINF:-1 group-title="Eventos 17/04 ACE",21:00 Levante-Mirandés LaLiga SmartBank TV
 acestream://7791ba828c0226d8f54cef1611889d29fb333247
 
-
 #EXTINF:-1 group-title="Eventos 18/04 ACE",01:30 Philadelphia 76ers-Brooklyn Nets Movistar Deportes
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
 #EXTINF:-1 group-title="Eventos 18/04 ACE",21:00 Nápoles-AC Milan Movistar L. Camp. 2
@@ -18,6 +17,31 @@ acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 group-title="Eventos 18/04 ACE",21:00 Real Madrid - Chelsie Movistar L. Campeones
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
+
+#EXTINF:-1 group-title="Eventos 19/04 ACE",01:00 Boston Celtics-Atlanta Hawks # Vamos
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+#EXTINF:-1 group-title="Eventos 19/04 ACE",20:00 Real Madrid-Basquet Girona Movistar Deportes 2
+acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
+#EXTINF:-1 group-title="Eventos 19/04 ACE",21:00 Bayern Múnich-Manchester City Movistar L. Campeones
+acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
+#EXTINF:-1 group-title="Eventos 19/04 ACE",21:00 Inter-Benfica Movistar L. Camp. 2
+acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+#EXTINF:-1 group-title="Eventos 19/04 ACE",21:30 Granada-Barcelona Movistar Deportes
+acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+
+#EXTINF:-1 group-title="Eventos 20/04 ACE",01:30 Memphis Grizzlies-Los Angeles Lakers # Vamos
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+#EXTINF:-1 group-title="Eventos 20/04 ACE",21:00 Sevilla-Manchester Utd Movistar L. Campeones
+acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
+#EXTINF:-1 group-title="Eventos 20/04 ACE",21:00 Sporting CP-Juventus Movistar L. Camp. 2
+acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+
+#EXTINF:-1 group-title="Eventos 21/04 ACE",01:30 Brooklyn Nets-Philadelphia 76ers Movistar Deportes
+acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+#EXTINF:-1 group-title="Eventos 21/04 ACE",21:00 Espanyol-Cádiz Movistar LaLiga
+acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+#EXTINF:-1 group-title="Eventos 21/04 ACE",21:00 Eibar-Real Zaragoza # Vamos
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 
 
 
