@@ -1,24 +1,13 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 group-title="Eventos 19/04 ACE",01:00 Boston Celtics-Atlanta Hawks # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="Eventos 19/04 ACE",20:00 Real Madrid-Basquet Girona Movistar Deportes 2
-acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
-#EXTINF:-1 group-title="Eventos 19/04 ACE",21:00 Bayern Múnich-Manchester City Movistar L. Campeones
-acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
-#EXTINF:-1 group-title="Eventos 19/04 ACE",21:00 Inter-Benfica Movistar L. Camp. 2
-acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
-#EXTINF:-1 group-title="Eventos 19/04 ACE",21:30 Granada-Barcelona Movistar Deportes
-acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
-
 #EXTINF:-1 group-title="Eventos 20/04 ACE",01:30 Memphis Grizzlies-Los Angeles Lakers # Vamos
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 #EXTINF:-1 group-title="Eventos 20/04 ACE",21:00 Sevilla-Manchester Utd Movistar L. Campeones
 acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
 #EXTINF:-1 group-title="Eventos 20/04 ACE",21:00 Sporting CP-Juventus Movistar L. Camp. 2
 acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+
 
 #EXTINF:-1 group-title="Eventos 21/04 ACE",01:30 Brooklyn Nets-Philadelphia 76ers Movistar Deportes
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
@@ -28,6 +17,54 @@ acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 
 
+#EXTINF:-1 group-title="Eventos 22/04 ACE",02:30 New York Knicks-Cleveland Cavaliers Movistar Deportes
+acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+#EXTINF:-1 group-title="Eventos 22/04 ACE",14:00 Villarreal B-Albacete LaLiga SmartBank TV
+acestream://7791ba828c0226d8f54cef1611889d29fb333247
+#EXTINF:-1 group-title="Eventos 22/04 ACE",16:15 Almería-Athletic Club Movistar LaLiga
+acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+#EXTINF:-1 group-title="Eventos 22/04 ACE",16:15 Cartagena-Sporting de Gijón LaLiga SmartBank TV
+acestream://7791ba828c0226d8f54cef1611889d29fb333247
+#EXTINF:-1 group-title="Eventos 22/04 ACE",16:15 Ponferradina-Andorra LaLiga SmartBank TV 2
+acestream://cf6249379184d88a61f9db617341c6b6e6abb342
+#EXTINF:-1 group-title="Eventos 22/04 ACE",18:30 Real Sociedad-Rayo Vallecano DAZN LaLiga
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+#EXTINF:-1 group-title="Eventos 22/04 ACE",18:30 Real Valladolid-Girona Movistar LaLiga
+acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+#EXTINF:-1 group-title="Eventos 22/04 ACE",18:30 Las Palmas-Levante # Vamos
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+#EXTINF:-1 group-title="Eventos 22/04 ACE",20:00 PESO SUPERPLUMA - MASCULINO Rakhimov-Cordina DAZN 1
+acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+#EXTINF:-1 group-title="Eventos 22/04 ACE",20:45 Barcelona-Gran Canaria Movistar Deportes
+acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+#EXTINF:-1 group-title="Eventos 22/04 ACE",21:00 Real Madrid-Celta de Vigo DAZN LaLiga
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+#EXTINF:-1 group-title="Eventos 22/04 ACE",21:00 UD Ibiza-Real Oviedo LaLiga SmartBank TV
+acestream://7791ba828c0226d8f54cef1611889d29fb333247
+#EXTINF:-1 group-title="Eventos 22/04 ACE",21:30 Los Angeles Clippers-Phoenix Suns Movistar Deportes 2
+
+
+
+#EXTINF:-1 group-title="Eventos 23/04 ACE",14:00 Elche-Valencia DAZN LaLiga
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+#EXTINF:-1 group-title="Eventos 23/04 ACE",14:00 Lugo-Málaga LaLiga SmartBank TV
+acestream://7791ba828c0226d8f54cef1611889d29fb333247
+#EXTINF:-1 group-title="Eventos 23/04 ACE",16:15 Barcelona-Atlético de Madrid Movistar LaLiga
+acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+#EXTINF:-1 group-title="Eventos 23/04 ACE",18:00 Joventut-Real Madrid # Vamos
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+#EXTINF:-1 group-title="Eventos 23/04 ACE",18:30 Mallorca-Getafe DAZN LaLiga
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+#EXTINF:-1 group-title="Eventos 23/04 ACE",18:30 Mirandés-Burgos CF LaLiga SmartBank TV 2
+acestream://cf6249379184d88a61f9db617341c6b6e6abb342
+#EXTINF:-1 group-title="Eventos 23/04 ACE",18:30 Racing-Granada LaLiga SmartBank TV
+acestream://7791ba828c0226d8f54cef1611889d29fb333247
+#EXTINF:-1 group-title="Eventos 23/04 ACE",21:00 Sevilla-Villarreal Movistar LaLiga
+acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+#EXTINF:-1 group-title="Eventos 23/04 ACE",21:00 Alavés-Leganés LaLiga SmartBank TV
+acestream://7791ba828c0226d8f54cef1611889d29fb333247
+#EXTINF:-1 group-title="Eventos 23/04 ACE",21:30 Golden State Warriors-Sacramento Kings Movistar Deportes
+acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
 
 
 
