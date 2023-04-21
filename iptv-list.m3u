@@ -1,13 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Eventos 20/04 ACE",01:30 Memphis Grizzlies-Los Angeles Lakers # Vamos
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-#EXTINF:-1 group-title="Eventos 20/04 ACE",21:00 Sevilla-Manchester Utd Movistar L. Campeones
-acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
-#EXTINF:-1 group-title="Eventos 20/04 ACE",21:00 Sporting CP-Juventus Movistar L. Camp. 2
-acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
-
 
 #EXTINF:-1 group-title="Eventos 21/04 ACE",01:30 Brooklyn Nets-Philadelphia 76ers Movistar Deportes
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
